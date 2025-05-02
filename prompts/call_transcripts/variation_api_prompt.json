@@ -1,0 +1,26 @@
+{
+    "message_template": [
+        {
+            "role": "system",
+            "content": "You are a helpful assistant that modifies text while maintaining its core meaning and style. You will be given a call transcript."
+        },
+        {
+            "role": "user",
+            "content": "Please rephrase the following call transcript {tone}, keeping it realistic for a real estate or mortgage context:\n{sample}"
+        }
+    ],
+    "replacement_rules": [
+        {
+            "constraints": {},
+            "replacements": {
+                "tone": [
+                    "in a slightly different way",
+                    "using different wording",
+                    "with minor variations",
+                    "while preserving the key information",
+                    "in a similar conversational style"
+                ]
+            }
+        }
+    ]
+}

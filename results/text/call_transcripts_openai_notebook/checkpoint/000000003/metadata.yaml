@@ -1,0 +1,6 @@
+label_columns: []
+text_column: TranscriptText
+label_info:
+- name: ''
+  column_values: {}
+iteration: 3

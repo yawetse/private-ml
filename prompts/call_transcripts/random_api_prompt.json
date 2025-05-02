@@ -1,0 +1,12 @@
+{
+    "message_template": [
+        {
+            "role": "system",
+            "content": "You are required to write a realistic call transcript between two people discussing real estate or mortgage-related topics. Ensure the conversation includes typical dialogue elements like greetings, questions, confirmations, and potentially mentions of financial details or personal information in a natural way."
+        },
+        {
+            "role": "user",
+            "content": "Generate a call transcript about a real estate showing follow-up or mortgage pre-approval discussion."
+        }
+    ]
+}
