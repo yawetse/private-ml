@@ -1,0 +1,1001 @@
+HouseID,Address,ListingPrice,Bedrooms,Bathrooms,SquareFootage,LotSize_Acres,YearBuilt,PropertyType,Status
+d9fdc8e4-1053-49c1-9626-6c7232aba091,"118 Nicholas Extensions, Hillsborough, NJ 08214",2309404,3,3.5,3889,1.48,2001,Condo,For Sale
+539afcf7-bd2f-441f-9d19-425d86d462c0,"985 Dawn Junction Suite 219, Princeton, NJ 07205",3326950,6,4.5,5554,2.61,2002,Single Family,For Sale
+f917d042-35bc-4b3d-9528-ea70b372d373,"39400 Cuevas Pine Apt. 923, Lawrenceville, NJ 08117",2438869,7,4.5,5098,3.34,2005,Single Family,For Sale
+b978e23f-aabc-4f8e-a8f7-546a35765a7c,"03016 Cunningham Run, East Brunswick, NJ 07597",2524098,4,6.0,4532,2.33,2014,Multi-Family,For Sale
+527ef9ef-570b-4705-9d19-0d0c86abf6e9,"7626 Goodman Ridges Suite 556, Franklin Township, NJ 07110",1729877,4,4.5,3255,1.23,1987,Single Family,For Sale
+d13a6b85-29d4-4050-aa54-3a5ff4289458,"303 Flores Shoals, Bridgewater, NJ 08605",3886397,4,6.0,5421,2.22,2016,Single Family,For Sale
+e26c16b5-fcb6-4dd2-be76-506bd36710c6,"648 Barbara Port Apt. 718, New Brunswick, NJ 08041",2149232,3,5.0,4218,3.93,2020,Single Family,For Sale
+47f7cb88-7c05-4660-a6d4-6a8a464b4ef1,"5977 Mitchell Wall Apt. 134, Plainsboro, NJ 08348",1095613,3,4.0,3463,1.17,1971,Condo,For Sale
+79584a45-bbfb-457b-95d2-8872f137a36c,"033 David Crossing, Montgomery, NJ 08623",2124717,6,3.5,4274,2.88,1944,Single Family,For Sale
+acfc9ec4-d59e-4eac-a24a-e29eaf9c77b5,"1232 Rachel Causeway Apt. 211, Hillsborough, NJ 07205",3643669,5,4.5,5179,3.61,2001,Single Family,For Sale
+72926d7f-9e63-4c18-bb4d-dca32d6f84d0,"26635 Michael Inlet Apt. 874, Plainsboro, NJ 07187",2152119,6,5.0,4322,3.93,1990,Townhouse,For Sale
+d091e288-f864-4c2e-b6d5-4437ca86865d,"189 Steven Neck, Hopewell, NJ 08280",783825,6,3.5,3308,1.43,1940,Single Family,For Sale
+191c5613-3fac-4dbd-99cc-500ed71c604e,"2091 Skinner Prairie Apt. 208, Woodbridge, NJ 08893",880195,6,2.0,2780,2.35,1997,Single Family,For Sale
+308644f8-a3f0-40be-803f-b81e4b2e00cd,"6727 Dunn Mountain, Piscataway, NJ 07680",3942564,7,5.5,6893,3.8,2006,Single Family,For Sale
+ac591867-dfcc-4288-a3b2-2a3503262ed5,"93424 Jeanette Crossing, Bridgewater, NJ 08120",1500120,4,4.5,3482,1.34,1942,Single Family,For Sale
+afcef5fc-9225-4389-8cd5-bc3c6f2b3649,"02676 Natasha Groves Suite 275, Princeton, NJ 08906",778274,2,3.5,2264,0.87,1982,Single Family,For Sale
+748a705d-1496-4dc2-94da-179767bd6f6f,"8683 Hernandez Trafficway Apt. 825, Hillsborough, NJ 08604",651433,2,2.0,1860,1.82,1947,Condo,For Sale
+53efea8f-cde7-4d67-83ed-8a8d5c1195ab,"8887 Alexander Lights Apt. 827, Bridgewater, NJ 08660",2358436,5,3.5,4054,2.13,1975,Single Family,For Sale
+f33cd1bc-a66a-45db-bfb0-6b7780dc01bd,"22869 Ritter Pine Suite 437, Princeton, NJ 07491",3734441,6,6.0,6327,2.81,1999,Single Family,For Sale
+75f52d91-21af-43ac-a09e-7a1e01716c4c,"91870 Brennan Vista Suite 290, East Brunswick, NJ 07519",950505,6,5.0,3958,2.35,1940,Townhouse,For Sale
+7dcf85b1-e5d4-4790-b2e8-d8813cfc5286,"47412 Emily Key, Plainsboro, NJ 08565",2881242,3,5.5,4721,2.11,1968,Single Family,For Sale
+c5ef6135-1092-4851-a1a5-469cdb095ab7,"7464 Tyler Crossroad Suite 569, Princeton, NJ 08257",2455244,4,4.5,4546,4.08,1962,Single Family,For Sale
+253b5d0c-9776-4ec2-bb89-a9c5d6f71567,"59718 Jesse Camp Suite 615, Montgomery, NJ 08581",1161338,3,4.5,3369,1.42,1975,Condo,For Sale
+cc74a866-bc8d-45bf-8877-cdf141e617fd,"918 Barker Ferry Apt. 529, Montgomery, NJ 07139",1534597,2,4.0,2852,3.46,2009,Single Family,For Sale
+12de8b67-6fcd-4669-8dcd-223a1d955ab4,"8638 James Track, Bridgewater, NJ 07271",2897310,4,5.5,4629,4.3,2021,Single Family,For Sale
+60b43c14-ec20-49fc-a8fe-99cb7bc5a95c,"47738 Adkins Islands, Montgomery, NJ 07159",1364898,5,3.0,3228,0.86,1963,Single Family,For Sale
+436a4c69-651a-4bab-b77a-058de90686ef,"6595 Patrick Cape, East Brunswick, NJ 07488",2411264,7,5.0,5012,1.97,1973,Single Family,For Sale
+dc3c4e92-ec94-4f39-a519-b37b0bff6b0e,"193 Carpenter Road Suite 458, Hillsborough, NJ 08212",1134362,4,5.0,3360,3.13,1997,Townhouse,For Sale
+5c505c58-6bcf-4f48-a996-49d111149bf1,"97532 Michael Walks, Plainsboro, NJ 08671",2886704,5,5.0,5006,3.89,2013,Single Family,For Sale
+bf3fafa0-1318-4c1f-b480-6d230356b4a8,"071 Kristen Island Suite 511, West Windsor, NJ 07342",1060521,5,3.0,3333,0.98,1967,Single Family,For Sale
+471346ca-3a0e-4119-801d-c6b7f3d997f9,"509 Thornton Rapids, East Brunswick, NJ 07557",1122553,6,4.5,3744,1.48,1965,Single Family,For Sale
+59ecfd0f-95cd-44a3-aaf7-fd604658107c,"611 Pratt Estate, South Brunswick, NJ 07791",3926546,7,5.0,5906,2.74,1986,Single Family,For Sale
+6c9e0f4c-8800-4289-958f-9c3cf252599a,"324 Duarte Hills Suite 408, South Brunswick, NJ 08521",2821249,4,4.5,4716,2.89,1983,Single Family,For Sale
+e835d793-d391-42c8-b4c6-7a80a0649254,"9603 George Summit, Princeton, NJ 07492",1630807,6,4.0,4524,2.96,1996,Single Family,For Sale
+0405078e-c869-4777-b590-ac4853091068,"44030 Ray Squares Suite 179, East Brunswick, NJ 08446",623772,2,4.5,2104,0.73,1976,Townhouse,For Sale
+9f99cdb3-c45c-409f-9188-3713ca89a79a,"768 Padilla Avenue, New Brunswick, NJ 07148",2580843,4,6.0,5068,3.83,1982,Single Family,For Sale
+16ecd521-298e-436d-9af6-1aa72a8b6b5a,"39332 Matthew Village, Piscataway, NJ 07979",3154872,7,5.5,5681,3.82,2009,Single Family,For Sale
+78202537-1b15-4fed-b6e9-cc1a8a2f21ec,"89108 Stephanie Villages, Bridgewater, NJ 07400",1413007,6,5.5,4254,0.89,1950,Single Family,For Sale
+f42f4e85-aba1-4718-bf88-7fe82aa3a0e9,"35047 Courtney Gateway, Montgomery, NJ 08664",1161410,5,4.5,3806,0.92,1957,Multi-Family,For Sale
+5a7d37eb-0aa6-4921-8da1-b21fdb53e760,"162 Christina Path Apt. 416, East Brunswick, NJ 07264",2021066,4,4.5,3963,1.26,1993,Single Family,For Sale
+f22ab36c-e045-43e3-a2d4-8fae997fa3e5,"39986 Penny Lights, Hillsborough, NJ 08149",1451423,6,4.5,3932,1.55,1972,Single Family,For Sale
+de4144b3-6361-4906-95ea-d22bfc2a6bb1,"1819 Kylie Prairie Suite 905, Lawrenceville, NJ 07781",1402645,4,2.5,3410,1.61,1940,Multi-Family,For Sale
+e6d3a658-ac72-419b-9a12-3e88d9215a67,"93533 Walker Rapid Suite 558, Hopewell, NJ 08388",1461595,3,5.0,2887,3.42,1976,Single Family,For Sale
+0fab44bd-4b25-42f1-b9a5-aa81e42d44ac,"44993 Isabel Ranch, Hopewell, NJ 07625",2625691,7,5.5,5297,2.33,1980,Single Family,For Sale
+f50961b8-fe23-4c83-8b2b-9bee676a120b,"6753 Bell Ridges, Princeton, NJ 07421",743012,2,3.5,2200,1.64,1998,Townhouse,For Sale
+39f91fbb-d7d5-4b33-a007-180b58783449,"22396 Carla Greens Apt. 063, South Brunswick, NJ 08843",2200486,6,3.5,4932,3.43,1984,Condo,For Sale
+4d25ff4b-eb0a-4cd7-b4e9-6e38a422bb1f,"8185 Marshall Island Suite 733, West Windsor, NJ 07356",794462,3,4.5,2970,1.3,1945,Single Family,For Sale
+d6d837d4-b1e6-4463-ba01-a29dd7eeea61,"682 Carey Terrace, Bridgewater, NJ 07752",2535436,6,2.5,4675,2.38,2001,Single Family,For Sale
+1e7925ad-63ec-44e3-b7d7-44de876fd116,"152 Brady Knolls Suite 197, West Windsor, NJ 07271",3069477,3,4.5,4975,2.09,2003,Single Family,For Sale
+ba22169c-c21a-4b0b-8017-37cb914336db,"413 Best Viaduct, West Windsor, NJ 08845",1053201,2,4.0,2282,2.46,2023,Townhouse,For Sale
+e7a56edd-4d50-424b-aa7d-450d46ee0e0e,"2424 Brown Fall Apt. 136, Lawrenceville, NJ 08126",866150,2,2.5,2125,2.24,1986,Multi-Family,For Sale
+9d436a52-96d3-4934-b244-4d28b0908686,"3581 Hill Spurs Suite 269, New Brunswick, NJ 07698",2460503,5,4.0,4592,3.56,2012,Single Family,For Sale
+9e7f06d8-a7e4-4d87-8228-356e4ff64a6f,"75222 Mia Loop Apt. 670, West Windsor, NJ 08294",3984560,3,6.0,5757,2.25,2006,Single Family,For Sale
+80366c59-c944-4cea-b8ac-dae3e3ca5e7c,"12149 Morrison Prairie Suite 389, Montgomery, NJ 07533",2222942,3,6.0,5111,2.25,2000,Condo,For Sale
+5af60a74-6f61-44c7-8370-b4d4ba1b22d9,"89752 Justin Via, Bridgewater, NJ 08500",2975277,7,4.0,5777,4.36,1994,Single Family,For Sale
+862ade44-580e-454c-a0c6-8f79450f8da1,"82842 Bush Lodge Apt. 938, Plainsboro, NJ 07166",3115410,5,4.5,4921,2.56,2012,Single Family,For Sale
+23a2a838-ab83-4c64-9f57-f9257fd8985f,"798 Sheri Course Apt. 645, East Brunswick, NJ 08007",1026996,5,3.5,3635,2.8,1957,Multi-Family,For Sale
+32e4fd50-ab46-469d-b167-18fcba1cd338,"01341 Nicole Drives, Bridgewater, NJ 07265",1537841,3,3.5,3169,3.0,2015,Single Family,For Sale
+b296aef7-7662-4be8-bb7d-ecc60b498659,"7998 Leonard Extension, Hopewell, NJ 08468",3894499,6,5.5,6086,3.92,1996,Single Family,For Sale
+1349d0ce-d77d-49c0-9291-5445fdbb125d,"268 Lynch Place Suite 585, Woodbridge, NJ 08479",3453472,4,3.5,5523,2.21,2022,Townhouse,For Sale
+7e179a63-f6c1-4304-a05f-443e81bad6a7,"049 Hodge Villages, Piscataway, NJ 08409",1851667,6,4.5,3613,2.95,1949,Townhouse,For Sale
+5ec90b99-576e-4971-afad-c2f45304a550,"2762 Jennifer Shores Suite 609, Woodbridge, NJ 07721",1303071,5,3.0,3402,0.63,2002,Multi-Family,For Sale
+37ba738e-33ee-4a53-912a-64fcca173be1,"87223 Erickson Way Suite 555, Montgomery, NJ 07614",2863655,3,3.5,4168,2.79,1963,Multi-Family,For Sale
+67213ea1-7c4f-4e51-8882-8c6db93cff9b,"48976 Mary Divide Suite 586, Bridgewater, NJ 08148",2015904,6,2.5,4132,0.93,1940,Townhouse,For Sale
+522e62ae-a392-4626-bf32-f36fab0a41c0,"2224 Mcguire Mission, Woodbridge, NJ 07256",3943527,4,5.0,6064,3.17,2018,Single Family,For Sale
+bfe212ce-7a28-4b85-bd29-15ff8697c659,"633 Jennifer Mission Apt. 780, Bridgewater, NJ 08888",2043835,6,4.5,4065,1.69,2013,Single Family,For Sale
+1060be5a-0f11-462d-92f0-a68703727d8d,"66031 Anthony Rest Apt. 067, Princeton, NJ 08077",2150487,6,5.5,4358,1.2,2022,Single Family,For Sale
+dd289fa7-d0fd-43a8-875a-7e9739f8d983,"6374 Roberson Road Suite 673, New Brunswick, NJ 07488",2929523,3,4.5,3871,2.36,2009,Townhouse,For Sale
+5efb41f8-b2ac-4abc-b658-6c21f9874d8a,"376 Bentley Springs, Piscataway, NJ 07644",629455,5,5.0,3340,2.49,1991,Condo,For Sale
+d1310cb1-b589-45c7-bf3d-587365c074f4,"557 Fisher Island, South Brunswick, NJ 07084",787259,6,4.5,3770,2.34,1952,Single Family,For Sale
+9eb67c37-9dcd-4e2c-baba-51b5df7676a1,"5500 Richardson Walks Apt. 502, Edison, NJ 07346",3344448,3,5.5,5270,2.21,2009,Townhouse,For Sale
+3784e82a-8935-48ae-9743-f01b290a1b34,"081 Kim Junction Suite 225, Princeton, NJ 08909",3943159,5,5.0,6263,4.73,2011,Single Family,For Sale
+847ac6ae-5d80-4cb8-b3a0-a0ae93f1526d,"54684 Kimberly Way Suite 517, Woodbridge, NJ 08968",1221385,6,2.0,3516,1.44,2025,Single Family,For Sale
+4ba96b3b-6aae-4325-8da4-a086e47eba46,"827 Cobb Fords, West Windsor, NJ 08024",3755505,6,4.5,5925,4.29,1954,Single Family,For Sale
+59026413-2250-4da3-a8d9-e3970d45993c,"228 Boone Trail Apt. 691, Lawrenceville, NJ 07268",1776628,6,3.5,4201,2.03,2000,Single Family,For Sale
+ec22b320-39a2-4d7d-96e1-7070af8b9ab1,"7220 Caroline Light Apt. 586, Edison, NJ 07176",1066582,5,2.5,3775,0.58,2001,Single Family,For Sale
+fdc0ea0d-0546-43a5-a6f5-10cdd88b0aa9,"2543 Michael Drive Suite 642, Franklin Township, NJ 08782",1220107,3,4.0,3135,1.04,1992,Condo,For Sale
+3af98215-fd47-4030-85a5-8c17460f5321,"043 Bradley Manors, Woodbridge, NJ 08756",804807,2,2.5,2153,1.04,1979,Multi-Family,For Sale
+823697a1-1d14-4382-a02f-6b0c6f55a0eb,"685 Carl Fords, Montgomery, NJ 07672",1304582,6,5.0,3859,2.0,1965,Townhouse,For Sale
+242872b0-a688-46a5-8dbb-ce591f20d5d9,"33134 Moore Inlet Suite 066, West Windsor, NJ 07596",3500147,5,5.0,5810,2.04,2013,Townhouse,For Sale
+75471b8b-b70e-40da-8445-52952519c13d,"1728 Vang Vista, Plainsboro, NJ 08628",2624593,3,6.0,4258,3.86,1949,Multi-Family,For Sale
+d2e69ea7-15da-4a1b-99c1-2ab1f2eacdb9,"7313 John Motorway, Franklin Township, NJ 07590",2381809,5,6.0,4775,3.07,1958,Single Family,For Sale
+7d396f83-bf83-4760-b94d-47c40bf1632e,"33437 Martin Lock Suite 397, Bridgewater, NJ 08117",931124,3,4.0,2940,2.77,1946,Multi-Family,For Sale
+181f0263-ae0b-4f08-8127-79a476739cc1,"87141 Charles Branch Apt. 123, New Brunswick, NJ 08200",3805308,6,3.5,5802,4.18,2004,Single Family,For Sale
+b0938234-1c43-4af4-8602-4c76d03569c4,"5452 Kelsey Underpass, East Brunswick, NJ 08482",3841662,5,6.0,5666,1.97,1997,Townhouse,For Sale
+060f434c-aacb-4293-b64a-310ea066ab31,"205 Martha Turnpike Suite 582, Edison, NJ 07209",2176146,3,5.0,3974,3.9,2000,Townhouse,For Sale
+54ddff82-70d4-4bab-89b9-8affa8bb7a9a,"8741 Watson Cove, Woodbridge, NJ 08744",1453818,5,5.5,4403,2.59,2013,Condo,For Sale
+a75297af-2fe5-4543-a27e-179249040ad9,"8372 Sheri Mount Suite 280, Franklin Township, NJ 07113",1057744,4,4.0,3125,2.78,2010,Single Family,For Sale
+d7d7bb84-ed6d-4461-ba02-e872f9e11134,"76175 Melissa Roads, Lawrenceville, NJ 08695",1086791,3,5.0,2964,1.46,1941,Single Family,For Sale
+d49fa67e-1b72-42a4-b5a4-a60d2249bdce,"5349 Robin Park, Montgomery, NJ 08272",1890040,3,4.5,3551,3.27,1999,Single Family,For Sale
+0a32b08c-e555-4d24-8bd9-cbc4d72ebbdb,"4740 Warren Motorway, East Brunswick, NJ 07193",3463249,4,5.0,5357,3.5,1982,Single Family,For Sale
+028c8b83-0575-469f-ba9a-c5e416506240,"45334 Stanley Crescent Apt. 276, West Windsor, NJ 08765",737961,3,5.0,2707,2.14,1966,Single Family,For Sale
+54be8524-3cbe-4190-ac6a-f35e3127b2f1,"8596 Angela Extension Suite 986, Lawrenceville, NJ 08023",2564775,4,5.5,4487,2.93,1941,Single Family,For Sale
+0f90ec27-a76e-48d2-aa86-2f18a3a82255,"3460 Christopher Lane Apt. 214, Plainsboro, NJ 08426",2465135,3,4.0,4242,2.59,2001,Townhouse,For Sale
+f6622321-4590-4221-a9ac-f8b4b4e5b2c4,"7331 Alvarez Mount, West Windsor, NJ 07616",2487352,6,4.0,4741,3.3,2013,Multi-Family,For Sale
+e40d0528-0229-43eb-aa33-76795063f936,"40926 Shane Brook, Bridgewater, NJ 08925",2340287,3,3.5,4087,2.31,1965,Townhouse,For Sale
+3ee84b96-a4b6-422d-8ec3-3ae4420e45e7,"5232 Luis Tunnel, Woodbridge, NJ 07580",3583691,7,5.0,5728,4.18,2019,Single Family,For Sale
+d216d3a3-8379-4819-8239-cfecae6f0f8d,"755 Harris Track, Edison, NJ 07297",3076762,3,4.0,4609,3.92,2019,Single Family,For Sale
+1fb90c76-76f4-4d6e-8d1c-e138bf6a9897,"42106 Zachary Plaza, Montgomery, NJ 08323",2957986,3,4.5,5099,2.02,1971,Single Family,For Sale
+ea09b8c0-3978-4066-9537-4769d43239ee,"758 Derek Mills, East Brunswick, NJ 07281",2557879,5,4.0,4380,3.47,1954,Townhouse,For Sale
+108c7cc4-2cf4-4668-9ab1-de23177711c2,"8635 Cabrera Forest, Princeton, NJ 07805",1695226,6,3.0,4588,3.48,1974,Condo,For Sale
+4aa4324f-f8b0-4835-a7c8-9349b3471044,"475 Janet Port, South Brunswick, NJ 07257",2580026,6,5.0,6326,3.8,1992,Condo,For Sale
+2e70e5e0-771b-42cf-8c5d-cd914fc1130c,"21876 Christopher Corner Apt. 876, Piscataway, NJ 08235",517990,2,1.5,1674,1.97,1943,Townhouse,For Sale
+5b6da1ef-164a-41be-b3bc-2a780db58ebb,"34214 Lynn Coves, Plainsboro, NJ 08840",945372,6,4.0,3807,1.54,1968,Single Family,For Sale
+65c83d9f-f4e7-4a92-ba34-88048e3edab7,"5520 Kristin Street, New Brunswick, NJ 08431",2418799,6,4.5,5458,1.41,1960,Single Family,For Sale
+63a42223-7ec6-4a19-9414-bdba8c4fea1d,"36763 Tina Freeway, Franklin Township, NJ 07759",2643941,6,3.0,4393,2.13,2021,Single Family,For Sale
+fb003b5e-a448-48ef-9eaf-330029e527e3,"8123 Denise Tunnel Suite 781, Montgomery, NJ 08330",2703728,3,5.0,4271,2.18,1950,Multi-Family,For Sale
+558388fe-d777-40e0-8f98-26ba2f41ccd7,"8565 Cody Plains Suite 536, West Windsor, NJ 08177",2671295,7,3.0,4934,2.43,2022,Single Family,For Sale
+defb82af-bdcd-4f94-a389-58500ebcaf30,"791 Amy Flat, Woodbridge, NJ 08499",1158305,5,2.5,3255,3.24,1971,Multi-Family,For Sale
+c83274c3-f37e-445c-a762-3a94ea00b7eb,"933 Novak Hills Apt. 699, Woodbridge, NJ 08122",1330557,5,3.0,3286,2.66,1978,Condo,For Sale
+1a3a68c9-6e1c-4c28-9e13-50e6b3f11b1c,"24659 Garcia Fork, Hopewell, NJ 07061",1423994,3,4.5,3083,2.02,1970,Single Family,For Sale
+c7dda977-82e5-4c5c-80e5-b58247b65028,"3810 Ernest Trail, West Windsor, NJ 08602",2401579,4,3.0,3918,3.8,1949,Single Family,For Sale
+63840fd7-964d-45f9-aef2-b07db0e432bd,"935 Yang Loop, New Brunswick, NJ 07325",1105751,6,3.5,3317,2.04,1960,Multi-Family,For Sale
+8e2eff50-9a32-4c7b-9409-7ad0d103564c,"237 Tonya Village Suite 857, Lawrenceville, NJ 07102",3802756,3,6.0,5592,4.2,1999,Single Family,For Sale
+f2fa917e-1eeb-4766-a587-3c8ffa4fbbc7,"397 Walsh Corner, New Brunswick, NJ 07597",2156122,3,4.0,3684,2.76,2019,Townhouse,For Sale
+0df3364c-0a3e-4a19-8462-51828fed70a2,"127 Edward Creek Suite 121, Edison, NJ 08850",2053140,4,4.5,4236,1.08,1955,Multi-Family,For Sale
+4e33b966-6395-4272-8c48-55591ddaf352,"87720 Mcgee Haven Suite 771, West Windsor, NJ 07006",979955,6,5.0,3524,2.7,1948,Single Family,For Sale
+04f8ede8-8000-4ea8-9263-7270a8551e8d,"6990 Laurie Club, East Brunswick, NJ 07918",2663122,6,4.5,5010,2.63,1990,Townhouse,For Sale
+53510dc0-fb5f-4ccb-9faf-3d2fd5acdfb4,"9177 Lawrence Views, Hillsborough, NJ 08100",3085843,7,3.5,5481,3.07,1969,Single Family,For Sale
+c789ab30-9973-4faa-8dbf-904ea3a36997,"4917 Elizabeth Ridge Suite 732, Edison, NJ 07366",2162068,3,4.5,3928,2.19,2016,Single Family,For Sale
+cf9d9fb7-8015-413f-be6c-d89c5fb4a649,"073 Thomas Common, Hopewell, NJ 08732",1604172,3,4.0,2716,0.79,1948,Single Family,For Sale
+a5ac0428-b903-44e3-a8e1-f54915fd5801,"8120 Perez Roads Suite 892, New Brunswick, NJ 07619",3336602,5,3.5,4630,3.19,2012,Single Family,For Sale
+30b787f4-bc76-4b80-b875-a9e77ec7fece,"315 Harris Course Suite 275, Piscataway, NJ 07006",1719093,5,5.5,4712,3.09,1964,Condo,For Sale
+41a39309-c82a-4377-951b-ae7d48ff5aaf,"010 Davis Parkways Suite 159, Piscataway, NJ 08020",1583580,5,3.5,3657,1.8,1977,Single Family,For Sale
+9cc1e94a-0855-4b10-8eb3-031aa3b1a32f,"012 Brandi Cape Apt. 630, Hillsborough, NJ 07663",3201489,5,6.0,5340,4.07,1993,Single Family,For Sale
+8757cd6f-47c6-47dd-ade3-b2f230da990d,"970 Taylor Roads, Hillsborough, NJ 08592",2882545,6,4.0,5090,4.3,2001,Single Family,For Sale
+213773ff-5ab0-4a5a-add7-61aaa0aeb10a,"7417 Soto Turnpike, Montgomery, NJ 07307",2204400,5,2.5,3792,1.47,1942,Single Family,For Sale
+61179f48-44da-4dbd-9e93-4c3884204ca0,"5953 George Centers, Hopewell, NJ 08151",799666,4,4.5,3466,1.39,1972,Single Family,For Sale
+efb4ffc0-77c3-4911-83d0-2f68dc07c83d,"445 Jimenez Glens, South Brunswick, NJ 07370",1399363,6,4.5,3918,3.4,1945,Single Family,For Sale
+ddeec7b4-37ff-407f-892a-84c75221362e,"493 Danielle Rest Suite 815, Hillsborough, NJ 08349",3729681,6,4.5,5510,3.93,2011,Single Family,For Sale
+2f3adc3e-50c9-4afd-af08-5c8ab38d267d,"2721 Berry Common Suite 047, Plainsboro, NJ 08804",1099530,2,5.5,2799,2.26,1984,Condo,For Sale
+c5ef09f9-8673-4bc5-be1d-9a5f55f14507,"9812 Terry Islands Suite 051, West Windsor, NJ 08012",2723144,7,4.5,4953,2.42,1948,Single Family,For Sale
+2e3114a5-f857-4c69-a03c-2f4aa7e3fb64,"491 Bryan Ways, Woodbridge, NJ 07876",747080,2,2.5,2570,0.82,1982,Single Family,For Sale
+1196124d-3ed4-470b-a80f-683000cfa4b8,"1655 Anna Haven, Franklin Township, NJ 07822",2517373,3,4.0,4444,1.52,2007,Single Family,For Sale
+1661e636-13f6-497a-96e2-9c052b4ba79b,"8463 Clark Avenue Suite 545, Hopewell, NJ 07389",1991705,2,5.5,3493,3.29,2009,Single Family,For Sale
+11b3e9ec-7490-4788-b471-87cad5c9e6b4,"44907 Dean Burgs, Hillsborough, NJ 08023",2719135,7,4.5,5122,3.94,1961,Single Family,For Sale
+5e29a041-6e88-416d-aebd-b73d1829db22,"7109 Johnson Rapids Suite 160, New Brunswick, NJ 08788",2667553,6,5.5,5354,3.51,1964,Single Family,For Sale
+dcbdfec5-24ac-42df-84a6-f478e48c5346,"82706 Morales Roads Suite 880, West Windsor, NJ 08936",1974283,2,4.0,3678,1.19,1983,Single Family,For Sale
+e9126c07-7e04-419d-9c9b-e15e6daa7229,"9328 Juarez Plaza, Woodbridge, NJ 08730",3022988,3,4.5,5961,3.63,1949,Condo,For Sale
+3f032993-fffa-49fd-ad84-71882b0a22b9,"486 Lane Curve, Hillsborough, NJ 07781",2094533,6,5.0,4754,2.63,2018,Single Family,For Sale
+fe77ea6f-3e34-4516-9062-e48d797bd454,"927 Mayer Meadows Suite 834, Edison, NJ 07357",997316,5,5.5,3569,1.49,1948,Condo,For Sale
+b7d45af7-c048-420c-abac-4d68f63eb58e,"89728 Curtis Greens, Princeton, NJ 08085",3177182,5,6.0,5932,4.9,2020,Condo,For Sale
+56a493b3-a614-4c2f-b29a-a894384be997,"7807 Obrien Mission, Montgomery, NJ 08939",893593,3,4.0,2429,1.01,1940,Condo,For Sale
+bd42e9d4-5cfb-49d4-a937-abc52206236a,"2428 Nicholas Green, Woodbridge, NJ 08809",1817211,3,3.5,3860,1.2,2003,Single Family,For Sale
+ec91c437-5afc-4a67-8205-9ea2d4658c66,"10203 Marc Motorway Apt. 594, Montgomery, NJ 07839",3520798,5,6.0,5827,3.63,2009,Single Family,For Sale
+f43c300b-b2b0-4d0b-98a8-182c5eb12927,"31070 Bradley Viaduct, Hopewell, NJ 08055",3364265,4,4.0,4943,1.73,2000,Multi-Family,For Sale
+9003f637-7519-4960-af09-a0721c9c2974,"14444 Olson Rest Suite 214, South Brunswick, NJ 07035",971453,2,4.0,3592,3.11,1982,Condo,For Sale
+bb07b184-8996-4417-9207-2b1fa979af1d,"471 Sutton Divide Suite 427, South Brunswick, NJ 08508",1334755,6,5.0,4050,0.92,1940,Multi-Family,For Sale
+5bb6e901-bf46-412e-9161-ac1920fa3c45,"79198 Patricia Club, Hopewell, NJ 08846",2277007,4,3.5,3781,3.34,1950,Townhouse,For Sale
+19b60ac5-d9d0-4a09-aa8f-c51b4c666195,"2289 Emily Throughway, Franklin Township, NJ 07192",2934587,3,5.0,4746,2.72,2008,Single Family,For Sale
+d9752def-5b93-4b74-a9fa-73cddbbd1088,"05541 Anthony Ridge, West Windsor, NJ 07484",1576485,4,4.0,3149,0.83,1998,Single Family,For Sale
+628835a0-c6cc-4c14-ab3c-102ddc3046db,"125 Marcus Dale, Plainsboro, NJ 08352",1634293,4,5.0,4024,1.55,1982,Single Family,For Sale
+91595a18-626a-47a3-b240-313e2eb2c00f,"9972 Hall Mountains Apt. 791, Bridgewater, NJ 08788",3854535,6,6.0,6394,3.72,2024,Single Family,For Sale
+229a5e28-441a-4340-9e47-bf0a674059a0,"25145 Martinez Villages Suite 355, Princeton, NJ 08239",2537392,6,4.0,4639,3.77,1948,Multi-Family,For Sale
+0ce9b1a1-9ef2-4a7a-9a59-a98a1a09c29b,"79697 Daniel Mission, New Brunswick, NJ 07895",3381935,5,5.0,5900,4.47,2015,Townhouse,For Sale
+1fdeef77-ed6f-4865-a6f7-b75c1dda5eb5,"0645 Mike Union, New Brunswick, NJ 07633",1847836,2,5.0,3514,1.21,2016,Townhouse,For Sale
+0fc19c9c-4c17-4193-9e2b-0aea64a4ea48,"923 Katie Camp Apt. 146, West Windsor, NJ 08178",2830247,3,5.0,4765,2.21,1974,Single Family,For Sale
+754e6b61-9a99-4321-9814-c42716fdad7a,"2121 Lang Forest, Princeton, NJ 08658",753147,5,2.5,2247,2.82,1957,Single Family,For Sale
+34c47764-f45a-4252-b56b-449af87de16e,"27557 Anderson Stream, Princeton, NJ 07003",1239532,5,4.5,3436,2.38,1952,Single Family,For Sale
+9484cb19-0489-4aa9-96d4-e266dba81138,"615 Christopher Point Suite 505, Edison, NJ 07091",2878592,5,6.0,4855,1.81,2021,Single Family,For Sale
+975db970-0e12-41ee-86f1-eb2a144c7afa,"423 Alexander Mission Apt. 528, Woodbridge, NJ 07307",2608605,7,4.0,5254,2.37,1993,Single Family,For Sale
+18e1abeb-df57-4dcd-a08e-32b0cc02d390,"088 Billy Unions, Woodbridge, NJ 08396",2772211,5,5.5,5066,3.24,1948,Single Family,For Sale
+82c567e8-1e91-4ac7-84f8-55d28a4abde4,"620 Wolf Passage, Princeton, NJ 08681",2562287,5,5.0,4758,3.47,1949,Single Family,For Sale
+2a09cac3-be05-4c95-b6b3-6db3be245830,"1549 Blanchard Mountain Apt. 155, Piscataway, NJ 07866",1303813,6,3.5,3725,1.47,1976,Multi-Family,For Sale
+e20cdf9d-2371-43d6-a660-1dd21ce7d6a8,"28989 Hunt Village, Piscataway, NJ 07578",3705317,7,6.0,7000,2.65,1942,Single Family,For Sale
+f9489a44-15dc-401f-9b70-05141442f330,"954 Allen Fields, Montgomery, NJ 07102",1781513,4,6.0,5149,2.44,1961,Condo,For Sale
+abefc8ad-ed0e-4c27-80a6-f50ccf4c8cec,"576 Joe Track, Woodbridge, NJ 08370",807551,4,1.5,2809,0.74,1966,Single Family,For Sale
+5184e511-0a31-40c1-b73e-5ee09330e4f8,"0058 Laura Greens Suite 871, South Brunswick, NJ 07524",3924197,3,6.0,5369,4.84,2024,Single Family,For Sale
+2157a506-7560-42c0-a9d0-c161cd599c2d,"116 Parker Island Suite 735, Plainsboro, NJ 07944",1597599,6,4.0,3865,0.75,1988,Single Family,For Sale
+d4c1031c-5d50-4bd7-81d4-77814c1def30,"239 Harper Meadow Apt. 753, New Brunswick, NJ 07693",3645715,4,3.5,4995,2.12,2004,Townhouse,For Sale
+03dea664-e3ee-425e-a6de-f3a76c6d5fd7,"4582 Andrew Canyon, Hopewell, NJ 07326",921710,3,5.0,2821,3.08,2009,Single Family,For Sale
+f6fa093a-3687-4120-8efd-b37b60837789,"09568 Julie Port, Franklin Township, NJ 08126",2402222,5,4.5,4627,2.67,1989,Single Family,For Sale
+d3c81b4d-29f5-4e13-b05d-06056956ae38,"98935 Ashley Court, Bridgewater, NJ 08066",2022526,4,5.5,4383,1.2,1942,Multi-Family,For Sale
+ba3087e4-b2b4-4806-8852-0f4e5f02ddd0,"3860 Mary Creek, South Brunswick, NJ 07988",2184340,5,2.5,3949,2.56,2011,Townhouse,For Sale
+18ef4071-b375-4657-a3bc-227a1f5df5d2,"648 Tina Mountains, Franklin Township, NJ 08398",2302313,7,3.5,4306,3.75,1974,Single Family,For Sale
+10c7232f-9491-4a9e-b7e6-d4aee697b89e,"54302 Townsend Cliff, Hillsborough, NJ 08590",1942698,6,4.5,4364,0.88,1968,Single Family,For Sale
+bb021d45-7b2d-4d45-a138-01a52c7d05ee,"890 Kevin Cliffs Suite 753, Hillsborough, NJ 07327",2012341,5,3.0,3854,3.79,1983,Townhouse,For Sale
+75409b41-efe4-476d-b054-33e263bc70fe,"08183 Andrew Lock, Franklin Township, NJ 08168",2601853,3,5.5,4046,3.81,1985,Townhouse,For Sale
+10ec6320-a7d7-4612-85c7-71f03ef8ee38,"9234 James Mall, Princeton, NJ 07828",2491968,7,3.0,4983,2.73,1952,Townhouse,For Sale
+c85326fd-d211-4099-b31d-b56119aa5d90,"7559 Thompson Mount Apt. 839, Hillsborough, NJ 08980",1379331,6,5.0,4308,2.22,1949,Townhouse,For Sale
+11a49252-c71b-487c-b3ea-a351584a7f42,"15106 Wright Mount, Princeton, NJ 07193",2591018,4,3.0,4612,3.37,1966,Townhouse,For Sale
+1b081f7e-432a-43ab-bb51-62c60ed97bee,"89326 April Field, Bridgewater, NJ 08807",3923669,4,6.0,5626,2.79,2004,Single Family,For Sale
+0cedaf89-3f73-4267-9839-9f7dae5097af,"480 Connie Via, Lawrenceville, NJ 08911",3062888,6,3.5,4881,3.27,2008,Single Family,For Sale
+1ecdf535-20cd-4c42-9ad4-310a9a652a99,"0315 Osborn Village, Hopewell, NJ 08122",2866343,3,5.0,4447,1.81,1956,Single Family,For Sale
+8c479e19-61d6-42ba-8bb3-bb38d76e4de2,"1877 Michael Vista, West Windsor, NJ 07342",3293018,4,6.0,5122,2.4,2006,Multi-Family,For Sale
+9bd6c77a-dc7c-40a1-8dbd-bd1d1a00e068,"542 Dakota Island, Piscataway, NJ 08026",791734,5,1.5,3014,1.18,1979,Condo,For Sale
+52052715-8ac3-4b9c-b842-cabcf8eca1fb,"141 Elizabeth Inlet, Franklin Township, NJ 07453",800289,5,3.0,2833,2.78,1984,Single Family,For Sale
+6a93408b-b035-4bcb-86d2-30173f4d11bb,"17577 Justin Haven, Franklin Township, NJ 07914",2327575,7,6.0,6549,2.37,2019,Condo,For Sale
+dfffbe07-7761-407e-ae28-3f5c2b4d8462,"40868 Elizabeth Ports, Lawrenceville, NJ 07424",3283772,5,5.5,5388,4.42,2008,Multi-Family,For Sale
+48de7ef8-9f95-4a99-a95c-52e5a0bc1069,"41790 Smith Plains, New Brunswick, NJ 07332",830804,5,4.0,3256,0.28,1980,Multi-Family,For Sale
+4b330a5b-5eab-40da-8c13-96d43f81fe0b,"22633 Estes Forest, Montgomery, NJ 08052",999873,6,3.5,2861,1.61,1977,Townhouse,For Sale
+40d2739b-fa72-4061-9493-cdcf981e19c4,"6896 Ryan Glen, Woodbridge, NJ 08054",1167517,2,2.0,2042,1.24,1951,Multi-Family,For Sale
+dfd762fc-43ee-4f36-b800-9cbe084bdbee,"233 Matthew Ville, Princeton, NJ 08488",3419450,5,3.5,4958,2.86,2022,Single Family,For Sale
+35ec4b75-c412-4df5-b8aa-5944319ee92b,"693 Green Drives, Bridgewater, NJ 08484",3489472,3,3.5,5260,3.69,1945,Single Family,For Sale
+732003ef-128d-4dfd-bf0d-4514a1b109b7,"82868 Richard Trafficway Suite 633, Hopewell, NJ 08812",1999338,3,2.5,2779,1.09,2015,Single Family,For Sale
+ad5ff5a9-b2a4-4722-a052-425f735fcdc2,"440 Moore Lodge, Princeton, NJ 07485",1916580,2,4.0,3202,3.06,1975,Single Family,For Sale
+e8302ce3-827a-4ff3-bc89-f2089d2d5613,"35927 Rogers Drive, Piscataway, NJ 08543",1745639,5,3.0,3337,2.65,1993,Single Family,For Sale
+80d4c7a1-538b-424f-bfde-07ad96bffa9b,"261 Elliott Pass Suite 181, New Brunswick, NJ 07873",795410,5,2.0,3195,0.52,1950,Multi-Family,For Sale
+c938bee1-5222-4da2-9dd0-91cfb65c69c7,"44787 Kevin Spurs, Hopewell, NJ 08883",2558426,6,2.5,4868,2.65,2004,Townhouse,For Sale
+102258f1-6df6-4884-978d-8e3e1a29e15f,"21152 Terry Plaza Apt. 967, New Brunswick, NJ 08560",1553753,6,3.0,3626,3.05,1980,Single Family,For Sale
+bdf9a64e-6ed1-4e76-91c9-e2675b2381dc,"9357 Murillo Highway, Hillsborough, NJ 07784",2119351,2,5.0,3656,1.08,1962,Single Family,For Sale
+c40f87b3-05ac-42a8-b1fd-8a334c9cfec5,"73406 Wright Trace, Woodbridge, NJ 08351",1041869,4,5.0,3057,3.18,1963,Townhouse,For Sale
+98426e9d-e608-430a-ae31-7c7d0d642df3,"56463 Hamilton Alley Suite 591, Franklin Township, NJ 07687",746033,4,1.5,2302,2.27,1962,Single Family,For Sale
+59986ee7-9e33-451d-ad1b-2971392a1c71,"0974 Wendy Light Apt. 011, East Brunswick, NJ 07143",1703265,7,3.0,5036,2.36,1997,Condo,For Sale
+6bfc3afd-6841-4669-9207-527a62adce1b,"2324 Stone Camp, Montgomery, NJ 08916",1894053,5,5.5,4938,2.27,1944,Condo,For Sale
+8bd1eee2-c673-4e80-804f-df3fbfac1185,"1660 Barnes Villages Suite 455, East Brunswick, NJ 07751",1422151,4,5.0,3152,2.85,1960,Single Family,For Sale
+c3e40888-23cd-471a-9f55-863726d62d87,"1477 Callahan Dale, Bridgewater, NJ 07485",1722663,3,4.5,3344,2.45,1962,Single Family,For Sale
+d001d21f-75f2-457a-b652-91f5e6bc260d,"9960 Timothy Pike, Plainsboro, NJ 08237",2758231,3,6.0,4843,3.37,1963,Multi-Family,For Sale
+e594a86a-d7d0-4e4b-8282-3f1106ce86d8,"6830 Gabriella Route Apt. 475, East Brunswick, NJ 08810",3209305,5,5.5,6300,4.03,1996,Condo,For Sale
+a16767bc-a2e0-48e4-9ba9-13d4fbe93ac0,"89888 Melvin Drive Apt. 732, Princeton, NJ 08829",842627,6,2.0,2982,2.62,1969,Single Family,For Sale
+2a085e63-3f01-46ee-9008-e6eab94e3374,"86613 Vincent Crossing, West Windsor, NJ 08831",2486188,6,6.0,5737,2.92,1971,Condo,For Sale
+cde39034-8c0c-49d9-9bf3-ede980b2fc6e,"0627 Davis Valleys, Bridgewater, NJ 07924",3687166,7,4.5,6346,2.61,1998,Multi-Family,For Sale
+644cf228-88f2-4adb-9eb6-a7bb6c7fcb75,"961 Jesse Key Apt. 803, East Brunswick, NJ 08618",3675328,6,5.0,5718,4.8,2021,Single Family,For Sale
+5bcc81c3-05a4-44d1-aaf2-8db214b781c7,"4781 Kelly Isle Apt. 292, Hopewell, NJ 08481",3304079,7,6.0,5883,3.51,1940,Single Family,For Sale
+0a295678-55c0-4fad-9307-ef867d181878,"882 Villarreal Estate Apt. 962, Franklin Township, NJ 07795",1515913,4,4.0,2986,0.78,1971,Single Family,For Sale
+7524ff8d-ed8a-414e-8a34-5dd3a1ef1a88,"81389 Arias Curve, Piscataway, NJ 07887",3389965,4,5.0,5294,2.96,1996,Single Family,For Sale
+1cb7f92f-8942-46f4-aeaa-44b0de0936f9,"39123 Suzanne Port Apt. 578, Princeton, NJ 07032",2612803,6,3.5,5363,1.67,1982,Single Family,For Sale
+879c4774-3b6a-44ce-9697-0ea1ec1e27d6,"82389 Ashley Extension Apt. 079, Lawrenceville, NJ 08432",1230534,6,5.0,3925,1.58,1968,Single Family,For Sale
+ef82ddba-8a76-40ee-90cf-ac5a1472328c,"21924 Carpenter Port Apt. 533, Plainsboro, NJ 07673",2644898,3,3.0,3873,3.8,2004,Single Family,For Sale
+af4dae5d-6a6e-4004-92b0-24e92a5c9703,"33466 Amanda Drives Suite 103, West Windsor, NJ 08031",2943822,6,6.0,5490,1.6,1956,Single Family,For Sale
+c591af03-ad94-4688-841b-172f841e41ea,"8197 Weiss Villages Apt. 271, Woodbridge, NJ 07117",1634612,2,3.5,2973,1.35,1970,Single Family,For Sale
+a7555a86-f3d7-4dd8-b014-ba39be81a846,"3020 Tamara Skyway, Princeton, NJ 07261",3198121,4,6.0,5601,1.84,2025,Townhouse,For Sale
+e880db00-9747-4e04-ab26-7225162685e0,"241 Matthew Glens, West Windsor, NJ 08825",2653535,3,4.5,4329,3.55,2015,Single Family,For Sale
+360419b4-42e7-43fd-9cb6-dcaf1287aebc,"6268 Collins Village, East Brunswick, NJ 08294",2963988,3,3.0,4030,3.38,1962,Single Family,For Sale
+34e9f3ad-3082-4dd8-b5e9-cfb5f5a8a849,"67087 Margaret Fort, Princeton, NJ 07259",2446526,6,4.0,4862,1.58,1973,Multi-Family,For Sale
+a084a9d6-7aea-4903-866d-c25b18921dc7,"017 Medina Forge, East Brunswick, NJ 07840",3069401,7,5.5,5431,2.76,2024,Multi-Family,For Sale
+ffc71237-552c-4eba-833b-db77cb7eaa99,"40096 Olivia Heights Apt. 508, Bridgewater, NJ 08430",879190,5,4.0,2955,1.96,1978,Single Family,For Sale
+22938579-e861-4281-9d0d-836ca8fca826,"85923 Nelson Lock Apt. 748, East Brunswick, NJ 08285",3003918,5,5.5,4921,2.12,2018,Single Family,For Sale
+a3db42e9-62e5-412f-8dbf-d3917d2736d8,"45261 Alejandro Canyon, Hillsborough, NJ 07242",1027973,3,4.5,3041,1.96,1951,Single Family,For Sale
+415fe086-563d-4ccf-a7e6-7b14f14d49b9,"06585 Price Plains Apt. 284, Hillsborough, NJ 07800",3720848,3,4.5,4806,2.91,2010,Single Family,For Sale
+0184b4b0-5aff-42ac-912f-10c3d2068697,"4549 Thomas Trail Apt. 397, Montgomery, NJ 07764",1797048,6,5.5,4449,1.17,1958,Single Family,For Sale
+c5254929-48e2-44b4-8fd3-0003f0b446dd,"17098 Fleming Mount, New Brunswick, NJ 08873",2008105,3,3.5,3592,1.36,1954,Multi-Family,For Sale
+87f4a4b5-d69d-4bd5-af29-03596018915c,"99197 Rodriguez Plains Suite 883, Hillsborough, NJ 08256",2496559,4,6.0,5221,2.97,2010,Condo,For Sale
+8472dbdb-702d-41d0-9a98-ee77728a7d64,"48612 Brown Track Apt. 205, East Brunswick, NJ 08552",2498455,6,5.5,4980,1.53,1978,Single Family,For Sale
+82fc88b9-40ab-42e9-97df-e1595874461b,"0607 Lee Locks, Woodbridge, NJ 08110",3647180,6,6.0,5913,2.24,2002,Townhouse,For Sale
+ea136232-e655-46df-b594-7fe1df93e069,"79404 Valerie Gateway, South Brunswick, NJ 08758",3651433,6,5.0,6219,3.61,2017,Multi-Family,For Sale
+66224e66-c688-4161-9415-e520ed0f092b,"5725 George Mountain, Edison, NJ 07122",1404195,2,3.0,2737,2.52,1960,Single Family,For Sale
+d2345bfa-2da9-4dc1-8805-b64ef37b5472,"8268 Hart Mount Suite 361, East Brunswick, NJ 07907",2314005,4,3.0,4281,1.48,1988,Townhouse,For Sale
+e6642a6e-781b-43f2-907d-4eae930af525,"65040 Rebecca Road Apt. 931, South Brunswick, NJ 08392",3409484,7,5.5,6416,3.7,2022,Single Family,For Sale
+a7fe8472-d8e9-4a94-b025-92833f9cc92c,"86480 Deborah Lodge, Edison, NJ 07836",3926808,6,4.5,6052,2.7,2022,Single Family,For Sale
+10d3c1aa-6e7b-4de5-b162-904792e92b2e,"440 Duran Freeway Suite 799, South Brunswick, NJ 07047",1154421,6,4.5,3516,0.71,1944,Single Family,For Sale
+374a495d-252e-42d4-9a80-1ccf5fb2424e,"450 Villarreal Curve Apt. 291, Lawrenceville, NJ 08028",994116,5,4.0,3543,1.03,2007,Single Family,For Sale
+23bd0f78-2a5f-4217-8afb-2e6ce5e83435,"618 Murphy Lock, East Brunswick, NJ 08922",3164239,7,4.5,4983,2.26,1960,Townhouse,For Sale
+9f0f4ff3-d527-4f94-8ab4-0b16602ca9f4,"33750 Maldonado Points, South Brunswick, NJ 07139",3561003,4,6.0,6104,2.11,2019,Single Family,For Sale
+9edbbbd7-b511-4a0a-8212-c32bb1b08edd,"01331 Samantha Orchard Suite 497, East Brunswick, NJ 07200",3193580,4,5.0,4690,4.36,1998,Single Family,For Sale
+4fe22ea5-e070-4a44-af72-d9920a24f026,"02994 Montgomery Burg Apt. 999, Edison, NJ 08773",3684981,5,4.0,5443,2.82,1999,Single Family,For Sale
+41470c56-5416-4e5b-ae60-cf7f13a15460,"565 Johnson Freeway Apt. 587, Piscataway, NJ 07145",3024582,3,6.0,4815,3.0,2009,Single Family,For Sale
+93b4b6c3-2c74-46ab-b806-f1dbe2d9c122,"240 Camacho Radial Apt. 435, Hopewell, NJ 08697",1382199,5,2.0,4133,1.05,1968,Single Family,For Sale
+05b680e1-5597-4393-a8d6-f49502c71111,"8169 Lisa Forges Suite 429, Montgomery, NJ 07239",3777942,4,4.5,4991,4.08,1965,Multi-Family,For Sale
+5243e375-ca6d-4404-9e52-e0f7b3c272bc,"733 Jesse Plaza, East Brunswick, NJ 07492",3605927,4,5.0,5748,2.46,2016,Single Family,For Sale
+27455fb9-51c9-4839-a397-12543b95ff49,"97353 Shannon Crest Suite 295, Franklin Township, NJ 07263",2183798,3,2.5,3474,2.25,1976,Townhouse,For Sale
+b1467fff-a508-4165-a544-435378bc8392,"08733 Mary Isle, Lawrenceville, NJ 08003",1139052,4,4.0,2683,2.9,1952,Single Family,For Sale
+c536b806-652a-4ee7-86ce-42b15d847e68,"586 Moon Fall, South Brunswick, NJ 08127",1117862,2,4.0,3079,2.91,2011,Single Family,For Sale
+2206c79e-b94c-4bf8-ab04-681da4e5b410,"1786 Alyssa Rapid, Franklin Township, NJ 07646",3850973,7,6.0,6611,4.91,2001,Townhouse,For Sale
+352ea75c-9870-4261-90b0-ac3ab4553dd2,"4698 Samantha Knolls Suite 918, Edison, NJ 07005",3662427,6,3.5,5841,2.16,1997,Single Family,For Sale
+52fbd28f-3378-4be3-a21e-b1686651cfdf,"8986 Austin Mount, Woodbridge, NJ 07040",2483724,7,5.0,5570,2.87,2013,Townhouse,For Sale
+515e5bb4-e955-4d32-b78b-824fe738d148,"362 Sharon Knolls Suite 253, Lawrenceville, NJ 07687",924094,6,3.0,3117,3.07,1956,Single Family,For Sale
+e8c6fd13-d504-4046-9302-ba6db89b19cb,"72060 Watts Valley Apt. 531, Edison, NJ 08591",2717175,5,5.0,5012,1.69,2006,Townhouse,For Sale
+2a4ceb1b-709c-4822-b00b-a7fb2f37d478,"01657 Cummings Club Suite 902, Franklin Township, NJ 07088",2351804,6,5.5,4659,3.17,1963,Single Family,For Sale
+5a2d4836-9481-4d35-9d2a-9e056d4bc5b9,"692 Karen Radial, Woodbridge, NJ 07845",2006888,6,4.0,4568,1.21,2025,Townhouse,For Sale
+e8f743c3-86d7-4822-b1fb-6624ca000c66,"80071 Colin Via, Piscataway, NJ 08861",1516310,5,4.0,3959,2.88,1963,Single Family,For Sale
+38df54b2-c9ed-4ce4-b636-28f84b3a7cfc,"210 Smith Canyon, Franklin Township, NJ 08366",1487673,2,3.0,2679,1.72,1955,Single Family,For Sale
+f13a1dfb-083e-4faf-8eb5-06b7d8bcf365,"689 Timothy Forest Suite 933, Piscataway, NJ 08113",831560,4,3.5,2269,2.48,1982,Single Family,For Sale
+c71fceaa-19ea-46cc-ac6b-274d11de3a43,"84586 Gibbs Villages, East Brunswick, NJ 08639",1045364,4,5.0,3940,1.57,1977,Single Family,For Sale
+0da772f9-b82e-426a-95bd-445240e44705,"3222 James Pines Apt. 500, Bridgewater, NJ 08143",3238616,5,5.5,5623,2.13,2006,Townhouse,For Sale
+54c183a5-da69-4cfd-89f0-9fae52e66e6c,"62539 Jessica Plaza, Lawrenceville, NJ 08987",1904884,5,2.5,3946,2.5,1996,Single Family,For Sale
+6ceb65eb-4d91-4892-a215-99dd434fd0df,"6058 Jennifer Glen, Piscataway, NJ 07806",3988225,6,5.5,6250,2.1,1999,Single Family,For Sale
+3d80667b-0cb1-4536-a5a2-f85e78c3f570,"4716 Morgan Streets, Franklin Township, NJ 07150",727458,5,2.5,2111,1.8,1969,Single Family,For Sale
+ad121d3f-27cc-4423-baa1-6702e07e1037,"84913 Saunders Junctions Apt. 634, Plainsboro, NJ 08704",3172810,6,6.0,5798,2.14,2018,Multi-Family,For Sale
+ae8fdc63-454c-4558-b6da-7105ce607ec8,"272 Scott Rest Suite 345, Edison, NJ 08644",1521982,4,3.0,3318,2.38,1947,Single Family,For Sale
+acee76ee-7361-4ea7-9046-a26b96052a60,"733 Welch Spring Apt. 865, Montgomery, NJ 07362",2468070,7,3.0,4928,3.08,1969,Townhouse,For Sale
+85745edb-b889-4308-8efa-54429fce790f,"62982 Martin Station Suite 943, Piscataway, NJ 07877",3764996,6,4.5,6101,3.28,1985,Multi-Family,For Sale
+b3acbcde-f9ca-4670-8aa5-5ba179823123,"3013 Jackson Springs, Princeton, NJ 07235",1997767,2,3.0,3320,3.42,2025,Single Family,For Sale
+b410ad4d-1f0e-4773-8637-fc855eb3e8b4,"71348 Ryan Corner Suite 628, Piscataway, NJ 07437",3126436,7,6.0,5860,4.03,1985,Townhouse,For Sale
+d2116646-861b-4e68-938a-7a8fce48d6f4,"451 White Passage Apt. 091, Lawrenceville, NJ 07439",2683796,4,5.5,4259,1.42,1994,Townhouse,For Sale
+65a7a98e-695d-4ab8-86a2-1329be7f9a33,"026 Andrew Stream Suite 500, West Windsor, NJ 08451",3310068,6,5.0,5349,4.57,1940,Single Family,For Sale
+120ab308-0a11-4915-9eb6-42cfb294fa6e,"42560 Horne Gardens Apt. 251, Lawrenceville, NJ 07672",1227330,3,4.5,3013,1.54,1953,Single Family,For Sale
+8e7a951c-b3bf-4539-a4de-7bb12c39c6d9,"85997 Higgins Estates, Princeton, NJ 08700",3481433,7,5.0,5915,4.06,1965,Single Family,For Sale
+3b9d0884-c109-4370-aa80-b8490f3e54a0,"670 Carpenter Mountains Apt. 136, Princeton, NJ 07809",2766587,4,4.5,4161,3.21,2015,Single Family,For Sale
+4d963ec3-3d9a-4df8-bc1f-8af086f36819,"3827 Brian Stream, Franklin Township, NJ 07786",3620117,3,5.5,5385,3.9,2008,Single Family,For Sale
+f40c384f-8a95-428d-8a28-f130b5f85f23,"97500 Jeremy Shoal, Montgomery, NJ 08393",3443553,5,6.0,5312,1.8,2002,Multi-Family,For Sale
+bdfd6bfe-e565-4208-a352-39755249d2cd,"8963 Robinson Fall, Lawrenceville, NJ 07035",970598,5,5.0,3603,2.82,2017,Condo,For Sale
+85074919-280d-4e48-acbc-3f813eeae05c,"972 Sanders Fields Apt. 680, Edison, NJ 08631",1726512,5,5.0,4597,2.18,2009,Single Family,For Sale
+64e41cfb-9ba2-4a22-b3dd-03544dd977bb,"286 John Islands, Montgomery, NJ 07336",1915231,3,3.0,2824,3.36,1948,Single Family,For Sale
+a1a106a7-7783-4c73-a93c-f0441bf6395d,"077 Sara Forks Suite 365, Edison, NJ 07902",3373167,5,6.0,5765,2.67,1985,Single Family,For Sale
+f9ffca47-8cac-41a2-aeb7-2728ebced8e5,"10820 Hall Extensions Apt. 796, Franklin Township, NJ 08202",745194,3,2.5,2104,1.26,1953,Single Family,For Sale
+e8d27e2f-5542-4e58-82e3-a8cc9204d687,"03036 Joseph Vista, New Brunswick, NJ 07143",1354603,6,4.5,3604,3.34,1951,Single Family,For Sale
+d110d7ba-e9ea-41e5-ae28-393839f58227,"074 Jennifer Haven, Woodbridge, NJ 07602",3679071,5,5.0,5578,2.72,1994,Single Family,For Sale
+ced9e19e-4e6b-4438-a794-8ae70de85f55,"1248 Matthew Forks Apt. 801, Plainsboro, NJ 07884",1831635,6,3.5,3865,1.39,1944,Single Family,For Sale
+c6f67f86-cb38-4ddb-8b02-a844a0781ce3,"8684 Sophia Lodge, Woodbridge, NJ 08020",3214606,3,3.5,4314,1.87,2011,Single Family,For Sale
+e2d0b77b-54a1-4550-a8d0-522ea12cbbb0,"0443 Bauer Hill, Hopewell, NJ 08450",3208066,3,4.5,3998,3.05,1999,Single Family,For Sale
+ff74bb9e-4daf-49e6-b8e6-cb38dd2d53e3,"072 Leach Creek, Princeton, NJ 08342",2040082,2,3.5,3327,3.29,1989,Single Family,For Sale
+2793e8a1-c401-4003-aff4-553b765cb146,"60335 Marquez Lights, Hopewell, NJ 07315",2932944,5,5.5,4717,3.03,2018,Single Family,For Sale
+77b76442-9b9f-43cf-913e-23cd7454ce70,"34610 James Isle Apt. 600, Woodbridge, NJ 08221",1274981,6,2.0,3760,3.07,2018,Condo,For Sale
+e6407a0a-3613-4484-a19f-df96974ef340,"93811 Castaneda Ports Apt. 562, Hillsborough, NJ 08811",2948849,5,3.5,4894,2.71,1961,Single Family,For Sale
+3ae1db0c-32b5-403a-9799-620d982ee930,"3819 Cabrera Harbor, Bridgewater, NJ 08774",3528119,3,5.0,4629,3.17,1950,Single Family,For Sale
+d63775ef-12af-4184-8058-cdc8b82476ad,"25980 Glass Overpass, Piscataway, NJ 08127",565342,6,2.0,3030,1.82,1972,Townhouse,For Sale
+859b25c6-19b3-4f3e-9a15-3abb7b3dbf91,"3787 David Orchard Suite 196, Hillsborough, NJ 08657",1054207,2,4.0,2498,1.65,1974,Condo,For Sale
+7ca1816b-1395-436c-80c2-5b1afbefcb05,"1669 Christopher Lodge, New Brunswick, NJ 08907",816373,3,4.0,2418,1.39,1969,Condo,For Sale
+9b020da0-e757-493e-b2b4-7264de228aae,"89556 Travis Hollow, East Brunswick, NJ 07952",3129912,3,5.5,4781,2.34,2013,Townhouse,For Sale
+281f21fc-acac-45f6-b181-3e66d649571d,"5796 Robert Track, Plainsboro, NJ 07517",1097930,4,2.5,3389,1.89,1944,Single Family,For Sale
+93d6a097-a9dc-49fa-993e-588182d4bb68,"81399 Edwards Ramp Apt. 984, Piscataway, NJ 07477",3986510,3,6.0,5677,2.99,2013,Multi-Family,For Sale
+d29dfcd6-8bc4-47f1-a0f8-84362d944afc,"0227 Forbes Estates, Montgomery, NJ 08050",1159830,4,5.0,3378,3.11,1949,Single Family,For Sale
+716eff52-3ad9-4ce6-a3e7-8b29f464d87a,"12965 Cindy Square, Hillsborough, NJ 07646",2611868,4,6.0,4813,2.32,1958,Single Family,For Sale
+366f3bbd-0b71-4550-85f2-0b06d7fd1d19,"1261 Johnson Parkways Suite 265, Hopewell, NJ 08968",862077,5,4.0,3218,1.26,1947,Condo,For Sale
+9e5c3ff6-2dba-4b89-99c4-576cd16651f2,"563 Elizabeth Tunnel, Lawrenceville, NJ 08793",2357760,4,4.5,4193,2.73,1948,Single Family,For Sale
+6df959f4-a31a-4746-b028-355ea4d62475,"720 Jones Manors Apt. 132, South Brunswick, NJ 07022",2492658,3,3.5,4461,1.77,1958,Single Family,For Sale
+91978326-6355-4b93-9c32-0f3fa04f7c9d,"5446 David Square Apt. 462, Princeton, NJ 08798",1814933,6,3.5,4556,3.55,1940,Single Family,For Sale
+0b4b3030-96e7-4b1f-8669-09697ecf8fbd,"77714 Frank Isle, Plainsboro, NJ 08232",1843621,4,4.0,5018,1.86,1967,Condo,For Sale
+c1de42d7-1367-4f82-9b6b-fc420ff84974,"6771 Strickland Overpass Apt. 201, Piscataway, NJ 07403",1756748,2,3.5,3206,2.56,1963,Townhouse,For Sale
+94695887-57d0-4cc4-92df-67e97417f00c,"312 Martinez Roads Apt. 739, Franklin Township, NJ 08467",1252244,2,2.5,2430,3.04,1982,Townhouse,For Sale
+ad01a9a8-15a0-4e29-9a44-40462381de9b,"91678 Alison Brooks, Piscataway, NJ 07754",2498899,7,3.0,4680,2.14,1940,Single Family,For Sale
+a4e7c0b8-814f-47ea-a3e6-f6af3a239486,"822 Monica Land Apt. 462, Edison, NJ 07317",3273556,4,5.0,4910,3.77,1992,Single Family,For Sale
+5b8ded9e-1a81-4e43-9046-d6c9230ab2de,"13801 Eric Circle Suite 965, Bridgewater, NJ 07202",887570,6,3.5,3138,2.2,1973,Condo,For Sale
+b0c7036d-330c-494d-95e5-01c755d36593,"046 Leonard Harbors Suite 261, New Brunswick, NJ 07701",2678267,7,5.5,5181,2.9,2001,Single Family,For Sale
+b9c03025-c908-4392-bcae-a65434c3bdef,"9642 Michelle Cape Suite 476, Plainsboro, NJ 07826",2107752,5,6.0,4882,3.88,1973,Condo,For Sale
+86c927fc-bd6b-4cff-b94a-8d7ca937d6b8,"90416 Young Row, Edison, NJ 08654",1554345,5,2.5,3385,1.28,1943,Single Family,For Sale
+46beefec-ee0e-42ec-b2a2-d8a85ac8896e,"713 Wilson Mission Suite 012, Plainsboro, NJ 08681",2245893,2,3.0,3362,3.79,1985,Single Family,For Sale
+cc0c8b87-f041-44cf-b607-9f1c8c04ef3f,"78641 Andre Run, Princeton, NJ 07333",3691007,6,5.0,5715,3.44,2007,Single Family,For Sale
+9581f873-490e-4779-97de-6a74beccff4c,"76066 Torres Mountains Apt. 435, West Windsor, NJ 08536",3966313,5,6.0,6466,3.52,1992,Townhouse,For Sale
+24035270-6ba2-4681-8777-5169a4905b6c,"307 Scott Key Apt. 973, Hillsborough, NJ 07263",2914901,5,4.5,5236,1.52,1969,Multi-Family,For Sale
+8d5ceca2-4e34-41ce-87f0-136b190aaf92,"34011 Parker Forges Suite 093, Piscataway, NJ 08636",3131140,6,3.0,5576,3.75,2023,Single Family,For Sale
+9b2ced7b-14ff-48bf-808a-985c00e9c177,"0514 Sara Route Apt. 230, Princeton, NJ 08099",3830853,5,5.5,5627,4.59,1962,Single Family,For Sale
+f62a390e-213f-4768-9d8f-316c23fee793,"12803 Sean Mount, Hopewell, NJ 08688",3971293,6,6.0,6339,4.23,2008,Single Family,For Sale
+0e207f39-aac5-4f1f-8316-b383dfd827fe,"58368 Ralph Fields, Piscataway, NJ 08199",730624,6,1.5,2451,3.13,1948,Single Family,For Sale
+b017da7f-2d3b-4bad-bd06-8d168aa6ce86,"30524 Ronnie Overpass, Lawrenceville, NJ 07704",3555482,3,4.0,4892,2.01,1998,Single Family,For Sale
+e8bc0d95-16d2-484f-b3a2-a3d075b8e320,"49968 Caldwell Track Suite 971, Plainsboro, NJ 08665",1769799,3,3.0,2452,0.82,2020,Multi-Family,For Sale
+664765aa-1274-44f5-abc5-26f95f4503b6,"3636 Devin Underpass Apt. 179, New Brunswick, NJ 07813",1882530,2,5.5,2997,3.46,1962,Single Family,For Sale
+836dec8f-6e27-4f62-8fb8-a2355e35a1e1,"2055 Wheeler Station Suite 504, Plainsboro, NJ 08171",2512216,7,4.5,5672,2.27,2017,Single Family,For Sale
+3d4562b1-7733-4b7f-a429-21d4b04a0ab1,"6198 Williams Meadows Suite 133, Hillsborough, NJ 08546",2420325,3,4.5,4128,3.76,1967,Single Family,For Sale
+39f985e7-6ea4-4c24-87b2-8d760d28a148,"9368 Carney Passage Apt. 922, Franklin Township, NJ 08043",1243964,5,3.0,3602,2.38,1980,Single Family,For Sale
+360e6dd3-b623-443e-a525-9e958095da76,"3484 Robbins Row Apt. 805, Princeton, NJ 07334",3784190,5,6.0,5824,3.89,1975,Single Family,For Sale
+8ad22e2f-c8a7-43b8-9c42-d61968e9f7a7,"73253 Morris Rest, Franklin Township, NJ 08411",2763022,6,4.5,4805,3.85,1978,Single Family,For Sale
+cdc27fb7-ff02-4c85-b194-c5f5cd3dc451,"009 Joel Gardens Apt. 249, Piscataway, NJ 08234",3533287,4,4.0,4875,4.22,2021,Single Family,For Sale
+7671aaac-da7d-4c00-9cdf-fbe4373e13b0,"618 Melody Branch Apt. 296, Hillsborough, NJ 08900",986696,5,5.0,3389,1.99,1948,Single Family,For Sale
+e0e968d8-ec0c-4504-b046-9c5c9e955821,"49090 George Mountains Apt. 783, Plainsboro, NJ 08153",2131771,6,2.5,4620,3.5,1950,Single Family,For Sale
+fe2cf4e9-ce10-47ab-bfe3-277308430f50,"5983 Ryan Roads Suite 438, West Windsor, NJ 07680",1938378,4,4.5,3983,2.57,2017,Single Family,For Sale
+686b51f4-031a-4d2e-a9fb-5af84c138f1f,"9661 Brenda Dale, New Brunswick, NJ 07848",3335311,3,6.0,4850,4.35,2004,Single Family,For Sale
+b52b1fe5-8d2d-441e-b292-5babfbdf3623,"93448 Troy Radial Apt. 817, Hillsborough, NJ 08364",2072895,3,3.0,3436,0.98,1953,Single Family,For Sale
+d7f8ac50-dd7a-41fa-83dc-60a988b6115c,"62208 Rachel Harbor, Piscataway, NJ 08938",1075513,2,5.0,3095,1.81,1977,Single Family,For Sale
+6a2b65b4-9f3d-4c36-ae63-a8aac13ae04f,"5082 Mary Dale Apt. 461, South Brunswick, NJ 07481",1562306,2,5.5,3279,2.7,1961,Townhouse,For Sale
+7f98cadc-e421-465a-8100-fde4db13e5ce,"80868 Miller Passage, Piscataway, NJ 07900",2189600,6,4.5,4612,3.94,2006,Single Family,For Sale
+b00b2db6-a23f-4f17-875c-78dd6d84c19d,"7216 Rhodes Alley, Lawrenceville, NJ 07226",1037119,2,3.5,2716,1.48,2010,Single Family,For Sale
+7fde423d-2f58-43ba-8c40-0ebfb3ad946f,"640 Travis Lock Suite 643, Hillsborough, NJ 08920",2047036,3,6.0,5082,2.43,1992,Condo,For Sale
+a29b6a59-b3e3-4c33-88cf-c4d442f2a953,"7574 William Meadows, Woodbridge, NJ 08321",1235381,2,5.5,3131,2.19,1998,Single Family,For Sale
+eb97ea11-dbfb-49a3-85c3-08612beb422e,"44771 Linda Lodge Apt. 207, South Brunswick, NJ 08026",3594411,4,4.0,5539,3.48,2019,Single Family,For Sale
+e33f0dec-54e7-4987-8058-79a584c94a8f,"5180 Wilkinson Brook, East Brunswick, NJ 07965",769918,6,4.0,3354,2.45,2025,Single Family,For Sale
+90beced2-24fe-4d48-9220-638b6d1ff6b1,"746 Ramirez Lodge, Hillsborough, NJ 08696",806314,3,3.5,2062,1.14,1978,Condo,For Sale
+b1f395e6-8194-44e9-a2c9-d44ef53f1cfd,"7721 Rose Hills, Lawrenceville, NJ 08984",3244519,4,5.5,5407,2.01,2024,Multi-Family,For Sale
+e77cb487-d2bb-49d6-b060-907914510c01,"299 Wilson Points Suite 103, Bridgewater, NJ 08034",2080535,2,3.5,2804,2.45,2019,Single Family,For Sale
+c0fbb5e7-580b-4781-a561-f69304ac26a8,"179 Claudia Fords Apt. 504, Princeton, NJ 08019",3254922,4,5.5,5289,4.57,2021,Multi-Family,For Sale
+ad3f4f74-66ea-4c01-ad3f-3a3429a47f24,"3507 Coleman Branch, Franklin Township, NJ 07848",1501710,4,4.5,4280,1.15,2019,Condo,For Sale
+d3e2c0dd-6ae7-42fc-8e5a-5c77f4bed7a0,"92559 Evans Island, Hopewell, NJ 08211",3637847,5,6.0,6334,3.42,1989,Townhouse,For Sale
+67e6220b-6c31-464f-8a6a-10b8fb93dd23,"12772 Audrey Islands, Piscataway, NJ 07262",1955714,6,6.0,5314,1.36,1951,Single Family,For Sale
+b620370b-ec47-4af5-a739-7ee5200c14ae,"726 Holly Courts, Piscataway, NJ 08232",806401,4,3.5,2581,0.67,1973,Single Family,For Sale
+319b7f6d-15e4-432f-a46e-56d6e881ee3e,"674 Vicki Tunnel, Edison, NJ 07422",3034824,3,4.5,4547,2.52,1998,Single Family,For Sale
+bc5703a7-cbdc-43bb-b5a7-55af3f4f023b,"9286 Dorsey Stravenue, Piscataway, NJ 08276",1952632,5,5.5,6018,2.54,1944,Condo,For Sale
+25d588f8-fe46-4799-bcfe-e9e267a26c02,"3662 Kline Centers, Bridgewater, NJ 08111",2412921,5,3.5,4521,3.77,2014,Multi-Family,For Sale
+ebc89992-20d1-49ca-9a3e-7bb6883f7778,"7418 Bruce Cove, Montgomery, NJ 08739",1986036,4,3.5,3652,3.73,1959,Single Family,For Sale
+7a6cc47c-c184-48ea-bc36-efeab44680b7,"81842 Wright Plain, Franklin Township, NJ 08321",649672,3,4.5,3298,1.94,1957,Multi-Family,For Sale
+9bb8152b-4481-49fc-bad7-76f23b72e42c,"47824 Thompson Rapids Apt. 749, Lawrenceville, NJ 08939",3341083,7,3.5,5437,3.57,2012,Townhouse,For Sale
+11804649-dd3f-47bf-af5b-e2c0b5de169b,"5703 Mcbride Crest, Hillsborough, NJ 07594",854672,3,4.5,2789,1.19,1955,Single Family,For Sale
+17d8623f-790f-4faa-8316-de584cd018fe,"623 Vasquez Row, East Brunswick, NJ 08508",1965610,6,3.0,4405,2.91,1945,Single Family,For Sale
+5642a4ce-a241-4a4a-9f8d-87a8cef2e1fe,"760 Kimberly Rest Apt. 996, Plainsboro, NJ 07660",2794537,3,4.0,5316,4.55,2020,Condo,For Sale
+b2b9734e-7675-4ab5-bb79-57efafffa808,"344 Brandon Shores, East Brunswick, NJ 08289",1896331,4,2.5,3417,3.65,2004,Single Family,For Sale
+8582fab5-5526-43eb-9d89-bf883b9eabd5,"6769 Blair Glen Apt. 035, Hopewell, NJ 07104",3595331,6,6.0,6314,2.73,1946,Single Family,For Sale
+cd23ef0a-cba1-467e-a315-0351d84c0cd4,"529 Haynes Lock, New Brunswick, NJ 08522",2070839,7,4.0,5265,1.92,1978,Condo,For Sale
+7ddd1309-21f4-4ccd-88c1-f21aadc38592,"32389 Alexander Green Suite 031, Edison, NJ 07138",3733174,4,5.0,5133,4.79,2001,Single Family,For Sale
+008de765-1bb7-478b-864c-9d19b0b8d70c,"49221 Sandra Estates, South Brunswick, NJ 08540",2404203,7,4.5,5197,3.15,1941,Single Family,For Sale
+7bd03656-d03e-4726-9ec6-df71503dc36d,"833 Sean Knolls, Montgomery, NJ 08675",3045783,5,3.5,5293,4.06,2000,Single Family,For Sale
+74159c3f-b628-4198-bd36-ec4b212baef3,"4782 Nicole Pines, New Brunswick, NJ 08234",3739878,5,6.0,6438,2.14,1945,Single Family,For Sale
+ad4adc67-9dcb-4749-b209-e465fe74e10c,"41220 Jane Spur Apt. 348, South Brunswick, NJ 07924",1401317,4,5.5,3678,2.8,1946,Single Family,For Sale
+81a78c19-7782-4026-a04e-a9f68453d776,"387 Hall Point Apt. 675, Hopewell, NJ 08180",2464436,3,3.5,4354,1.63,2020,Townhouse,For Sale
+c963f853-e556-4fc6-9814-63112ea25261,"31136 Jared Ways Apt. 301, Plainsboro, NJ 07212",3020224,5,4.5,4908,2.86,1997,Single Family,For Sale
+90419013-380c-4c99-8857-ef10e372cb9d,"64729 Martin Greens, Hillsborough, NJ 07830",1173533,3,2.5,2446,1.35,2012,Condo,For Sale
+ad1994df-8224-429d-8e2d-163cd5fa0692,"05249 Leon Via Suite 649, Princeton, NJ 08386",1952964,3,3.5,2955,1.82,1941,Single Family,For Sale
+a085f69c-e4a2-42d3-a3f5-f8c49943a0e1,"5651 Lisa Club Suite 598, West Windsor, NJ 08803",681805,5,4.5,3509,3.03,1954,Single Family,For Sale
+04c0bdf8-7b3f-41bd-a1a2-4a3cb9bb6749,"056 Erickson Court Apt. 771, Franklin Township, NJ 07073",3367825,6,6.0,6052,2.05,2004,Single Family,For Sale
+3abec93f-586c-41ea-8b00-2c12b7f3e9f7,"412 Trujillo Knolls, South Brunswick, NJ 07281",617367,3,3.0,1966,2.67,1976,Single Family,For Sale
+8c80b090-faae-4ac2-aae3-fe478b510d34,"3553 Allison Valley Apt. 447, East Brunswick, NJ 07895",876562,2,4.0,2531,0.74,1966,Single Family,For Sale
+9a685d76-a4a3-4a5b-8e6b-c83ea1a121ce,"059 Daniel Port Suite 509, Piscataway, NJ 08616",743722,3,4.5,2455,1.21,1968,Single Family,For Sale
+4a6aa1ac-9eb2-4015-bb0b-2659d5ac2916,"227 Friedman Mountains, New Brunswick, NJ 08449",662676,5,1.5,2621,0.7,1987,Townhouse,For Sale
+c974a5cc-968b-4984-ad38-43ec3c897e92,"523 Donna Point Apt. 075, East Brunswick, NJ 07558",3464401,3,6.0,4759,3.95,1972,Single Family,For Sale
+2ce63beb-f4a0-4338-abf2-c18f29254849,"241 Carrillo Manor Suite 669, Hillsborough, NJ 07468",702953,6,2.0,3061,0.66,1958,Single Family,For Sale
+81649687-61a6-42d9-a060-473d74f4a346,"107 Ross Road, Montgomery, NJ 08914",1069451,2,2.5,2324,0.65,1975,Townhouse,For Sale
+720092b0-2241-4d54-b8c7-c74b3ec62fc7,"4109 Sandoval Flats, Franklin Township, NJ 07386",1856786,2,4.0,2462,1.32,1966,Single Family,For Sale
+1159a808-14d8-4626-8a68-3307c7f9b759,"197 Patricia Islands Apt. 271, Lawrenceville, NJ 08859",1084254,6,5.0,3730,1.72,1974,Multi-Family,For Sale
+003cbf0c-8f51-43ad-b40d-cb6a1e6bb8cf,"79838 Kirsten Lake, New Brunswick, NJ 08736",2332889,5,5.0,4613,3.56,2023,Single Family,For Sale
+2a18a61d-4735-4cbb-b336-710cf97f9951,"13510 Roth Turnpike, Edison, NJ 07299",699077,2,3.5,1714,1.6,1966,Single Family,For Sale
+32e6db38-071a-4116-b4e6-aaf3ee8890cc,"77816 Johnson Throughway Apt. 307, Princeton, NJ 07068",2522406,6,5.5,4793,3.66,1962,Single Family,For Sale
+35cf2594-fd76-4d4e-b81d-3622f6d1667e,"7952 Michelle Extension, Hopewell, NJ 07261",1283971,6,3.5,3878,2.66,1967,Single Family,For Sale
+0210cb30-c1cc-4235-9334-158c7d3da9c9,"95046 Peterson Mission, Montgomery, NJ 07529",3876000,6,5.0,5960,3.67,1995,Single Family,For Sale
+091a9926-8b09-48c6-9277-a5750262abfa,"5355 Keith Glens Apt. 837, East Brunswick, NJ 07734",822535,5,4.5,3278,0.35,1974,Single Family,For Sale
+91784cf5-eb96-4bb2-a7e5-9f53c77d746a,"18474 John Pass, Princeton, NJ 07619",1620538,2,3.0,3154,0.7,2014,Multi-Family,For Sale
+f71a9f52-2f85-4508-bd6e-ce6a29652a12,"0446 Carl Loaf Suite 996, East Brunswick, NJ 07385",3024662,5,3.5,5022,4.38,2007,Single Family,For Sale
+05ae2cb8-3e66-4258-a0ec-1308636bce14,"12556 Julie Lights, Montgomery, NJ 07539",3391967,4,4.5,5261,4.43,2016,Single Family,For Sale
+317e8884-a5d5-40ec-b098-765bb01c1138,"3051 Fleming Point Suite 229, Princeton, NJ 08323",2251421,5,5.5,3922,1.35,1961,Single Family,For Sale
+4c63291b-a1d5-4110-be56-cd45f6c152f4,"124 Snyder Mission, Woodbridge, NJ 07603",811595,4,1.5,2622,0.35,1964,Condo,For Sale
+7c5c798f-8a68-40ad-b7e1-b2658c91bff1,"874 Duffy Spurs Suite 451, New Brunswick, NJ 07022",2491883,6,3.5,5386,1.37,1968,Single Family,For Sale
+fa34d715-b9ae-4e7d-829a-1b423a08f320,"759 Alex Road, Hopewell, NJ 07585",1689093,3,2.5,3268,1.62,1997,Single Family,For Sale
+69f155bb-edde-46cf-8ace-88dc0fc0bc08,"8473 Smith Plain, Franklin Township, NJ 08187",805179,6,2.5,2898,1.98,1973,Single Family,For Sale
+3d6db230-cea0-4b6b-9a9a-bba5d9400d8c,"4692 Rodriguez Station, East Brunswick, NJ 07937",3548284,4,4.0,5419,3.95,1964,Single Family,For Sale
+2bae94ed-74ce-4580-b604-37fe909a9539,"14495 Ramirez Fords Apt. 857, East Brunswick, NJ 07328",3500011,7,6.0,6486,4.51,1961,Single Family,For Sale
+1627d7d2-d240-42c0-8a92-e8c0ef9a5d89,"590 Friedman Cliff Suite 868, East Brunswick, NJ 08342",2602216,6,3.5,5014,2.98,1951,Single Family,For Sale
+d899ab32-9076-448b-bb65-cd44c9f25ee2,"95760 Johnson Circles, Hopewell, NJ 08171",1858578,6,4.5,3866,1.2,1959,Single Family,For Sale
+0c100b4f-3c27-43e3-abd9-62a3f1c24724,"440 Thomas Village, Princeton, NJ 07813",2994434,6,5.5,5383,2.35,1958,Condo,For Sale
+1e22219e-c4d2-4fc5-bdfc-de49fb97a2a9,"06415 Diaz Estate, South Brunswick, NJ 07636",2019373,4,3.0,3277,3.03,2017,Single Family,For Sale
+ef436358-1b20-417f-8a5c-62727bf1ac32,"17925 Hughes Club, South Brunswick, NJ 08500",3282257,7,6.0,6243,1.98,2023,Single Family,For Sale
+6e72a31f-a400-46d4-9bd4-9dbb03619ca5,"45455 Cheryl Plain, East Brunswick, NJ 08896",2075261,6,4.0,4253,2.14,2014,Single Family,For Sale
+3e11b62a-58bb-4688-9956-f544b968ba7d,"25139 Ronald Walks, Hopewell, NJ 08359",2860124,5,4.5,4766,3.06,1958,Single Family,For Sale
+2abbaa07-281f-46b7-8acf-1f865c29a6b0,"41100 Kelly Centers Suite 095, Lawrenceville, NJ 08905",818732,6,4.5,2669,0.84,1976,Townhouse,For Sale
+25a70b94-c617-43e3-a594-ea4e7b209acd,"869 Patricia Flat Suite 263, Bridgewater, NJ 07117",1938861,6,6.0,4086,2.82,1967,Single Family,For Sale
+48e0d955-8743-4826-a7ca-f136bab036fb,"6527 Alexa Summit Suite 221, Bridgewater, NJ 07266",3145402,4,6.0,5307,2.05,1991,Single Family,For Sale
+74a9202c-d31e-4f91-8f71-177acae54b1f,"650 Johnson Unions, Edison, NJ 08014",2212024,6,3.0,4218,2.36,1978,Single Family,For Sale
+09aa17d4-31a6-4135-9d5a-10a16876702c,"402 Eric Groves Apt. 596, Woodbridge, NJ 07380",808525,5,4.0,3469,2.7,1964,Single Family,For Sale
+8ef78aed-a07e-4d39-a866-82934e82984b,"4060 Greene Square, Hopewell, NJ 08478",3286418,3,3.5,4961,2.1,2010,Townhouse,For Sale
+2868457f-5562-499e-8313-9a6c29e5923a,"9436 Kelly Route Apt. 950, East Brunswick, NJ 07663",3913066,7,6.0,6436,2.81,2023,Single Family,For Sale
+6bbf0856-a427-446d-a46d-7f112abcc9e3,"0926 Shannon Dale Apt. 671, Princeton, NJ 08064",2282259,3,3.0,3524,3.44,1969,Single Family,For Sale
+10307b54-d2c3-4289-8f68-9c748a601569,"898 Wilkinson Expressway, Woodbridge, NJ 07551",3254895,3,4.5,5134,2.4,2002,Single Family,For Sale
+099b989e-02e8-4f26-898f-5254b8891eef,"87973 Katrina Glen Apt. 500, Piscataway, NJ 07133",3263458,4,5.0,5428,3.24,1995,Single Family,For Sale
+1f266f89-2d67-406c-b7ec-2bf493fb5ff3,"8993 Melinda Views, Hopewell, NJ 08839",1639558,3,4.5,3199,2.01,1969,Single Family,For Sale
+d5b30fa6-e1ce-4f09-b02a-c3ce768a0e21,"85535 Marcus Tunnel, Plainsboro, NJ 08617",2854086,7,5.5,5556,3.25,1976,Single Family,For Sale
+211c48ea-a249-4d96-905e-12d04ea34889,"721 Gilmore Ville, East Brunswick, NJ 08249",844560,5,2.5,3763,2.59,1966,Condo,For Sale
+772b9274-b5a8-480b-a6ba-6e2f1bec46c9,"06279 Price Gateway Suite 627, Plainsboro, NJ 08711",1541969,3,3.5,3237,2.45,1949,Single Family,For Sale
+4d7b3448-4f04-481d-aeb5-471b7271ea51,"749 Stephens Garden, Lawrenceville, NJ 08648",2322013,7,3.0,4821,1.11,2021,Single Family,For Sale
+152cf6fc-cf83-4aed-a2ad-200829d23c88,"9772 Mitchell Springs Apt. 546, New Brunswick, NJ 08972",1547459,5,4.5,3082,1.68,1944,Townhouse,For Sale
+9eda5d51-9f5d-47be-8708-2a19d0a37937,"68634 William Locks, New Brunswick, NJ 07424",689640,6,5.0,3811,2.62,1957,Townhouse,For Sale
+f78519ed-36a5-4463-9b77-955cd85f1c47,"517 Destiny Viaduct, Hillsborough, NJ 08821",1879314,3,5.0,3696,2.11,1969,Single Family,For Sale
+0f061212-af08-4eb3-a159-99ea3ef53eb8,"01469 Bowman Knolls, Franklin Township, NJ 08018",1114036,6,3.5,3410,2.18,2018,Multi-Family,For Sale
+2e86991e-d10d-4840-a217-9251f807f81b,"8832 Caroline Mills, Franklin Township, NJ 08940",996228,6,2.0,3157,1.3,2007,Condo,For Sale
+57247c8e-36a4-48e0-bbdb-e76baea833ed,"6466 Deborah Wall Suite 808, Princeton, NJ 07650",1680443,4,4.5,3956,2.86,1962,Single Family,For Sale
+ba60c8fd-02a9-4cd5-adcd-b0830b649caa,"883 Oscar Cove Suite 266, Lawrenceville, NJ 07850",3249996,4,4.0,5171,4.43,2011,Multi-Family,For Sale
+a2330a35-7cc1-4f2a-b4ee-76937413f225,"653 Harvey Passage Suite 397, Bridgewater, NJ 07658",2995889,5,4.5,5359,4.23,2018,Single Family,For Sale
+a39800ed-4441-4715-a49a-acfb66cb734a,"39731 Jason Port, Woodbridge, NJ 07911",3927691,4,3.5,5322,4.94,2011,Townhouse,For Sale
+be36b376-df36-4663-9af3-5ed749b05cc5,"442 Mark Terrace, Woodbridge, NJ 08892",1085128,4,3.5,3454,3.08,1954,Single Family,For Sale
+ad5900f9-de2e-4ec1-85f2-858ee85949fb,"5084 Kristina Lodge, Woodbridge, NJ 07825",3339408,6,4.0,5386,2.27,2010,Single Family,For Sale
+00c893a4-e7aa-4f75-8125-bfdf6358be67,"0021 Catherine Skyway, Hillsborough, NJ 08345",1715107,3,5.0,3946,1.98,1971,Single Family,For Sale
+3c4bbdc2-9b27-4bd3-b71e-845724d67e59,"188 Michael Flat Apt. 185, Plainsboro, NJ 07983",3394410,7,5.0,6024,3.7,1997,Single Family,For Sale
+e58cf867-5d08-44bb-ac7b-9a910374684d,"769 Gray Way Suite 720, Edison, NJ 08845",2335986,5,4.0,4219,3.63,1982,Single Family,For Sale
+69f472ee-fe32-47f4-ad6f-d2272c07eb77,"24159 Alexandra Fork, Bridgewater, NJ 08821",1762854,3,3.0,3206,1.28,1943,Single Family,For Sale
+60848596-3cd4-4faa-a37d-501851b314d0,"46271 Norma Light Suite 353, Piscataway, NJ 08718",727662,6,3.0,3087,1.66,1966,Condo,For Sale
+44fb5f3b-07ee-4884-92fa-35911709e6b7,"87769 Amanda Mission Suite 493, Plainsboro, NJ 07475",1953406,4,3.5,4008,2.94,1999,Single Family,For Sale
+505321ee-668d-4cda-8e15-0f1be1dc95fb,"707 Peter Canyon, Lawrenceville, NJ 08827",1887899,2,4.0,3010,2.55,1968,Single Family,For Sale
+5a9b360a-6932-4b4b-9b55-363daed4dfd7,"87032 Nelson Stravenue Apt. 498, Plainsboro, NJ 08261",2174749,6,3.5,4931,2.57,2020,Condo,For Sale
+69b332d6-8404-4482-aa5d-52217f2330ec,"00991 Thompson Tunnel, Piscataway, NJ 07409",1549962,3,3.0,2886,2.86,1981,Single Family,For Sale
+9203c95b-0522-4902-aee6-6dc0d20a6608,"0461 Christopher Dale Apt. 496, Hillsborough, NJ 08944",3491384,6,6.0,5921,3.1,2013,Single Family,For Sale
+ad57bc60-f638-4c28-a8b1-f074200f4aea,"3545 Miller Stream, Lawrenceville, NJ 08016",3858744,5,3.5,5823,4.88,2016,Single Family,For Sale
+239aefe0-f81b-4943-badd-27aa3a17ea8f,"64203 Danny Walk Apt. 131, West Windsor, NJ 08292",3945048,6,6.0,6329,3.44,1966,Single Family,For Sale
+ff82b774-ec86-41a6-9970-d61160e638c0,"965 Andersen Cliff Apt. 048, New Brunswick, NJ 07969",1569369,6,3.0,3511,1.74,2009,Single Family,For Sale
+6420531c-89df-4578-a784-a99e1eb5c413,"8076 Nelson Circles, Franklin Township, NJ 07827",2464361,5,3.0,4366,3.84,1983,Single Family,For Sale
+ec922224-1d1c-413c-a77e-630c12d7c3f5,"93365 Thomas Falls, West Windsor, NJ 08187",766371,2,4.5,2217,3.05,1960,Single Family,For Sale
+dcd5b1e2-9e88-417f-98fe-29283837401a,"8162 Maria Common, Lawrenceville, NJ 07988",912786,6,3.0,3066,2.24,1969,Townhouse,For Sale
+62c134e4-26e3-432b-8cf5-0cd0031ec593,"87740 Tracy Throughway, Franklin Township, NJ 07378",2558275,3,3.5,3985,1.4,1954,Single Family,For Sale
+48174a15-a594-4a9b-94b3-f071042c36bd,"1096 Johnson Glen Apt. 867, South Brunswick, NJ 07212",1143653,2,4.5,2215,1.31,1953,Single Family,For Sale
+384a4ecf-72a7-4795-b7b3-dad893e9afbf,"49656 Lori Tunnel, Montgomery, NJ 07291",2030637,3,3.5,3165,3.58,1978,Single Family,For Sale
+6f421011-231d-4bc3-b283-adb20d82c206,"670 Conrad Squares, Hopewell, NJ 07848",2315016,6,5.0,4964,1.15,1974,Single Family,For Sale
+bd988b60-99c1-4289-a486-892820a4e0a7,"72560 Aaron Trafficway, Princeton, NJ 07609",3321469,6,4.0,5643,2.4,2015,Multi-Family,For Sale
+379c148a-6144-42a5-b46c-7fead4f0cd8c,"78252 Matthew Garden, Plainsboro, NJ 07025",3365355,5,6.0,6184,3.09,2021,Condo,For Sale
+93f078d7-1352-40b2-b593-e008b9444a8e,"85967 Jennifer Forks Apt. 028, Edison, NJ 07484",1425389,3,3.0,3446,1.4,1954,Single Family,For Sale
+b40ac9c0-5233-4d72-93b0-65b4a27b1f88,"65350 Fox Trace, South Brunswick, NJ 07709",1171538,6,4.5,3467,1.31,1949,Single Family,For Sale
+745d6f70-cfe7-4bc1-92b6-c74a83476f03,"24341 Billy Turnpike Apt. 992, Franklin Township, NJ 07039",1539625,6,3.0,4017,1.06,1978,Single Family,For Sale
+fa714d1d-ca91-4f70-b133-9f1ab90d8f60,"170 Kristine Cliffs, Lawrenceville, NJ 08985",1178689,4,3.0,3014,1.58,1983,Single Family,For Sale
+88b38c49-a63f-4269-9c78-ccec70d0dc99,"402 Wolfe Path Suite 273, Hillsborough, NJ 08575",1180940,2,3.5,2735,0.54,1954,Single Family,For Sale
+5604da66-727a-4ec0-b2a4-3957493f3403,"167 Rickey Unions Apt. 655, East Brunswick, NJ 08549",3381584,6,6.0,5792,3.86,1945,Single Family,For Sale
+21c185be-9543-44df-84d7-4d730f579dec,"593 Scott Wells, Bridgewater, NJ 08086",2172524,6,2.5,4593,3.52,1941,Single Family,For Sale
+6d0100c9-60e1-457a-997c-823c7b07bedb,"85902 Amy Square Apt. 671, South Brunswick, NJ 08527",3498202,5,4.0,5269,2.22,2019,Single Family,For Sale
+78c5573b-bfaa-452b-b80d-36c325f4194d,"659 Dorothy Heights Apt. 751, East Brunswick, NJ 07709",3320556,3,5.5,5185,3.06,2007,Townhouse,For Sale
+693b4d89-ffdb-401d-9589-4f49fdf36886,"54447 Susan Shore, Lawrenceville, NJ 07580",1603853,5,4.0,3614,1.33,1960,Single Family,For Sale
+21db08d6-78b3-400a-a842-e7612477086b,"200 Lee Hill, East Brunswick, NJ 08249",3847606,6,5.5,6138,2.97,1998,Single Family,For Sale
+5e2d06ae-e180-410d-a8e9-dcdfe5d31eb0,"428 Byrd Islands Apt. 917, New Brunswick, NJ 07457",2645416,5,6.0,5782,3.15,1991,Condo,For Sale
+a478e529-367a-4550-9e2a-0e1736900e9b,"79414 Kyle Views, Woodbridge, NJ 07710",1836710,3,2.5,3784,1.77,1997,Condo,For Sale
+e6f2ce58-d1e3-4380-b97b-043f940f62d1,"37186 Huang Parks, Bridgewater, NJ 08675",701064,4,1.5,2152,1.28,1981,Single Family,For Sale
+40a99580-f368-4a2c-ac38-ad4781b97699,"750 Paul Forges Apt. 399, Hopewell, NJ 07363",1555958,2,3.0,3120,1.32,2006,Condo,For Sale
+604846db-a697-43f6-a10d-0e36516eb5ab,"288 Waller Trace, Franklin Township, NJ 08681",1415846,5,5.0,4268,0.76,1945,Single Family,For Sale
+e9aff1c4-e1a0-44d6-a345-f6b16e948f71,"5106 Jessica Centers Suite 518, New Brunswick, NJ 07127",1762114,3,3.5,3733,1.51,2011,Single Family,For Sale
+d9ffbdae-f708-4d06-ba98-ecdd56345d86,"926 Jason Skyway, Montgomery, NJ 07410",2462535,3,4.0,4311,1.2,1991,Single Family,For Sale
+9988796c-cf08-4b0c-a792-556c3a848f18,"77735 Jonathan Pine, Lawrenceville, NJ 08284",909131,2,2.0,2146,0.99,1942,Single Family,For Sale
+3999ebf2-3170-42d8-828a-dc83f95969b6,"92155 Kendra Isle Apt. 808, Hopewell, NJ 08222",2617138,4,3.5,4626,1.58,1997,Townhouse,For Sale
+f633e9cc-b792-400f-abff-5e6f579c0fbb,"511 Aguilar Cove, Franklin Township, NJ 08449",922321,6,4.0,3429,2.41,1994,Condo,For Sale
+45c29770-7a00-4db2-a24e-8732b20d6729,"7823 Brian Dale Apt. 356, Bridgewater, NJ 07106",3011581,7,6.0,6033,3.98,2015,Single Family,For Sale
+c79c80ef-03c2-40f3-bf44-8431cb229a16,"79130 Washington Views, Lawrenceville, NJ 08186",968733,6,2.5,3773,2.62,2017,Single Family,For Sale
+e0aceb0d-f568-4a65-82b7-493c0982a9a9,"643 Benjamin Prairie, New Brunswick, NJ 07561",1323503,5,4.5,3542,1.83,1980,Multi-Family,For Sale
+b370cf1f-3f09-4871-9dad-d957e49b71c6,"18094 Corey Orchard Suite 623, Woodbridge, NJ 08819",1039511,6,3.0,3129,1.65,1961,Multi-Family,For Sale
+aaa49828-a988-4ae6-92c2-633bc2df1f3f,"22318 Bush Inlet, Hillsborough, NJ 07723",3330793,6,3.5,5362,4.52,2010,Single Family,For Sale
+ea5bbbc9-c825-4748-8860-ba13705aff8a,"27256 David Spring Suite 494, Lawrenceville, NJ 07027",3547032,7,4.5,5937,2.05,1997,Single Family,For Sale
+0087c430-d385-4fe0-9706-e9c1374c00a5,"78367 Carr Forest, Bridgewater, NJ 08802",1061397,4,2.5,3026,2.57,1982,Single Family,For Sale
+5323ef56-69cd-42c4-b14c-919b4aa67db7,"43734 Herrera Lane Suite 338, Piscataway, NJ 08083",741740,5,3.5,2941,0.88,1984,Condo,For Sale
+18f6e2f9-49ac-41d5-9a96-39817f9b5820,"07712 Allen Rapid Suite 804, West Windsor, NJ 08618",1516031,5,6.0,4743,1.47,1990,Condo,For Sale
+d54657e5-0591-42e5-ab32-1cf055116a42,"51683 Mary Roads Apt. 694, Woodbridge, NJ 08179",3663013,3,5.5,5689,4.64,2021,Single Family,For Sale
+159c6447-aac4-42f9-a6fd-0e244ed107b3,"338 Ramos Crossroad, Franklin Township, NJ 07101",1917686,5,3.0,4038,2.42,1943,Townhouse,For Sale
+155cf3e5-7405-4d43-9efe-70e354004168,"2080 Melissa Cliff Apt. 068, Piscataway, NJ 08565",2875722,6,6.0,5342,2.29,2009,Single Family,For Sale
+947dfeef-412f-40f2-b525-2feab77288d6,"2246 Carpenter Route Suite 659, Montgomery, NJ 07215",1904369,6,4.5,4297,3.6,1947,Single Family,For Sale
+ca0c3bfc-8d8a-42fb-8d18-992c66032ad4,"237 Smith Union, Bridgewater, NJ 07640",1279047,6,4.5,3481,0.91,1968,Multi-Family,For Sale
+ef4a02d2-9e72-471e-a7cb-0df127bae8ef,"2501 Gibbs Lodge Suite 522, East Brunswick, NJ 07317",807360,2,4.5,2555,2.94,2003,Single Family,For Sale
+c269fd69-f968-49b6-bb4c-fd5a050cab01,"236 Moore Freeway, Hopewell, NJ 07828",1097441,4,4.5,3596,1.0,1950,Single Family,For Sale
+f504701d-00ab-47ed-b002-eb2e857c58bd,"90295 Anthony Plains, Woodbridge, NJ 07872",2457608,7,4.5,5058,1.95,2024,Single Family,For Sale
+68c9202d-dffa-4cdf-b58c-1b6e9065764f,"5237 Webb Mall Apt. 028, Montgomery, NJ 07409",2681644,7,4.0,5168,2.54,2005,Single Family,For Sale
+8b10c0ea-a050-4eb4-8aef-d1dd8a0c7b3b,"68156 Martin Heights, East Brunswick, NJ 07317",885569,3,2.5,2379,3.13,1940,Townhouse,For Sale
+c6fd63e8-486c-4aa6-a704-d25af83fdbcb,"128 Thompson Passage, Princeton, NJ 08825",3764196,6,4.0,6338,3.7,2005,Single Family,For Sale
+3de3a2ec-0905-4762-ba8d-c5a96b757e1f,"39536 Amanda Trafficway, Princeton, NJ 08794",3253277,5,3.5,4763,4.0,1994,Single Family,For Sale
+2e20a296-37d7-4229-a90c-696b39bab98c,"328 Mark Views, Hillsborough, NJ 07762",3969138,3,4.0,5031,4.68,2013,Single Family,For Sale
+e877097b-bc67-4874-9f32-1fe0cb34bc3e,"7889 Reeves Viaduct, Franklin Township, NJ 08247",3025064,3,6.0,5088,2.49,2012,Single Family,For Sale
+76eaf159-4ed3-47f8-b018-5d42b960f37a,"0813 Lauren Summit Apt. 489, Franklin Township, NJ 08883",3555243,7,6.0,6167,1.92,2024,Multi-Family,For Sale
+3d0e1f9f-3cdf-4544-befc-f76223e410ec,"8747 Holly Mountains Suite 225, Plainsboro, NJ 08591",2957280,4,3.5,4305,3.87,2025,Multi-Family,For Sale
+492ea652-553c-4fd7-ae13-555f3a0578c7,"5580 Long Courts, East Brunswick, NJ 08093",3109983,4,3.5,4799,1.71,2021,Single Family,For Sale
+6865580b-46f1-4d92-85bc-dfab218e6f54,"9661 Holmes Pines, West Windsor, NJ 07594",2883019,4,3.5,4550,4.16,1950,Single Family,For Sale
+4a3b75a9-4c65-4414-9be4-d3ba8797eb3a,"6091 Rose Station Apt. 200, Bridgewater, NJ 07736",1904111,6,2.5,3921,2.64,1947,Single Family,For Sale
+a73802df-c3ab-4515-b11e-15fa006798f7,"33467 Sharon Gardens Suite 945, East Brunswick, NJ 07913",865037,2,4.0,2255,2.27,1957,Townhouse,For Sale
+13a3191d-fc8a-4a8b-84c9-563311acf7d0,"305 Christopher Mission Suite 207, Montgomery, NJ 07628",1619633,6,5.0,4292,1.35,2022,Condo,For Sale
+37b0358f-d145-4ab3-a574-c06bceab0dfd,"98530 Julia Cape, Plainsboro, NJ 08587",1226983,4,3.5,3993,2.15,1945,Condo,For Sale
+71efe19f-3c5e-422d-abb7-d5511a94d198,"76585 Nicholas Spur Suite 998, Princeton, NJ 08586",1124062,4,5.5,3237,2.24,1982,Townhouse,For Sale
+393ee67c-165f-46ec-a546-3c9bdbedf7ba,"156 Hall River Apt. 225, Lawrenceville, NJ 08396",1538307,2,3.5,2442,2.38,1965,Multi-Family,For Sale
+585f6af4-a518-44b4-9286-69342d864fa3,"76148 Ware Fall, Piscataway, NJ 07988",3996866,6,6.0,6734,2.54,2014,Single Family,For Sale
+f8769dec-e00b-415f-a030-922e16f5eea2,"5002 Kelly Springs, West Windsor, NJ 07684",2159026,2,3.5,3811,1.59,1947,Single Family,For Sale
+823d0725-96b0-4336-9fc2-9a87ac5cb763,"3253 Payne Track, East Brunswick, NJ 07416",2381906,6,5.0,5320,3.07,1975,Single Family,For Sale
+f6e3db96-ec7d-4458-bcf9-badb6b83c646,"796 Christine Ridges Suite 614, South Brunswick, NJ 07412",804499,6,3.5,3728,1.87,1954,Single Family,For Sale
+1e037627-70b3-4a7e-842a-215648166bcd,"1953 Rachel Spurs Apt. 891, Edison, NJ 07212",2943049,6,4.0,5408,3.71,2022,Condo,For Sale
+799ea727-f8ff-4659-9349-4b8c8cbd7c1c,"90983 Luna Parks Suite 891, Woodbridge, NJ 08545",1659552,6,5.5,3899,0.96,1991,Single Family,For Sale
+d9bd9ee0-05f6-4c07-9fd0-f7da7117510a,"113 Bright Ville Apt. 055, Bridgewater, NJ 08455",667224,2,4.5,2644,1.05,1957,Single Family,For Sale
+4f1c4527-7928-47b3-9f31-e3b71f7f7c41,"2617 Jorge Cove, South Brunswick, NJ 07879",2150494,4,6.0,4146,2.57,1968,Single Family,For Sale
+fd5159b0-86f4-4872-b5b4-10ddbedac445,"69640 Vickie Parks, Woodbridge, NJ 07068",3859305,5,6.0,5973,2.06,2014,Townhouse,For Sale
+b2e6bdb5-169c-4380-bbba-75749771c258,"40035 Clark Tunnel Apt. 262, Edison, NJ 08354",865006,6,4.5,3361,1.97,1953,Single Family,For Sale
+a1ff8a60-1262-4a08-a083-f67215e52ed2,"490 Laura Ways, South Brunswick, NJ 07912",920342,5,5.0,3191,3.34,1984,Condo,For Sale
+e0fd2f40-8a2e-4d50-aaf8-11e1865998a6,"8711 John Wall Apt. 808, Princeton, NJ 07858",1248559,4,4.5,3439,2.77,1962,Townhouse,For Sale
+df7024cc-f6f0-44ab-8e4b-ddbd31fd12c3,"0996 Edward Pike, South Brunswick, NJ 08744",1043067,5,2.5,3487,2.37,1958,Single Family,For Sale
+8d4bf42e-30af-463b-afda-9747785abab2,"865 Diana Unions Apt. 159, Bridgewater, NJ 08347",3258427,4,6.0,4645,4.31,2021,Single Family,For Sale
+8d9a6adf-809f-413c-ab81-960519805a10,"425 Kimberly Rapid, Hillsborough, NJ 08765",2691548,4,6.0,5140,3.04,1970,Single Family,For Sale
+91c4ea35-25a1-4f81-bdb4-e863f840135d,"1263 Olson Street, Plainsboro, NJ 07786",3650611,7,6.0,6416,2.01,2014,Single Family,For Sale
+d5a668d8-4768-4c3b-86ae-2b2c977a5797,"98144 Jane Highway, Hillsborough, NJ 08445",2632045,7,3.5,4921,1.83,2020,Multi-Family,For Sale
+0622672d-e555-45dc-b964-50c79cdd7139,"7070 Michael Spring, New Brunswick, NJ 08136",3815356,5,6.0,6155,3.32,2023,Single Family,For Sale
+bd5453fe-14f8-4c61-aed7-dc76213c6fc7,"3291 Tristan Avenue, Lawrenceville, NJ 08552",3034068,3,5.5,5248,3.99,2007,Single Family,For Sale
+a7126270-49ed-4227-8d3c-afd9a492686f,"675 Patricia Center, South Brunswick, NJ 08585",870043,4,5.0,2898,2.56,1971,Condo,For Sale
+ac4af9df-12b7-4b31-bbd8-d5466797aa56,"288 Yolanda Manor, Hillsborough, NJ 07384",3779911,6,6.0,6293,3.32,1945,Single Family,For Sale
+b76ca78f-a1c3-4ea7-9513-b4b73f731822,"430 Perry Drive Suite 415, New Brunswick, NJ 07392",1737006,2,2.5,2363,3.55,1959,Single Family,For Sale
+4c6fb7ea-b38c-4d5a-bd8e-51b0c0e8c6c8,"2553 Nash Inlet, East Brunswick, NJ 08395",1273756,3,4.5,3565,3.32,1958,Single Family,For Sale
+9b2e3cde-2aa8-4000-8655-7e55164455b8,"953 Patrick Turnpike Suite 589, Lawrenceville, NJ 07960",3581148,3,4.0,5138,2.42,2014,Townhouse,For Sale
+995ebb2e-a6c5-4e56-aa24-5f5a551be565,"585 Peck Curve, Hillsborough, NJ 07282",816094,2,2.5,2188,0.64,1961,Multi-Family,For Sale
+37c99cc4-d227-4eb4-9c56-6a1a01a9859b,"65711 Krista Dam Apt. 824, Bridgewater, NJ 08528",1542084,4,5.0,3502,1.2,1956,Single Family,For Sale
+55448c69-e0e3-4bde-b52d-e1c195b1c0c5,"838 Monica Brooks, Montgomery, NJ 08324",3295511,5,6.0,5258,2.93,2008,Townhouse,For Sale
+89371f01-bab5-4914-bd02-6960d9555d63,"8616 Crystal Viaduct, New Brunswick, NJ 07107",3652738,5,5.0,6084,2.19,2023,Single Family,For Sale
+e35d36b2-2530-4b06-bcb2-c2ebb059e269,"92931 Burch Highway, New Brunswick, NJ 08938",3349382,5,3.5,5063,3.61,2012,Townhouse,For Sale
+d95f6c39-a602-48a1-b967-59b652a4595a,"26387 Brendan Orchard Suite 636, East Brunswick, NJ 08935",921520,3,4.0,2566,0.3,1959,Single Family,For Sale
+69938155-4a91-43a9-b14d-4f8e20bd9a82,"694 Aaron Ford Apt. 211, Franklin Township, NJ 07289",1679757,3,4.5,3893,3.45,2011,Single Family,For Sale
+663e3d60-3e33-42f4-b9d7-c35f754c7fc8,"873 Nicole Avenue, Bridgewater, NJ 07136",920598,6,3.5,3100,1.63,1971,Single Family,For Sale
+f42a317a-be60-41e9-9af2-0cb54744bb89,"279 Hayes Curve, Edison, NJ 07521",737617,4,3.0,2750,1.44,2013,Single Family,For Sale
+ce8dc1d9-f900-43cb-9ab9-55aaa219e422,"659 Kurt Mountains, Woodbridge, NJ 08040",2852412,6,6.0,5282,3.92,2018,Townhouse,For Sale
+902205cc-cd89-4887-9a44-0de3c92a51f0,"75104 Watts Shoals, Franklin Township, NJ 07623",2138632,6,6.0,5017,1.06,2005,Single Family,For Sale
+c60815c3-5302-4ec0-b8c8-0bb1ad46ba89,"9823 Gonzalez Loop Suite 050, South Brunswick, NJ 07290",2657952,6,4.0,4825,2.74,2009,Single Family,For Sale
+32972882-e991-4127-a09b-ea03594ca64e,"4578 Williams Centers Suite 931, Woodbridge, NJ 07488",2876191,6,4.5,5384,1.87,2016,Single Family,For Sale
+081ab87e-8ff5-44cb-b8e9-5b7f177258be,"199 Hayes Parkways Suite 632, Piscataway, NJ 08455",3506438,5,3.5,5247,3.8,2007,Single Family,For Sale
+96e41ce8-ca92-439a-9240-1302af1a4b48,"548 Lee Parkway Apt. 232, New Brunswick, NJ 07268",1225714,5,4.0,3047,1.36,1984,Single Family,For Sale
+e330b8a3-d86e-4091-b840-628b564f6cab,"371 Michael Square, Piscataway, NJ 07703",2391110,5,3.5,4536,2.71,2002,Single Family,For Sale
+ec05e6b0-a799-4b6e-8df9-b4f54c97801f,"706 Wright Parkways Apt. 829, East Brunswick, NJ 07262",1759242,5,4.0,4397,3.17,1966,Single Family,For Sale
+82c485ab-2762-4b6a-892b-6ffe2456d79c,"31930 Johnson Greens, Franklin Township, NJ 07280",2175676,3,5.0,3520,2.0,1998,Single Family,For Sale
+c2d69db0-0885-4042-b131-39e5856b0456,"04396 Johnson Crescent Suite 493, Montgomery, NJ 07809",1744600,3,3.0,4134,3.23,2017,Condo,For Sale
+1f00885c-617a-4062-ba18-87adc29eb609,"048 Yvonne Meadow Apt. 956, New Brunswick, NJ 08288",2547599,6,4.0,5022,3.28,1981,Townhouse,For Sale
+28098b40-1cbd-4c8d-a9ff-6c95f45b5e31,"031 Daniel Court, West Windsor, NJ 07448",2379343,5,4.5,4612,2.35,2021,Single Family,For Sale
+f4f7606b-2a6d-44aa-9962-a84a405b8183,"514 Harry Dam, New Brunswick, NJ 08856",839242,3,2.5,1939,1.75,2011,Townhouse,For Sale
+938ba9af-968b-4763-a29c-6be2641d40f5,"654 Nelson Lakes, Bridgewater, NJ 07883",1597801,5,5.0,3747,3.55,1981,Single Family,For Sale
+07e06d29-2bbf-4d77-ac78-f9903110f819,"6720 Cannon Cliffs, Hopewell, NJ 08478",2962293,7,5.5,5425,2.99,2015,Single Family,For Sale
+4bdd300d-73c6-438a-b16b-11bb1c67d900,"7812 Felicia Crest, Franklin Township, NJ 07159",1931046,4,3.0,4230,0.95,1987,Townhouse,For Sale
+357e8ae2-738b-487e-a803-63ed526d7851,"704 Regina Center Apt. 499, Woodbridge, NJ 08330",3007705,7,4.5,5577,1.54,1974,Single Family,For Sale
+d93492dd-439d-42c3-9159-d64372b6b9e0,"0847 Wolf Corner Suite 350, Hopewell, NJ 07097",3219005,6,4.5,5745,3.61,2010,Condo,For Sale
+9145853f-55f0-4ce3-9c8e-e33723f80bbe,"825 Mann View Suite 274, South Brunswick, NJ 08535",1026143,6,3.0,3363,1.86,1944,Condo,For Sale
+0cf661a3-9441-4abd-8c2c-71fd7482b4e0,"234 Nicholas Squares Suite 127, Franklin Township, NJ 07123",2365775,5,4.0,4755,3.74,1989,Single Family,For Sale
+902b1257-4a13-408b-9e40-c191c1107ff4,"85006 Mcdonald Center Apt. 596, Lawrenceville, NJ 07598",2406403,5,3.0,3935,2.62,2023,Single Family,For Sale
+f025708c-e6f5-4514-8be9-6d5aece5db0b,"427 Edwards Divide, Hillsborough, NJ 08018",1332415,5,3.0,3424,2.6,1950,Single Family,For Sale
+20fae1d0-dbff-4888-8772-6a4b48fdab1c,"8348 Erika Walk, West Windsor, NJ 07717",3936294,7,5.5,6574,2.59,1945,Single Family,For Sale
+2260f068-ef85-433a-9ab1-f28077aadcfd,"878 Matthew Track, Franklin Township, NJ 07618",1074232,3,4.0,2701,2.17,1965,Single Family,For Sale
+4777c155-f4ed-4b85-8c05-ec7d568ade78,"968 Christine Corners, East Brunswick, NJ 07015",1137132,6,5.5,3884,1.51,1980,Multi-Family,For Sale
+e2d49b8c-16f2-41de-80d8-24d9d77a761f,"480 Patricia Tunnel, South Brunswick, NJ 07101",2067053,3,5.0,3680,1.24,2015,Single Family,For Sale
+962e4545-2535-4428-b21d-4ac98556a914,"690 Alan Stream, Princeton, NJ 08622",2362409,3,3.0,3599,1.52,2007,Single Family,For Sale
+206f4dfa-8955-4af0-8237-89cb9f295f0c,"309 Hernandez Roads Suite 229, Woodbridge, NJ 07360",3134143,6,5.5,5676,2.94,2025,Multi-Family,For Sale
+2cfd4078-9d43-42cb-b7a4-0ab2bbea1753,"91544 Brown Via, Franklin Township, NJ 07702",1533932,5,5.5,4105,2.95,1948,Single Family,For Sale
+bea02eaf-4312-474b-985d-82f97e19a567,"211 Fuller Path, West Windsor, NJ 08576",3804388,4,3.5,4971,3.51,2012,Single Family,For Sale
+bdc7d083-345b-4b07-934b-3e960965e6c7,"132 Ashley Squares, Bridgewater, NJ 07789",2992027,7,4.0,5586,2.45,2009,Single Family,For Sale
+854740a3-2069-4d23-b12c-74fa1efd415b,"6837 Christopher Wall Apt. 121, New Brunswick, NJ 08913",3820675,4,6.0,5604,3.49,2009,Townhouse,For Sale
+2a85f4a0-770f-4139-a768-1a75128e4b37,"8690 Johnson Field Apt. 304, Montgomery, NJ 07680",1920056,5,5.5,4346,2.04,1979,Townhouse,For Sale
+ddc3d07e-b052-4bd9-ac4e-4bfb5a1ba64a,"021 Steve Fort Suite 636, Bridgewater, NJ 07009",3628883,3,6.0,5192,1.87,2022,Single Family,For Sale
+47357296-a770-4dbf-9f65-23fdf3f44dd4,"6615 Melissa Throughway, Bridgewater, NJ 07569",2406211,4,5.0,4591,3.68,2014,Single Family,For Sale
+d549708d-e186-4231-9c26-cc4e6f265528,"8516 Terry Manors Apt. 252, Piscataway, NJ 07109",2435916,6,4.0,5398,4.19,1983,Condo,For Sale
+d19c3bcc-3cfb-4fcd-9147-64fd3f2cc19e,"936 Young View, Princeton, NJ 07513",761309,2,5.0,2888,2.11,1977,Single Family,For Sale
+701345b9-b907-433f-a2e4-0b6b9132c118,"2528 Mora View, Hillsborough, NJ 07556",637200,3,3.5,2320,0.58,1982,Single Family,For Sale
+c6d54365-de00-4d05-bcea-e8b6adba8daf,"33437 Jenkins Plain, New Brunswick, NJ 08094",3120210,5,5.5,5790,3.91,2017,Condo,For Sale
+2d562d96-ef5a-47c1-82da-abbe095df574,"420 Joshua Course, Woodbridge, NJ 08975",3816492,6,4.0,5864,4.69,1997,Townhouse,For Sale
+b75d1d24-8200-4cfa-90e7-347be30d723a,"07855 Lee Forest, Princeton, NJ 07035",1411911,6,2.5,4052,3.48,1947,Single Family,For Sale
+7af31738-bbda-4c98-89c3-508b64697dc0,"302 Moreno Ports, Hopewell, NJ 08693",1913328,5,3.0,3903,1.12,1944,Single Family,For Sale
+4f327469-78b1-4a4c-a0e2-67bd3ec0371a,"98504 Jennifer Union Apt. 011, Bridgewater, NJ 07904",1387905,2,5.0,3084,2.32,1968,Multi-Family,For Sale
+16f0f507-1882-45f4-990e-49f6633eea02,"789 Juarez Drives, Princeton, NJ 08785",2330308,3,3.5,4907,2.69,2012,Condo,For Sale
+31d02a66-0729-4ccd-b8c2-e16af48d891f,"0950 Harris Stravenue Suite 547, New Brunswick, NJ 07701",2880036,4,3.5,4733,2.86,1955,Single Family,For Sale
+089b7183-bff6-426e-80f7-fddd6be3952b,"26954 Megan Parkways Apt. 684, New Brunswick, NJ 07859",2037030,3,5.5,3946,2.55,1993,Single Family,For Sale
+b853fc4c-6a26-4a36-ad2d-e45e514174ee,"89005 Pierce Mill, Edison, NJ 07724",2353858,3,3.5,3891,2.19,1978,Single Family,For Sale
+fd92bf34-9c68-4c68-8597-b3ef39050788,"36700 Michael Alley Apt. 800, Bridgewater, NJ 08471",3811576,5,4.0,5614,3.62,1990,Single Family,For Sale
+9df9f4d2-dc36-4b76-8cd1-328ace385d2c,"0603 Maria Valley Suite 476, East Brunswick, NJ 08931",2883331,5,4.5,4776,3.27,1983,Single Family,For Sale
+6542e8be-b04b-483f-80ae-66e9bae5e41e,"196 Joseph Manors, Lawrenceville, NJ 07692",3630868,3,5.0,5311,2.84,1979,Townhouse,For Sale
+c7666e97-6e43-4e9e-898b-1b2169aa7680,"5794 Anthony Crest Suite 287, Plainsboro, NJ 07609",1197330,2,3.5,2332,2.55,1943,Townhouse,For Sale
+d976405c-7bd7-4327-9958-9408f06f94df,"4797 Kathryn Mountains Apt. 861, Bridgewater, NJ 07942",3103461,6,6.0,5642,3.77,2023,Single Family,For Sale
+8ac741b7-c157-4914-af67-775a0423c4d5,"0070 Steven Wells, Bridgewater, NJ 08471",2194243,3,3.5,3266,1.94,2019,Single Family,For Sale
+a90bc884-e05d-4209-bf0b-84fbbe7f2165,"829 Wayne Shoals, Hillsborough, NJ 07946",2855739,6,3.5,4704,3.52,2024,Single Family,For Sale
+da0c16fd-dab7-4540-9904-4af1f62e6025,"4367 Daniel Squares, Bridgewater, NJ 08930",3800999,6,5.0,5985,1.95,1941,Townhouse,For Sale
+2e32fbd5-6098-4aeb-9597-2e745c76e77a,"032 Jose Landing, Montgomery, NJ 07675",1954439,5,4.0,4112,2.15,1984,Townhouse,For Sale
+c0d9a6a9-8eee-4352-84dd-6946a69004ca,"321 Keith Track, Woodbridge, NJ 07172",3829638,3,4.0,5199,2.47,2016,Single Family,For Sale
+d6dd8294-f3e0-4176-8f0d-1dd860f740bd,"76039 Hill Brook, Hopewell, NJ 07697",3039858,7,6.0,6127,4.44,2018,Single Family,For Sale
+65b09dcc-05d9-469d-ba91-2775c16a7885,"3036 Jimenez Mount, Edison, NJ 08066",888363,6,3.5,3364,2.48,1986,Townhouse,For Sale
+b5c9be66-7576-467b-ba93-0c831bd31573,"19986 John Forks Suite 871, New Brunswick, NJ 07597",2406343,6,4.0,4969,3.96,1970,Single Family,For Sale
+a3b1da12-0a94-4ff9-97c9-9c4a2cd243d8,"256 Gentry Drives, Hopewell, NJ 07947",3903938,6,5.0,6146,4.24,1984,Single Family,For Sale
+877a71c8-3557-4614-b31c-c211b148347b,"71097 Carlos Garden Suite 810, Montgomery, NJ 08689",3413155,5,4.0,5821,2.13,1953,Multi-Family,For Sale
+1d344d2b-2499-45d7-9165-2fe4d566e6f9,"901 Hawkins Village, New Brunswick, NJ 07245",3945215,4,6.0,5181,4.16,2019,Townhouse,For Sale
+6626cc09-ddc5-4bca-b5a3-df042eae5198,"578 Ronald Locks, Princeton, NJ 07277",3738452,6,3.5,5779,3.57,2018,Single Family,For Sale
+cb96a0c5-eebd-4fe0-9a17-930108da28b1,"58317 Jones Grove, New Brunswick, NJ 07602",2242528,4,4.5,3749,2.06,1942,Townhouse,For Sale
+6996ae62-ee6a-4938-8859-18f797e99764,"88258 Sherry Isle Apt. 413, Edison, NJ 07630",3913392,4,4.5,6013,3.19,1984,Multi-Family,For Sale
+ca9a5f76-8ae4-4177-9447-934768f94627,"55411 Thomas Junction Apt. 652, New Brunswick, NJ 08575",1406531,5,5.5,4050,0.65,1971,Single Family,For Sale
+7b8682a1-3d2b-4d1b-baf7-1a91765ef1a5,"503 Elizabeth Trace, East Brunswick, NJ 07317",2472188,4,5.0,4549,3.33,2019,Townhouse,For Sale
+5d60a2aa-de63-425b-b0ee-fcc1315d1816,"9645 David Wall Apt. 757, East Brunswick, NJ 08269",1269368,4,3.0,3171,1.21,1979,Single Family,For Sale
+6802c3bc-9424-4995-b94b-1b7e58612caa,"295 Hunter Point Apt. 712, Franklin Township, NJ 08763",2804327,6,3.5,4649,2.01,1952,Single Family,For Sale
+38449dc3-8071-439b-bffc-20fc9b35f4e6,"8466 Robinson Path Suite 656, New Brunswick, NJ 08065",995596,3,4.5,2434,2.9,1960,Multi-Family,For Sale
+ca05663f-cee1-4bc2-91f2-3c4176c116f9,"3750 White Valleys, Lawrenceville, NJ 08817",2969124,4,4.0,4702,4.3,2023,Single Family,For Sale
+105f1b8e-c076-46fa-8cd2-c44ac526a2e7,"33372 Cynthia Isle Apt. 503, West Windsor, NJ 07491",829561,6,2.0,3146,1.02,1953,Condo,For Sale
+50986224-93a9-4cb7-b20e-00e5b21bce6b,"528 Rachel Skyway, Franklin Township, NJ 08015",3832510,6,6.0,6074,3.79,2017,Single Family,For Sale
+33a5e3dc-8387-4ed7-9fc1-60a1efaef14e,"80897 Boyer Shoals Apt. 979, Piscataway, NJ 07733",2112539,5,5.0,5235,2.65,2011,Condo,For Sale
+7296a5b9-a868-4734-be22-2f1d1f74aba0,"883 Gary Avenue Suite 942, Montgomery, NJ 07145",3144568,3,6.0,4872,3.01,2016,Condo,For Sale
+37687480-f9e4-49f3-8309-98c8fdbbaaee,"41154 Cochran Divide, Hopewell, NJ 08599",3574192,4,5.0,5538,3.8,2013,Multi-Family,For Sale
+ac9c8ac4-a54b-492a-95b1-09a8bd889be7,"20745 Joseph Fork, Hopewell, NJ 08140",3208388,6,5.5,5512,2.63,1993,Single Family,For Sale
+54c0adbf-4b2f-41de-8407-853d30d1a066,"08260 Carrie Valleys Suite 259, Piscataway, NJ 07104",2021858,4,3.5,4297,1.96,1968,Condo,For Sale
+c66a14be-355d-456f-b0b5-d4b461b4c9e4,"7600 Johnson Plains, West Windsor, NJ 08257",2081494,2,3.5,3104,2.6,1951,Single Family,For Sale
+671d5df6-5e94-47a5-90d9-d2c3e9295c46,"310 Victoria Trafficway, Woodbridge, NJ 08752",1153388,6,2.0,2822,2.75,1947,Single Family,For Sale
+c1fad1eb-bf79-486a-ae96-cefba67bea2e,"04170 Roy Field Suite 748, Plainsboro, NJ 07824",3060168,6,4.5,5237,4.45,2002,Single Family,For Sale
+0f3cd0f0-e2a5-4c48-85ff-9f4fac316fa0,"289 Jeremiah Manors Suite 388, East Brunswick, NJ 07635",2224815,2,2.5,3592,3.36,1976,Multi-Family,For Sale
+080ba935-625c-4a53-bf23-a6355c83e520,"11437 Catherine Port, South Brunswick, NJ 07019",1064828,5,3.5,3197,1.76,1981,Single Family,For Sale
+1ea343b6-489b-4d89-b7fb-74a21e1a74f6,"681 Thomas Route Apt. 028, Plainsboro, NJ 07858",1117010,5,3.0,3308,0.91,1951,Single Family,For Sale
+3c4ce623-2fd0-4233-8e3d-7a549713b305,"4820 Hammond Lights Suite 108, Franklin Township, NJ 08968",1847100,6,4.5,5425,2.34,1979,Condo,For Sale
+dcad39d7-2b33-46bc-9917-c2bcbddd3a4d,"2944 Thomas Squares, East Brunswick, NJ 08938",716902,4,3.5,2454,2.21,1954,Multi-Family,For Sale
+b27177c5-fe53-46b0-bef9-61dd4d7e7c2a,"874 Mcgrath Rue, Montgomery, NJ 08845",1636763,3,5.0,3934,2.65,1966,Single Family,For Sale
+b4d7e9f3-ae52-455d-b60d-1097ab9ace12,"863 Jill Ford Apt. 420, Montgomery, NJ 07271",1480478,2,2.5,3131,1.36,1967,Multi-Family,For Sale
+a87c27d0-0c9d-4db7-acf2-cec26a66b355,"396 Jonathan Tunnel Suite 005, East Brunswick, NJ 07830",620205,4,4.5,2939,3.02,1977,Townhouse,For Sale
+3a450868-ccd5-4d0f-b01b-b84125f5c8a8,"1143 Lewis Alley Apt. 545, Hopewell, NJ 08235",2290425,7,3.0,4680,1.6,1992,Single Family,For Sale
+0c9e309c-c612-4fe5-b833-402a0eb45720,"4652 Claire Tunnel, Woodbridge, NJ 08976",782688,4,3.5,2189,1.97,1984,Condo,For Sale
+063341f8-5c72-4b18-88f9-92e689cc6f08,"101 Taylor Station, Franklin Township, NJ 08310",1705336,3,3.0,3175,2.78,1955,Townhouse,For Sale
+9366205a-2bba-4e01-92b8-7b481769e94e,"835 Mary Freeway Suite 148, South Brunswick, NJ 07366",1506395,6,3.0,3446,1.95,1956,Single Family,For Sale
+0f090136-7e74-4b9a-b020-4a0d45b4771b,"1342 Edward Groves, Montgomery, NJ 08427",2493189,3,3.5,4071,2.84,1943,Single Family,For Sale
+25e0ef68-9665-4d2d-b811-58d144ec48b5,"910 Perez Camp, West Windsor, NJ 08466",613912,3,3.0,2735,2.1,1941,Townhouse,For Sale
+9f2dc1e2-ef3c-45b5-bac2-4e1d688dad2a,"44978 Shawn Ramp Apt. 212, Bridgewater, NJ 07546",1105892,5,4.5,3440,2.86,1955,Single Family,For Sale
+f0f71354-8cf2-4112-995b-687b409b5ea7,"00489 Christopher Ford, Franklin Township, NJ 08093",3212227,5,6.0,5375,2.49,1990,Single Family,For Sale
+2d52d6ef-51de-477d-98ec-1c14a5ebe056,"945 Susan Fork, Edison, NJ 07309",1654444,4,4.5,3245,3.51,1986,Multi-Family,For Sale
+2cfd2f1b-04ff-4baa-ab7c-f5eb3ec2b4a0,"971 Gray Wall, South Brunswick, NJ 07369",2440840,4,3.5,4231,2.18,1971,Single Family,For Sale
+48741b6a-6d51-49c9-b2b5-3a2c1dbd74fe,"58663 Owens Hills Apt. 137, Piscataway, NJ 07264",3934816,7,6.0,6255,4.78,2010,Single Family,For Sale
+c7dba597-4b11-45a3-a542-fd017304df45,"06632 Beck Harbors, Piscataway, NJ 07462",3558585,7,6.0,6655,3.7,1940,Townhouse,For Sale
+929fd504-7aed-4109-942d-4c8f75b57460,"07319 Laura Well, Hopewell, NJ 08371",2729967,5,3.5,4389,2.75,1955,Single Family,For Sale
+60491e69-827e-4472-b606-0562ccce4069,"2777 Pham Lodge, Edison, NJ 07619",3157329,6,5.5,5757,1.61,1957,Townhouse,For Sale
+3e725813-bf5f-4ac5-99ef-3f8b9cbac37e,"015 Wolf Springs, Montgomery, NJ 07014",2963933,6,3.5,5002,3.39,2016,Single Family,For Sale
+70ed6a93-9987-4d07-876a-cd00175fe64d,"6043 Montes Rapids Suite 382, Piscataway, NJ 08390",1979412,4,4.0,4208,2.4,2012,Multi-Family,For Sale
+595fce77-f300-41f2-9b5f-d9671aeff8a9,"72119 Patricia Mews, New Brunswick, NJ 08769",2138926,6,4.5,4286,1.47,1954,Single Family,For Sale
+b7e7d92b-3272-430c-bd86-691fc3c69cfa,"5180 Gross Cove, Woodbridge, NJ 07949",949781,3,3.5,2727,1.12,1950,Single Family,For Sale
+4d39be6a-8ab6-41d7-ba6b-22dbd5b31f89,"394 Baldwin Tunnel Apt. 834, Edison, NJ 07368",3182581,4,4.0,4600,3.98,1964,Single Family,For Sale
+89359124-7408-4c9b-869c-d8117e62c3f4,"42018 Derek Flat, Hopewell, NJ 08343",2900529,4,5.5,5132,4.31,1964,Single Family,For Sale
+b4db81c4-b365-4c37-9c97-1c4c0b026486,"64834 Cynthia Points Suite 575, Hopewell, NJ 08810",2236830,5,3.5,4079,2.02,1989,Single Family,For Sale
+e518a92b-ebca-4bf2-bed1-bf83c5276c28,"1864 Poole Plain Suite 097, Franklin Township, NJ 07573",1163542,3,4.5,3118,2.84,1958,Multi-Family,For Sale
+24bc5804-598e-4290-92dc-ae89de180aa2,"357 Richard River Apt. 541, Hopewell, NJ 08779",3537589,6,6.0,5685,4.68,1969,Single Family,For Sale
+04502d6e-9d6a-490c-b9bc-3fe35ebb6c54,"019 Spence Crescent, Montgomery, NJ 08731",2205656,4,4.0,4492,3.19,1969,Multi-Family,For Sale
+515bc6b0-47ee-458b-a90e-188d481f2a8e,"3541 Romero Dale Suite 542, Princeton, NJ 07516",2944031,7,5.5,5575,2.16,1984,Single Family,For Sale
+89c090a5-4f0a-492b-8fbd-e0ad24b9aa5f,"2434 Jonathan Shores Suite 283, South Brunswick, NJ 07580",3966249,5,5.0,6071,4.83,2025,Single Family,For Sale
+7c6d788c-7837-44f0-b702-e0c4bb3a8ebd,"801 Todd Meadows, Edison, NJ 08519",2628696,6,6.0,5449,3.51,2000,Single Family,For Sale
+03be2a8b-f4ab-4d70-a5a2-ad6a5697a1d5,"8393 Leah Lodge, Woodbridge, NJ 07089",779447,6,3.0,3312,1.76,1971,Multi-Family,For Sale
+9d106bd6-4bea-4c14-b23d-b6874016749c,"30399 Ferguson Isle, New Brunswick, NJ 08422",2831566,6,4.0,5171,1.88,1966,Townhouse,For Sale
+b97eb756-30f1-475b-bb84-b00a9bb67f8b,"75545 Leah Ways, West Windsor, NJ 07717",3901635,3,6.0,5683,4.45,1993,Single Family,For Sale
+9bd681ef-5bc5-4e9b-a20d-c31e331227fc,"705 Anthony Cape, Plainsboro, NJ 07782",3721519,3,5.0,4160,4.51,2004,Single Family,For Sale
+0c09f0f1-80ea-42c0-9f95-9b1bf4c82237,"97856 Kristen Street, Princeton, NJ 07704",1857385,2,5.5,3682,3.43,1966,Single Family,For Sale
+2acf20c5-0a09-47be-b919-6c40fc4b1926,"5426 Howell Alley Apt. 124, West Windsor, NJ 07197",1739516,4,4.0,3427,1.03,1967,Single Family,For Sale
+ea92feb2-4c8c-4a87-8823-07331ea63601,"42515 Moody Plains Suite 120, Piscataway, NJ 08242",1347438,3,4.5,2868,0.69,1969,Single Family,For Sale
+26109a48-5d64-41cb-a085-7aaf9e728309,"21043 Thomas Camp, Franklin Township, NJ 08288",1220631,4,3.0,2864,1.22,1951,Single Family,For Sale
+b17f668e-936b-4c99-91f8-d9753f9cdf4c,"259 Amy Port Suite 008, Franklin Township, NJ 07183",2383627,3,6.0,4533,1.88,1948,Single Family,For Sale
+4cbc43c0-68e3-40dc-9588-4c28072d2969,"859 Randall Light, Hopewell, NJ 08941",1871374,3,2.5,3352,0.84,2018,Single Family,For Sale
+0ec7a4f5-664b-4dad-9d4d-bb9afb255f65,"726 Ellis Greens, Lawrenceville, NJ 08515",1764396,3,5.0,3636,3.12,1992,Single Family,For Sale
+6e592cf6-a823-4c32-afd8-aac850bb3c88,"7071 Jean Spring Suite 009, Piscataway, NJ 08774",2868808,4,4.0,4331,3.75,2003,Single Family,For Sale
+6eb4265f-1f29-4816-8768-971e6bf154dc,"4472 Arroyo Glen, Hillsborough, NJ 07366",1310623,2,5.5,3216,3.41,2018,Single Family,For Sale
+ab3f61ef-5e5d-471a-8627-3cfde89cc72e,"8135 Young Springs, West Windsor, NJ 08504",2947726,5,6.0,5105,4.27,1989,Townhouse,For Sale
+2e0540d9-4481-41e9-a69d-625a0755233f,"060 Taylor Overpass, New Brunswick, NJ 07584",2061176,5,4.0,4265,2.03,1964,Single Family,For Sale
+7cc9d6d0-3c61-4f75-8f21-f0f997aefea0,"26948 Daniels Light Apt. 146, Montgomery, NJ 08590",1333163,2,3.0,3230,2.67,1970,Condo,For Sale
+58f961c5-abe2-4b84-9234-4c5497062a7b,"05226 Miranda Estates Suite 345, Woodbridge, NJ 07442",1807619,5,5.5,4030,3.55,2003,Townhouse,For Sale
+c6412666-8a4e-4f67-b1c6-270591b3c834,"1672 Jill Neck, South Brunswick, NJ 07408",658493,5,3.0,2881,3.03,1940,Single Family,For Sale
+b431dceb-e6e8-4f20-9412-6fd7d34a5fd8,"618 Thomas Ports Suite 087, Edison, NJ 08555",2223530,5,5.0,3936,3.46,2008,Single Family,For Sale
+6186d225-8dcb-4f48-a5c3-368b6fc7502a,"9388 Li Mills Suite 663, Princeton, NJ 07794",3485319,3,5.5,5148,4.46,2001,Single Family,For Sale
+bd6791a9-7a2a-485d-ac45-0a73cf793c69,"650 Peter Crest, Woodbridge, NJ 07837",3752285,7,6.0,6398,3.84,2020,Single Family,For Sale
+52849171-bade-4bf2-a2c0-b95e5fa363a6,"491 Robert Keys, Edison, NJ 08795",3244368,7,3.0,5482,2.52,2010,Single Family,For Sale
+8b7465ef-ed78-404b-ad00-5771bc93bdc7,"775 Carly Vista Apt. 936, Edison, NJ 07483",3617974,4,4.5,5776,4.01,1958,Single Family,For Sale
+eb439f88-ed60-4814-a576-5bd256eb1505,"05622 Bell Forges, Piscataway, NJ 08202",3319283,7,5.5,6200,3.2,1987,Multi-Family,For Sale
+cf392c0d-2056-44fd-a790-2102a001a902,"183 Gonzalez Heights Suite 696, Hillsborough, NJ 08000",2679510,3,5.0,4253,2.35,1973,Single Family,For Sale
+6b92223f-4930-4605-a1da-e96511a480d8,"760 Flores Stream Suite 749, East Brunswick, NJ 07280",1229125,5,4.5,4054,0.47,2002,Townhouse,For Sale
+2e3838ed-554c-4995-a76e-675da803ca8d,"23102 Christina Islands, Hillsborough, NJ 08861",2726538,6,6.0,5153,2.69,2006,Single Family,For Sale
+498eede3-bb8c-47e3-9c13-633c8202ce7e,"050 James Trafficway Apt. 113, Edison, NJ 07669",709888,2,4.5,2346,2.83,2005,Condo,For Sale
+27ce8ecb-6e24-49c0-97f0-0fcaeab2ec8a,"7467 Shawn Village, West Windsor, NJ 07594",2630670,5,4.5,4365,2.17,1992,Single Family,For Sale
+f08e5367-5f63-47c0-ae79-d08e94718012,"44819 Linda Underpass, Plainsboro, NJ 08909",1998283,3,4.5,3886,1.27,1980,Condo,For Sale
+7b8c4b4a-1db9-4a45-a8ac-ad9d04023e44,"028 Roberts Cliffs Apt. 061, Lawrenceville, NJ 08312",3222954,4,5.5,5031,3.93,2015,Single Family,For Sale
+d248fa39-857e-4ce8-b088-50c1b5d08464,"929 Romero Ranch, Montgomery, NJ 08248",1268780,5,3.0,3110,1.4,1954,Townhouse,For Sale
+0aafddd0-8085-441f-8b12-0fe091d20f23,"1700 Lopez Rue, West Windsor, NJ 08633",2453120,5,6.0,4862,2.92,1953,Single Family,For Sale
+95759626-f44d-42c4-bfcc-b83ce2074ba5,"063 Villarreal Green, West Windsor, NJ 08108",1173060,2,5.0,2259,2.97,1975,Single Family,For Sale
+f94decb5-c582-4b7d-97ab-2197efe08581,"96253 Bishop Rest Suite 842, Bridgewater, NJ 07511",850462,3,5.0,1973,2.6,1980,Single Family,For Sale
+d827e7b2-db75-4502-b615-d2395fdfa51a,"64650 Beasley Islands Apt. 633, Edison, NJ 07182",1045504,2,3.5,2837,1.23,1984,Single Family,For Sale
+b673b30b-1860-46e6-a6e8-86a324a68ab1,"74270 Hall Lake Suite 620, East Brunswick, NJ 07238",1799302,2,4.5,3080,3.19,1988,Townhouse,For Sale
+65eec355-5de8-4730-8a0d-4cfc8598e142,"8696 Gray Underpass, Hillsborough, NJ 08939",990499,4,5.0,3110,3.08,1958,Multi-Family,For Sale
+9d87da15-2387-41f1-82e8-97fd349ccc60,"5736 Michael Lock, East Brunswick, NJ 07815",2775927,3,6.0,5232,4.71,2021,Condo,For Sale
+d08f55cb-2d1d-4022-b3f5-252e2347749a,"983 Heather Mall Suite 719, Franklin Township, NJ 07648",2019118,4,5.5,3846,1.1,2024,Single Family,For Sale
+d86dd645-190e-49c8-aabd-1368c1e3afc7,"7114 Sherri Ways, East Brunswick, NJ 08158",2030878,4,2.5,3504,2.12,2001,Multi-Family,For Sale
+e2451e0d-3eae-453c-a753-edba1250d13b,"6081 Watson Ferry Apt. 673, South Brunswick, NJ 08128",3747092,4,6.0,5912,2.74,1997,Single Family,For Sale
+b52c7d71-3395-4e06-b7dc-b5a4bf06615d,"28867 Avila Extensions Apt. 853, Princeton, NJ 08716",1086652,2,4.0,2417,2.84,1970,Single Family,For Sale
+c6eb4f94-39d5-4e2a-8117-f17fa06a4297,"16265 Adam Trail, Woodbridge, NJ 07028",1317948,6,4.0,4473,2.39,1951,Single Family,For Sale
+39d471cf-2446-426a-bfc1-2901708a941f,"2939 Matthew Gardens Apt. 608, Hopewell, NJ 07991",816618,3,5.0,3517,2.97,2005,Single Family,For Sale
+d9ca1cd9-3118-46ae-ab54-93efee847af2,"8423 Megan Park Suite 965, Hillsborough, NJ 08120",2184577,2,5.5,4113,1.25,1972,Single Family,For Sale
+e9689419-4b4d-4fae-b1c0-41755ca9f020,"1145 Campbell Villages, Woodbridge, NJ 08425",3850842,6,4.0,6353,3.29,2020,Single Family,For Sale
+37573ac0-77c9-48ce-88c4-a922559b1c4e,"4066 Rodriguez Crescent Suite 554, Piscataway, NJ 08898",2036927,3,2.5,3034,2.24,1972,Single Family,For Sale
+4772f02e-03ed-46cc-b2e7-3c2a2963079d,"511 Andre Glen Apt. 362, Montgomery, NJ 07434",2956901,3,4.0,4925,1.97,1961,Single Family,For Sale
+72d111cc-00ed-4891-9de1-4398b90f4821,"89703 Susan Underpass, Princeton, NJ 07163",3729780,3,4.0,5179,3.45,2019,Single Family,For Sale
+2a483fa0-09ca-48b8-ba2c-05c149b22f5f,"126 Jennifer Skyway, East Brunswick, NJ 07152",3239182,5,6.0,5915,2.62,1975,Townhouse,For Sale
+a7cff8d5-bdd7-4dca-b2b6-d04622310f76,"08459 Tammy Fork, Plainsboro, NJ 08859",1777504,5,4.5,4902,3.12,2022,Condo,For Sale
+bbd40f23-8e6d-4a51-b7b9-bd4ca8c0157c,"69335 Stephanie Forge, Hillsborough, NJ 07874",1001041,5,4.0,3693,1.37,1957,Single Family,For Sale
+b737e2fd-3bd7-436f-a6cd-93972fa0e041,"6179 King Forest Apt. 547, Bridgewater, NJ 07336",3251342,6,6.0,6401,1.62,2005,Single Family,For Sale
+1e5a8ddd-a35a-42bb-bbe5-038e456fe8c0,"18470 Teresa Path, Hillsborough, NJ 08744",2179588,5,5.5,4804,1.6,1988,Single Family,For Sale
+f3c0b11d-45d9-481e-8802-cfb41850d297,"1650 Barnes Glen Apt. 021, Hopewell, NJ 08365",2415050,4,5.0,4542,4.06,1961,Townhouse,For Sale
+d6117462-175e-4862-8e1c-ba4869756c9d,"791 Newman Shore, Lawrenceville, NJ 08206",2051727,4,3.0,3958,1.77,2000,Condo,For Sale
+668eb728-188d-4fae-b288-5ff78bc28e5c,"27002 Smith Course, Piscataway, NJ 07448",2540410,6,4.0,4902,2.63,1970,Townhouse,For Sale
+0a550281-6e56-4049-8baf-97e1e807b07c,"83386 Myers Mall Suite 766, Piscataway, NJ 07203",3804553,4,5.5,5526,2.37,1955,Single Family,For Sale
+b2fb5ff6-9efd-45d1-8103-a7e7353cd878,"18055 Gallagher Mill Suite 828, Bridgewater, NJ 07970",3497426,3,4.5,4871,4.26,2009,Single Family,For Sale
+6b22bc26-895f-41e4-b859-ed13428c59eb,"80486 Rowe Springs, South Brunswick, NJ 07410",1408330,5,2.5,3025,0.87,1984,Single Family,For Sale
+9414807f-d093-4a91-ac8f-272508bb2a27,"7815 Sanchez Plaza, West Windsor, NJ 07558",3293106,6,5.5,6042,4.57,2013,Single Family,For Sale
+178eebce-5248-4358-be09-0b57ed88ec1c,"0309 Andre Port, Hopewell, NJ 08550",1249723,2,3.5,2292,2.13,1955,Multi-Family,For Sale
+9e8e44b2-539b-4715-a5c9-d63379aee799,"15181 Kyle Lock Suite 442, Edison, NJ 08024",1810918,4,5.0,3861,1.23,1990,Townhouse,For Sale
+189c5e85-1cfb-4319-a596-4250e811dcca,"7857 Rodriguez Isle, Lawrenceville, NJ 08056",2667123,7,5.0,5590,1.67,1955,Single Family,For Sale
+5d99b8ea-ccaf-434e-ad85-39c2ca03595c,"86690 Kayla Garden Suite 316, South Brunswick, NJ 08639",3520805,4,6.0,5333,1.91,2023,Single Family,For Sale
+7422e24e-3b98-4829-9579-856a2a5346d9,"9945 Cindy Run, Piscataway, NJ 07296",1478347,5,4.0,3663,0.94,1970,Single Family,For Sale
+78bb507d-3287-4c93-956f-da67c4bd3757,"155 Brian Radial Apt. 726, Plainsboro, NJ 07537",1455685,3,2.5,3085,2.28,1951,Single Family,For Sale
+9d5a4369-5fa6-491d-b8ef-65a13b1ed0c2,"377 Caroline Walks Apt. 073, Plainsboro, NJ 08737",2369562,4,4.0,4070,2.45,1967,Single Family,For Sale
+be5e2b29-46e7-45d4-8fea-127f37036d5a,"6883 Kennedy Avenue Suite 640, Montgomery, NJ 07309",1718899,5,2.5,3793,1.93,1984,Single Family,For Sale
+91c89af8-e4fe-412e-923c-46bed0589a40,"94784 Keith Ports Apt. 280, Montgomery, NJ 08338",3948696,6,6.0,6185,2.8,2002,Single Family,For Sale
+9960e322-d30d-444f-ba93-519b76a26165,"302 Tammy Terrace Suite 700, Princeton, NJ 08080",2387282,6,4.0,4515,1.81,1943,Single Family,For Sale
+2f94b38c-b7fb-4bf3-b119-4bb3e805aa52,"50225 Phillips Coves Apt. 628, Princeton, NJ 08312",3418850,6,4.5,5786,4.24,1965,Single Family,For Sale
+1c23ceed-04f7-4ae5-a9a2-6c0f197f471e,"6437 Sheena Trace Suite 858, Piscataway, NJ 08597",644568,6,3.0,2595,0.38,1973,Multi-Family,For Sale
+84b5878f-5009-48c9-a6c7-db9f55d16a1c,"2360 Wright Highway, New Brunswick, NJ 07718",2215507,6,2.5,3918,2.77,1977,Single Family,For Sale
+56463f67-a144-4452-a9b4-537653dcc74b,"3779 Nicole Shoal, Franklin Township, NJ 08269",1633658,2,3.0,2671,2.31,1953,Multi-Family,For Sale
+15e24358-30f8-47d6-ac26-779df83ec5c3,"3022 Nathaniel Radial, Franklin Township, NJ 07791",2202297,5,5.5,4535,2.89,2019,Single Family,For Sale
+e51902c6-96c1-4fb5-b979-225942b3e6b9,"263 Brenda Estates, New Brunswick, NJ 07918",3735449,4,3.5,4559,3.31,1991,Single Family,For Sale
+dacb08bd-ade9-4812-9d3d-9f2a511b2f4e,"58889 Robert Loaf, West Windsor, NJ 07110",3132419,6,4.0,5451,3.92,2006,Single Family,For Sale
+d2390343-cd9c-4fe7-9ef0-8f898bf2d9a8,"414 Elizabeth River, Hopewell, NJ 07567",2530935,6,5.0,6414,4.75,1994,Condo,For Sale
+b93dcaf6-194f-4166-a883-a06115e6b9b7,"692 Robert Corners, Piscataway, NJ 07065",2993350,5,6.0,5292,3.91,2015,Single Family,For Sale
+54b5858a-dc37-44d1-90b1-20c0b6db4595,"40634 Fry Bypass Suite 968, Edison, NJ 08748",1269093,6,4.5,2923,3.2,1944,Townhouse,For Sale
+bd1d1a5c-dca2-44c3-92aa-5b2053a7d6b5,"314 Lawson Ways Apt. 052, Montgomery, NJ 08039",516618,3,2.5,2115,2.84,1974,Townhouse,For Sale
+7ec333f4-64f3-4fb7-8665-e925fa47fc69,"20485 Denise Valley Apt. 336, Plainsboro, NJ 07154",3861728,4,4.5,5470,4.72,2019,Single Family,For Sale
+81775482-20ed-407b-b74a-233cd4359066,"687 Heather Spurs, Plainsboro, NJ 07346",2036159,6,5.5,4609,2.77,1967,Single Family,For Sale
+cad15a65-7c4a-47b1-87c6-67a64a0d03f0,"97498 Harris Prairie Suite 127, Hopewell, NJ 07061",1493733,2,5.0,3637,1.51,2023,Condo,For Sale
+43e76a5f-68a5-4bf2-85a4-85e84de4c7cf,"34688 Erica Lodge Apt. 271, Franklin Township, NJ 08688",2797935,5,6.0,4978,3.43,1965,Townhouse,For Sale
+0882456d-196a-4a8b-8b9d-c1918a40d450,"7804 Young Field, Lawrenceville, NJ 07675",2626155,4,6.0,5448,4.02,2022,Condo,For Sale
+cf46ffa9-02d6-41d1-9c89-79d76313e074,"700 Angela Glens Apt. 370, Hopewell, NJ 07522",1411344,6,5.0,4212,0.98,1943,Townhouse,For Sale
+2764904c-6122-4c7e-a17f-42d8222708cf,"514 Garcia Junctions Apt. 258, Woodbridge, NJ 07003",2488941,3,3.0,4232,2.74,1999,Single Family,For Sale
+703ba626-2aa1-4c63-9f25-cff55b5f2a6f,"56182 Brandon Throughway, Hillsborough, NJ 07187",779749,4,5.0,2917,1.83,1957,Condo,For Sale
+3272868c-c234-4612-9224-76f26cdef9dd,"40363 Boyer Junction Apt. 436, South Brunswick, NJ 07796",950719,2,2.5,1733,2.84,1973,Single Family,For Sale
+4cdcf675-861f-4a40-b5f9-28db28dc04f7,"535 Scott Extension Apt. 329, Hopewell, NJ 08040",2990329,3,3.5,4903,2.05,1943,Townhouse,For Sale
+c66377df-3f00-4e13-a69d-6ac90c8908ba,"07802 Lutz Springs, West Windsor, NJ 07846",3785013,5,4.5,5865,2.07,1976,Multi-Family,For Sale
+b00b19d5-e570-41df-ab17-a2762e14b376,"2728 Gutierrez Canyon, West Windsor, NJ 07229",771593,4,2.0,2849,2.88,1943,Multi-Family,For Sale
+80d5da40-ff62-4f11-8fc0-caf5e394cf74,"297 Chen Viaduct, Edison, NJ 08874",1790930,5,3.5,4320,2.18,1979,Multi-Family,For Sale
+e1c71c7c-ac27-4e17-9cdc-28b83eb6794a,"51333 Joseph Well Suite 274, Hillsborough, NJ 07038",1945648,4,5.0,4008,2.69,1971,Single Family,For Sale
+69c60e20-e221-43bf-864e-0d58c3ecb495,"958 Greene Circles, New Brunswick, NJ 07080",674953,3,3.0,2001,1.3,1952,Single Family,For Sale
+ae09f316-a106-44d8-a4bd-c09628e873d0,"648 Javier Ports, West Windsor, NJ 08258",3175530,3,3.5,4459,1.79,1990,Single Family,For Sale
+47a5f650-2f17-47ec-bdcc-7097e163eba8,"0573 Moore Keys, Plainsboro, NJ 08238",2366349,5,3.0,4630,3.08,1962,Single Family,For Sale
+2f3dbfb2-b618-4296-a23b-1d0b0ae299ff,"14351 Donald Via Suite 525, West Windsor, NJ 08374",3181925,7,3.0,5572,2.87,1992,Single Family,For Sale
+a9c5dadf-9694-40e9-804e-f39d555b9789,"6182 James Plaza, Bridgewater, NJ 08556",1107452,2,2.0,2444,0.79,1984,Single Family,For Sale
+a47dfe11-40c7-4916-bbdb-41b4424de584,"54039 Ferguson Squares, Princeton, NJ 08775",773582,5,2.5,3046,1.95,1956,Single Family,For Sale
+659edafb-b411-4d66-bb09-32c149593005,"27557 Carl Forges Suite 293, West Windsor, NJ 07487",3301779,6,3.5,4956,4.17,1964,Townhouse,For Sale
+da54809b-bb67-49b8-b791-70730c03a808,"6786 Weeks Common, East Brunswick, NJ 07838",3571916,7,5.0,6088,3.0,1995,Single Family,For Sale
+cb525c60-4681-450a-bfe9-0db22db1f340,"2945 Estes Knoll, Woodbridge, NJ 08349",3215180,3,4.0,4507,4.54,1971,Single Family,For Sale
+0fdaa147-e94e-4b65-a151-eb34c96c66da,"11781 Brittany Parks, Princeton, NJ 07373",3306535,4,5.0,5282,3.81,2013,Single Family,For Sale
+7b21e543-418e-4037-b7bb-9885f3b59d80,"252 Olson Fort, Woodbridge, NJ 08096",3607181,4,4.5,5114,2.2,2019,Single Family,For Sale
+8376fe0b-af8f-4a31-a707-9f941393d41d,"97932 Sanchez Street Suite 652, Hillsborough, NJ 08150",1691896,2,4.0,2960,3.18,1948,Multi-Family,For Sale
+e609f6fb-b7c1-4906-a5c1-3db83139d68b,"4726 Julia Road, Woodbridge, NJ 07974",3469873,5,6.0,5742,1.83,1994,Single Family,For Sale
+6217ae7e-4e5b-430e-85a0-7d023f15e95f,"88141 Blanchard Lights Apt. 839, Bridgewater, NJ 08887",1051171,6,3.0,2979,2.56,1973,Single Family,For Sale
+19e1be84-8695-4d8f-a7d9-a5a337a0dbff,"9956 Patrick Unions, East Brunswick, NJ 08696",3517721,7,4.0,6025,4.13,2003,Single Family,For Sale
+c2ea23e7-caac-4232-ae29-5a7f171d7265,"441 Joshua Key Apt. 768, Hillsborough, NJ 08160",2830383,6,4.0,4933,4.05,2013,Single Family,For Sale
+9c8e9c76-dc0c-4a0c-a0c3-8f779c319707,"27369 David Cove, East Brunswick, NJ 08676",955005,6,3.0,3283,0.5,1940,Townhouse,For Sale
+4b618199-e91b-4512-9516-c8ba02b1a3df,"7570 Walker Overpass, Montgomery, NJ 07370",2810669,3,3.5,4955,3.46,1978,Condo,For Sale
+b97024de-9150-4488-b9b3-2f33e929ee2e,"452 Nguyen Forks, Piscataway, NJ 07622",2657314,3,3.5,4246,1.89,1957,Single Family,For Sale
+3282aa50-ba3b-458a-bd00-a3a5357dcce6,"77410 Gates Landing, Bridgewater, NJ 08642",2335602,5,5.5,5215,4.12,2016,Condo,For Sale
+38df097b-2ab5-4faa-98f6-dcd0e5a8bcf1,"9001 Snyder Port Suite 126, West Windsor, NJ 08405",788810,2,4.5,2979,2.85,1961,Multi-Family,For Sale
+a83592d9-dcf7-4116-8c27-209adf726c2e,"2598 Navarro Falls Apt. 565, East Brunswick, NJ 07026",2241432,3,4.0,3586,2.9,1958,Townhouse,For Sale
+adb59235-4cbf-493b-96b0-9d3fbc889b5f,"291 Smith Prairie, Lawrenceville, NJ 07946",2035570,2,4.5,3947,1.21,1976,Single Family,For Sale
+3e448ff1-06f6-4a16-825c-8af3895b5982,"9864 Taylor River, Bridgewater, NJ 07720",3771152,7,6.0,6402,4.63,1968,Townhouse,For Sale
+21d055b8-8643-4129-857c-26e7964adc6e,"5755 Rebecca Knoll, West Windsor, NJ 08026",3194855,7,4.5,5297,3.5,2009,Single Family,For Sale
+e0621ecf-ff42-4edd-87cc-4ff2461296d5,"059 Maria Cove, Lawrenceville, NJ 08675",2374479,7,4.5,5218,3.3,1974,Multi-Family,For Sale
+f2efdeca-46eb-4c9d-a2dc-4c2d7ba14d63,"5502 Hannah Spur, West Windsor, NJ 07992",2193493,6,6.0,5736,4.19,1947,Condo,For Sale
+5c5bc0d3-f498-4fda-9f64-d0a94d16fcb5,"50716 Rodney Shoals, Piscataway, NJ 08305",3787586,6,6.0,6259,4.72,2019,Single Family,For Sale
+f1ce7e9c-d844-421c-937f-c18a705ecfb3,"10671 Ramirez Radial, Bridgewater, NJ 08727",3014444,4,3.5,4237,3.82,1993,Single Family,For Sale
+4d6803f3-4cb6-481a-89d9-7b011df1a4bd,"743 Stone Roads Suite 015, Franklin Township, NJ 08438",1628845,5,2.5,4381,1.21,1968,Condo,For Sale
+efde171c-4b7a-4aee-84bf-17e484447c34,"4837 Edward Lock, Montgomery, NJ 07796",822906,6,2.0,2747,2.25,1969,Single Family,For Sale
+4d535f49-8a58-47db-b013-5335ced7bfb6,"75621 Lee Gardens Apt. 773, Hopewell, NJ 08457",2491214,7,3.0,4602,1.95,1972,Single Family,For Sale
+f9b4f378-6ae1-41a5-9661-522fb8c99ca0,"682 Brady Crossroad, Lawrenceville, NJ 08496",2383128,5,3.5,4285,3.72,1940,Townhouse,For Sale
+5fe93421-16ad-4652-b549-2c31dc903487,"24918 Deleon Key Apt. 398, New Brunswick, NJ 07464",1337287,5,3.0,3402,1.32,1963,Single Family,For Sale
+d95ebe19-1d9c-46c9-8614-d84c759a19e8,"015 Nixon Station, Franklin Township, NJ 08222",3798410,3,5.0,4909,3.79,1993,Townhouse,For Sale
+2e59fb57-dc9f-4bb7-838c-ab5cce24a305,"752 Smith Mount, Piscataway, NJ 08108",3295807,4,6.0,5324,2.89,1998,Single Family,For Sale
+4f0d19f6-de28-4cdd-b62f-4bdfd077a77c,"2187 Anna Fork, Lawrenceville, NJ 07738",1677118,6,2.5,4530,2.43,1961,Condo,For Sale
+c62b2b88-1bdc-432a-99d9-9ea2cf9865f6,"48569 Dave Ranch Suite 899, West Windsor, NJ 08349",2522394,5,4.5,5781,3.65,2011,Condo,For Sale
+f4a9af93-476c-4414-80fa-21005996f580,"69486 Stewart Hills, New Brunswick, NJ 07483",2304063,5,4.5,4478,2.02,1991,Single Family,For Sale
+1bd8c222-a06b-45f0-8699-b254e377da99,"79064 Carrie Inlet, Plainsboro, NJ 07380",2688471,5,3.5,5116,3.5,1996,Condo,For Sale
+a3a45849-d39e-4f17-b1cb-65611a7fb4f0,"0156 Jackson Pine Apt. 806, Plainsboro, NJ 08946",2593238,5,4.0,4621,2.03,1954,Single Family,For Sale
+31ac911e-5f35-4842-9500-d54a99004a96,"99561 Joseph Shoals, Hillsborough, NJ 08502",3556683,7,6.0,6537,4.73,2002,Single Family,For Sale
+373644be-d371-4d42-86f3-0341f51792d9,"0037 Melissa Fork Suite 990, West Windsor, NJ 08028",1850376,5,5.5,3640,2.55,1965,Single Family,For Sale
+b36e9461-3201-4865-8014-b5f07fa1db25,"821 Jessica Streets Suite 178, New Brunswick, NJ 08606",706325,6,2.0,2595,2.77,1966,Single Family,For Sale
+5cf2ffe7-283e-4034-ba3a-dfa073ba894b,"17370 Pruitt Via Suite 263, Hopewell, NJ 08576",3427009,4,6.0,5668,4.35,1999,Single Family,For Sale
+4cd78059-000d-4db2-b576-2855dfd1ee9b,"5661 Miller Estate, Hopewell, NJ 07479",2103350,2,5.5,3171,1.96,1995,Single Family,For Sale
+9ba735ae-849e-4541-b539-017fb3dda527,"75382 Green Village Suite 535, West Windsor, NJ 08165",3122329,4,5.0,5005,1.78,1979,Townhouse,For Sale
+29cf9f03-92ca-4e3b-bba7-cc25b7a4cf32,"653 Cassidy Junctions Suite 991, Montgomery, NJ 07034",1323223,2,2.5,2555,1.84,1950,Single Family,For Sale
+5f015240-274e-48ec-b57a-460d7da99b00,"55984 Cooper Island Apt. 049, Hopewell, NJ 08543",3852746,6,4.0,5683,3.72,2019,Townhouse,For Sale
+2b9d57b2-0a41-4f18-9fc3-1a90485f4960,"7729 Sandoval Court Suite 111, Bridgewater, NJ 07878",2302847,6,5.5,5188,3.05,2006,Single Family,For Sale
+15b6a257-bdb2-4468-bf72-fbe7f8286ac3,"3939 Laura Harbors Suite 540, Princeton, NJ 08258",1613248,5,2.5,3659,2.6,1982,Single Family,For Sale
+f3fb9b4a-0888-4132-bafa-e12ba12b2f01,"1742 Joshua Fall, Hillsborough, NJ 07101",2538006,6,3.5,4515,3.01,1968,Townhouse,For Sale
+22e16e0b-d1c1-4110-99c0-3e01beb08473,"993 Kristin Station Suite 622, South Brunswick, NJ 08118",2531034,6,6.0,4616,1.79,1987,Single Family,For Sale
+f66daa11-d299-49b9-94d7-028f4e22f378,"76620 Steven Via Suite 462, Hopewell, NJ 08139",2636279,6,5.0,5315,2.47,2020,Townhouse,For Sale
+7185b404-73d2-4b58-b131-7f5bad239986,"0922 Delacruz Garden Apt. 358, New Brunswick, NJ 07101",2226821,6,5.5,4629,3.45,1974,Single Family,For Sale
+8e757b1a-2459-4a53-8692-7f2eaeaa8a05,"91554 Jones Lodge Suite 102, Hopewell, NJ 07620",3856105,6,5.0,6729,4.11,1994,Single Family,For Sale
+9cf7531e-1fb0-4d7a-b704-d43b0bb345e4,"81489 Smith Ridges Apt. 165, Hopewell, NJ 08929",1866977,6,4.5,4696,1.27,1959,Single Family,For Sale
+b517c461-a587-4fe1-a79c-fb2baf39fe5e,"34058 Atkinson Mountains Apt. 816, Piscataway, NJ 07433",3704788,3,5.5,5520,4.48,2013,Single Family,For Sale
+43454a44-5419-4616-a0c0-c5c553534608,"62203 Frye Rue Apt. 284, Montgomery, NJ 07538",1632691,2,3.5,2799,3.3,2009,Single Family,For Sale
+70f2e8d1-509b-4f87-b59b-3961050d41dd,"24876 Fitzpatrick Land Apt. 826, West Windsor, NJ 07031",3743688,7,5.0,6666,2.73,1943,Single Family,For Sale
+6499ab30-8b6e-45f5-9bc7-e09078d2ff17,"006 Eugene Path, Lawrenceville, NJ 07985",816223,5,3.5,2716,2.68,1956,Single Family,For Sale
+adc82e6e-078c-409b-bd69-3b70c092e7f8,"450 Brown Village Apt. 895, Princeton, NJ 08890",3775300,7,5.5,6912,4.09,1996,Single Family,For Sale
+e15bfabe-a4a3-43fb-b5e7-5001d0f7c7c4,"24806 Short Ridge Suite 763, Piscataway, NJ 08922",3546217,7,3.5,5956,3.85,1988,Single Family,For Sale
+4ce03e3b-f076-4983-9270-b270a46c5ab4,"9720 Miller Loaf Apt. 173, Woodbridge, NJ 07687",1578217,3,5.5,3814,0.87,2007,Single Family,For Sale
+57648d53-45f0-4353-8aee-43fad47c2249,"546 Richard Common Suite 169, Franklin Township, NJ 07014",1813096,4,3.5,4060,3.06,2012,Single Family,For Sale
+c0cfb8e0-b537-456e-80b4-b096ea57fc9e,"4517 Vance Shoal, Hopewell, NJ 08527",794535,2,5.0,2638,1.47,1962,Single Family,For Sale
+e7d4ad76-db09-4603-81da-5c942008a986,"756 Kevin Valley Apt. 775, Bridgewater, NJ 08328",1878887,5,5.0,4163,1.57,2007,Single Family,For Sale
+f3c110fc-4170-415f-9cea-12fcb1633573,"025 Angela Spring Suite 603, South Brunswick, NJ 08728",787625,5,3.5,2978,1.61,2018,Single Family,For Sale
+a8bd228a-3e7a-49b3-9356-9f385e0fdcd5,"141 Tara Stream Apt. 562, Piscataway, NJ 08562",773190,6,4.5,4018,2.37,1973,Condo,For Sale
+1c018409-ac8f-4ba4-a4ae-fd2030df6b0e,"274 Michelle Orchard, Montgomery, NJ 07381",1221920,4,2.5,2547,3.03,1979,Single Family,For Sale
+0688f6fa-2044-4e39-8b4c-da99eb8577bc,"338 Matthew Corner, Montgomery, NJ 08157",3815008,6,3.5,5647,2.82,2011,Single Family,For Sale
+b47cfcf9-764e-467b-ae74-ed83b28afb4d,"0772 Howard Causeway, Woodbridge, NJ 08451",3384740,4,4.5,5010,3.19,2017,Townhouse,For Sale
+120da72d-4198-4d6e-9c10-345b725938b6,"860 Juan Plains, Plainsboro, NJ 08084",3223155,4,3.5,4648,2.18,1988,Townhouse,For Sale
+d164f4e3-45de-4d76-9310-2b140fd34e82,"6658 Matthew Trail Suite 835, Montgomery, NJ 07807",1462069,2,5.5,3514,2.45,1946,Multi-Family,For Sale
+3903ee28-3760-438b-81bb-ed795945845e,"46196 Michael Canyon Suite 238, East Brunswick, NJ 08592",731546,2,3.0,2829,0.84,1975,Single Family,For Sale
+bc7b2457-740b-4549-a9b5-a50e3412666e,"4599 John Lane Suite 713, East Brunswick, NJ 07978",1900003,6,4.0,3930,1.8,1976,Townhouse,For Sale
+314aa133-9cfe-45ee-ba05-77be2c51da8e,"64416 Chloe Knolls Apt. 334, Bridgewater, NJ 08300",2278163,6,5.5,4685,1.91,1966,Multi-Family,For Sale
+921fa089-5952-4373-a485-ae26ca2a8a30,"772 Simpson Ferry Apt. 461, Hillsborough, NJ 08433",2902206,5,4.5,5747,3.99,1987,Single Family,For Sale
+d20006de-764f-41af-ae89-8e62c09713ec,"272 Leslie Square Suite 285, Hopewell, NJ 07781",3893560,7,4.0,5821,3.95,2016,Single Family,For Sale
+94b7fd4c-ac91-4be7-a1a1-77927913b40c,"14274 Dillon Plaza, East Brunswick, NJ 08825",2306413,4,4.5,4312,1.74,2011,Single Family,For Sale
+45d6d53a-9934-4033-9541-ce6015c51ac9,"8954 Jennifer Dam, New Brunswick, NJ 08906",1786521,3,3.5,3898,1.65,1971,Single Family,For Sale
+4b55a4dd-475c-46dd-91c8-dae69485ac19,"8822 Phelps Point, Franklin Township, NJ 08331",3378737,4,6.0,5701,2.65,1974,Townhouse,For Sale
+f75d5fc7-7c0e-4416-bfbf-c987601a0ee3,"44161 James Court Apt. 922, Lawrenceville, NJ 07240",2919495,6,3.5,4491,1.62,1970,Single Family,For Sale
+3a88e562-f132-4b92-a9d7-81f34283b5c2,"92068 Charlene Ports Apt. 810, Princeton, NJ 08636",1673973,6,3.5,3963,1.95,1990,Single Family,For Sale
+c5f09c41-36e9-4430-929b-07bb4382fbe0,"30786 Melissa Inlet, Montgomery, NJ 07530",1506691,3,5.0,3156,0.95,1952,Townhouse,For Sale
+0ac3c029-46cc-4b04-91de-eeef163d96ea,"47414 Banks Dale Suite 054, West Windsor, NJ 08714",1788904,5,3.5,5236,1.55,2020,Condo,For Sale
+bba465fa-96b4-4190-9b88-5b4524a5f853,"689 Michael Crossroad Apt. 919, New Brunswick, NJ 07504",2922400,3,3.0,4160,1.53,2010,Single Family,For Sale
+ac01b952-661c-4e32-8941-5b794c29ebc7,"95695 Lane Burgs, Hopewell, NJ 08745",1114424,5,4.5,3482,3.04,1951,Single Family,For Sale
+52844af1-4d30-4fa0-b6f6-147a4f05660d,"61287 Young Drive, Plainsboro, NJ 07732",3585489,7,6.0,6347,3.39,1964,Single Family,For Sale
+156ab544-ecab-42a9-9086-9e9245e721a6,"57307 Karen Lakes Apt. 186, Montgomery, NJ 07873",722234,6,3.5,2999,2.09,1983,Single Family,For Sale
+86eb44d7-759f-43f7-b474-f62e7e2cddd1,"128 Charlotte Ferry, Bridgewater, NJ 08917",1793282,6,2.5,3422,0.88,1956,Single Family,For Sale
+771a7913-06c4-435d-8c14-b9a7cff90b47,"1494 Miller Club Suite 890, Piscataway, NJ 08206",698753,3,2.0,2279,0.77,2019,Townhouse,For Sale
+b10069e5-fb96-4782-abb9-6c5557f3d6f8,"422 Dominguez Plains Apt. 125, Plainsboro, NJ 08074",1700170,3,5.5,3676,0.77,1975,Single Family,For Sale
+d714efa7-8a26-4ca4-948c-0d4c57779fcc,"222 Stacey Islands Suite 963, Montgomery, NJ 08653",1142806,2,3.0,2683,0.94,1956,Townhouse,For Sale
+c04536d2-7619-44ca-a87d-5138d36aeb07,"1491 Smith Hill, Piscataway, NJ 08079",3265262,6,3.5,5234,3.18,2015,Townhouse,For Sale
+ce45d6e9-cb03-4b3a-85f0-f2b2621a8b4e,"717 Thomas Well, Hillsborough, NJ 07297",3362643,3,5.5,5184,1.73,1980,Single Family,For Sale
+12de8d55-4153-458b-9d8f-c00c4e765b45,"2715 Hayes Camp Suite 461, Woodbridge, NJ 08261",1371407,6,4.5,3928,2.82,1982,Single Family,For Sale
+86de8b38-4b67-471f-870c-6ca834946543,"2631 Stephanie Course Suite 773, West Windsor, NJ 07090",3708936,4,6.0,5355,2.6,1962,Single Family,For Sale
+2dec71b7-db26-45b4-bb90-1315f48ef871,"3029 Chavez Rapid, Plainsboro, NJ 07533",966469,6,3.5,3415,1.3,1983,Single Family,For Sale
+21d818c0-350f-48fc-ac61-b30961c20a4d,"5462 Bradley Cliff, East Brunswick, NJ 08757",756963,3,4.5,2831,2.59,2014,Multi-Family,For Sale
+1cc2014e-b225-4b08-abe4-6dc93de534e2,"63658 Stephen Prairie Suite 784, Franklin Township, NJ 07784",1788819,5,4.5,4337,3.16,1963,Single Family,For Sale
+9327a260-dfad-48ac-a8a4-1e04a45b761e,"04649 Monica Orchard Apt. 125, Lawrenceville, NJ 08439",3259573,5,6.0,5718,4.25,2007,Townhouse,For Sale
+a9dc4d36-03e2-44b8-853f-a2ee75dc378c,"77758 Molina Streets, Woodbridge, NJ 08613",2330735,3,4.0,3864,1.55,1961,Single Family,For Sale
+798015e4-555f-43d2-bc29-be65ad14e259,"2483 Thomas Port, Edison, NJ 08933",2851218,3,6.0,5094,3.87,1967,Multi-Family,For Sale
+99a3f435-6f69-4759-812e-016055e3e1a6,"9486 Walter Isle, Bridgewater, NJ 07470",3536637,6,5.5,5835,2.66,1993,Single Family,For Sale
+014dbcb8-dc46-450d-beb9-194a8ff0c935,"436 Robert Knolls, Bridgewater, NJ 08405",3893099,4,6.0,5852,4.85,1994,Single Family,For Sale
+a89093f1-2c07-4943-8edb-f616e5ba65eb,"38131 Dixon Track Suite 082, Hopewell, NJ 08402",1152468,3,3.5,2801,3.26,1972,Single Family,For Sale
+dacbd737-3432-4130-88a6-b028ce788dc1,"473 Carroll Glen Suite 222, Plainsboro, NJ 07216",1073185,4,5.0,3197,2.61,1974,Single Family,For Sale
+a60d084d-0e0d-47e8-abd6-786a5530d056,"5072 Gina Loop Apt. 471, Princeton, NJ 08951",3367031,6,5.5,5894,4.1,1997,Multi-Family,For Sale
+94da8bd9-2e5d-41a6-b329-094957ace054,"04145 Shawn Stream, Plainsboro, NJ 08085",2435808,6,3.0,4501,2.08,2013,Single Family,For Sale
+e5110225-4721-4f7f-ba9e-b379fbbeeb14,"1530 Hunt Freeway, South Brunswick, NJ 08245",3484964,5,3.5,5431,3.09,1957,Single Family,For Sale
+b6d80472-d28e-4062-ae27-8cba8d333d4a,"8813 Kristi Courts, Edison, NJ 08659",1037056,5,5.0,3049,2.65,1968,Single Family,For Sale
+287bc63c-6770-4853-a871-51db01a71163,"3669 Gardner Wells Apt. 470, Montgomery, NJ 08761",3124701,3,6.0,4555,2.24,1990,Single Family,For Sale
+400011c5-289c-4527-ab0a-e3c79ed6c4a1,"55842 Caitlin Ways, Woodbridge, NJ 07705",2724057,6,4.0,5061,1.51,1997,Single Family,For Sale
+30a3eaca-ecdd-44cb-9d7f-9d68dd145b7d,"95378 Angela Roads Suite 545, Edison, NJ 07188",593100,3,2.0,2162,1.64,1970,Single Family,For Sale
+c5d6bce1-56f4-4b05-904e-768d991cbde3,"148 Jerry Locks Apt. 815, Edison, NJ 07487",1345634,2,5.0,3191,0.94,1979,Single Family,For Sale
+b89c2895-10de-4b41-8911-2bb4afb4f431,"0788 George Mission Suite 951, Princeton, NJ 08550",2022525,3,5.0,4124,2.53,2001,Condo,For Sale
+ca6ee3c1-568a-4442-ba1d-64cf62482c04,"55936 Rodgers Canyon Apt. 401, Plainsboro, NJ 08213",1817195,4,3.0,3327,2.37,1983,Single Family,For Sale
+f6319587-1318-45d6-aa43-f71fdca8f97e,"5930 Amy Park, Edison, NJ 08320",3468021,5,5.0,5561,2.7,2005,Townhouse,For Sale
+d1a19f35-76c8-4345-bf14-fe29b301476e,"334 Lloyd Overpass, South Brunswick, NJ 07634",1559752,6,3.0,3921,3.63,2008,Condo,For Sale
+36a04443-f258-4f88-95ab-41d574c80015,"9891 Zhang Drive, Bridgewater, NJ 08504",3757541,7,4.5,6114,3.31,2002,Single Family,For Sale
+7c6054e2-9bc1-47f6-91a9-36b0940ec0e8,"7115 Melanie Ports, Hopewell, NJ 08341",3752192,3,5.0,5215,4.67,2004,Single Family,For Sale
+74d32e69-9da8-4a01-bf25-44e819764549,"470 Sandra Mount, West Windsor, NJ 07881",3388604,5,4.0,6173,3.4,1985,Single Family,For Sale
+d0f58e04-5def-4c1d-bd34-31f53a324785,"147 Sarah Motorway Apt. 863, East Brunswick, NJ 08324",3266843,7,4.0,5976,2.49,2015,Townhouse,For Sale
+2b2baeca-bf83-4ca2-8edd-e308eab19d3c,"18069 Thompson Trace Suite 689, Woodbridge, NJ 07302",3862969,4,6.0,6090,3.31,1993,Single Family,For Sale
+3afc3596-8cc0-4aaf-abae-69e6f84c8d84,"984 Daniel Curve, Piscataway, NJ 08739",1918442,3,5.5,4136,3.65,2014,Townhouse,For Sale
+21902072-fcaa-4e01-969e-7d43ba9dc88e,"1715 Lutz Light, Montgomery, NJ 08463",3572532,7,5.5,6304,4.63,2018,Single Family,For Sale
+be00f47a-0508-4d12-9de1-e321a3f0b034,"01643 Anderson Road, Hillsborough, NJ 08084",2679025,3,3.5,5497,3.93,2001,Condo,For Sale
+a5e6a726-588e-4977-b4be-c3ca6db37f2e,"1364 Erica Ferry Suite 789, Bridgewater, NJ 08166",3647186,5,4.0,5259,2.33,1954,Single Family,For Sale
+03218bbf-1f79-49a6-82c8-01a247e79a58,"4255 Carolyn Road, South Brunswick, NJ 08153",1681285,2,5.5,3454,3.59,1961,Single Family,For Sale
+b5ae6e19-140e-47f9-aa59-a2c05ef57be6,"60284 Ortega Roads Suite 432, Montgomery, NJ 08291",851149,4,3.5,2751,0.43,1950,Single Family,For Sale
+329094b3-f3ec-4c3a-87d1-027bd34a4bed,"2787 Delgado Tunnel, New Brunswick, NJ 08297",1274522,4,3.0,3294,3.41,1963,Condo,For Sale
+9141caa9-aa03-42b9-9b39-ecbbc9124b33,"384 Beard Ford Apt. 433, Hillsborough, NJ 07270",3139505,4,3.5,5006,4.3,2002,Single Family,For Sale
+2edb20ea-81bd-411b-9d03-6bd731f4714f,"6572 Anthony Falls Apt. 453, Woodbridge, NJ 07985",3820843,5,4.5,6141,4.75,2025,Townhouse,For Sale
+f7aa3b2c-dfa9-4cae-8ded-5eec979fd01c,"82550 Brown Avenue, Bridgewater, NJ 08913",3347883,3,4.0,4974,3.0,1985,Townhouse,For Sale
+e43437e9-1a1f-4387-bd7f-6ec091e4dc8a,"2942 Juan Alley Apt. 587, Woodbridge, NJ 07294",3125396,4,3.0,4612,2.29,2007,Single Family,For Sale
+dbc92d88-b861-45e8-9bdc-d080595ae685,"8450 Miller Land, Edison, NJ 07015",3307193,3,4.5,5134,4.14,1965,Multi-Family,For Sale
+9280036c-cabf-4f24-a828-bfbfe1cb4a01,"79875 Lauren Wells, South Brunswick, NJ 08420",1261746,4,4.5,3966,2.68,1973,Condo,For Sale
+1e86de2e-0daf-430b-952e-d44108f0ff2b,"44858 Graves Isle, Edison, NJ 08046",1170421,6,3.5,3585,1.86,1951,Single Family,For Sale
+9eb608b9-9189-44ae-8b6f-82b2aa30a232,"73342 Kelly Rue, Woodbridge, NJ 08921",1595075,3,3.5,3651,0.7,1995,Single Family,For Sale
+76138797-d972-49d4-ac2b-ff464d4fb42b,"120 Henderson Centers, Hillsborough, NJ 07301",686982,6,4.0,3163,1.26,2018,Multi-Family,For Sale
+8c06f8ac-fca1-40c3-80be-edd7622cf3e1,"0292 Daniel Shoals Apt. 321, East Brunswick, NJ 08882",3131202,4,3.5,4774,2.16,2016,Single Family,For Sale
+ac39de7e-9c65-449f-a5d3-189dd641bd49,"505 Gilbert Streets, Lawrenceville, NJ 07519",1466273,6,5.5,3601,1.56,1962,Single Family,For Sale
+b2342872-cd78-42c8-a579-befcf041e6f7,"49957 Williams Fords, Hopewell, NJ 07956",3094608,7,4.0,5695,2.54,1993,Single Family,For Sale
+1597d45f-3e00-4d86-bd5b-2de2044700bb,"7723 Matthew Land Apt. 169, Montgomery, NJ 08028",2935974,5,4.0,5960,3.22,2011,Condo,For Sale
+8b36188c-326a-4ea3-9247-78603f90c610,"690 Sherri Coves Suite 629, Plainsboro, NJ 07954",1811681,4,5.5,4267,1.52,1973,Single Family,For Sale
+cc438dc4-5447-4204-ad6c-8007c5045ec2,"1837 Bishop Causeway, Bridgewater, NJ 07714",3129403,7,5.5,5605,2.01,2009,Single Family,For Sale
+57f05759-e091-44f0-b345-a44a20efb889,"16615 Weber Cape Apt. 246, Woodbridge, NJ 08537",2484792,5,5.0,4732,2.21,1984,Single Family,For Sale
+deec3231-fcab-47e5-a39d-70ce92083478,"223 Washington Freeway, Edison, NJ 08297",2535376,7,4.0,5330,2.1,1961,Single Family,For Sale
+aa22efaf-dcf4-424c-bdfe-07a67a4742c3,"404 Turner Circle, Montgomery, NJ 08311",3466599,6,4.5,4931,4.51,1990,Single Family,For Sale
+e93a931e-1b97-4793-be9a-9712668f32c7,"0984 Betty Flat Apt. 226, Montgomery, NJ 07196",1662052,4,4.0,3785,3.19,2011,Multi-Family,For Sale
+dc384216-9631-482c-adda-a65bbe8c9967,"93058 Cheryl Brook, Piscataway, NJ 07389",3013512,3,5.5,5028,2.65,1994,Single Family,For Sale
+490b8ed1-f5c0-4eab-a2f5-b77f393c2721,"33926 Ellis Common, Hopewell, NJ 07515",3771031,4,5.0,5789,2.46,2017,Townhouse,For Sale
+ec90f1e7-507f-4726-b3d8-e6750e69f271,"503 Walsh Ways, East Brunswick, NJ 08639",2592562,6,3.0,4551,2.67,1941,Single Family,For Sale
+2d8c94b5-05be-4c0b-a111-1cf5660f6fd5,"49375 Daniel Path Suite 751, Plainsboro, NJ 07238",2835729,4,6.0,4738,1.47,1968,Townhouse,For Sale
+da5a3c97-ff6e-41f5-8736-f763b9c7d073,"3300 Kimberly Mount Suite 975, Edison, NJ 07306",614735,2,4.0,2367,2.78,1982,Single Family,For Sale
+570a5f9c-ddcc-4db2-af94-8883fdad00b1,"0282 David View Apt. 829, New Brunswick, NJ 08605",2995545,4,4.0,4541,2.43,2009,Single Family,For Sale
+efb9a70a-0fef-4997-bfd9-d1ab9bdab912,"0025 Mitchell Crescent Suite 244, Montgomery, NJ 07856",2464472,7,3.5,4799,3.69,1957,Single Family,For Sale
+30686cd7-10bf-4efc-9a01-4fd5b5d14565,"78746 Regina Dam Apt. 631, Edison, NJ 07891",1241692,2,4.0,2893,1.84,1953,Single Family,For Sale
+d344d845-02d7-4026-b89e-8fc04a4e807d,"8807 Anderson Springs Apt. 917, Bridgewater, NJ 08593",1515738,2,4.5,2835,2.08,1943,Single Family,For Sale
+3c5023df-a084-47e8-ad37-e24860779478,"2320 Moss Loaf, Princeton, NJ 08689",2584962,7,5.5,6496,3.5,2022,Condo,For Sale
+b7673e97-39b9-4fa2-9078-d56e1dcb226c,"5892 Lawrence Point, Hopewell, NJ 08847",3982099,4,4.0,5048,4.18,1947,Multi-Family,For Sale
+95052305-4d13-479f-acda-75a501caa4a7,"430 Tristan Route, Woodbridge, NJ 07122",2543811,5,5.5,4267,2.59,2018,Townhouse,For Sale
+fb580343-dd8b-4e8e-9f1c-da8f2c8e116f,"5522 Mcmahon Isle, Bridgewater, NJ 07383",1777145,4,4.5,3800,3.44,2021,Townhouse,For Sale
+5589d735-9d81-4a4a-b3d7-2d13ca45a334,"9307 Teresa Lock Apt. 255, New Brunswick, NJ 08129",1712766,5,5.0,4080,2.43,2001,Single Family,For Sale
+e984d7fe-197e-49e9-8e45-4f28567dedff,"848 Debbie Wall Suite 774, West Windsor, NJ 08742",3202700,3,5.0,5073,4.03,1945,Single Family,For Sale
+2f348d14-1209-4d66-a7a3-71e026a57854,"161 Gerald Alley, Franklin Township, NJ 08218",1249059,2,3.0,3021,2.66,1957,Single Family,For Sale
+39bad833-0091-43ba-a011-992c0015b08e,"80050 Nicole Mills, Plainsboro, NJ 08712",1151958,5,3.5,3551,3.35,1961,Single Family,For Sale
+3e89a7c9-1a33-40e9-bcfc-5f82bf9e6f4a,"96135 Michael Parks Suite 293, Lawrenceville, NJ 07317",3071506,6,5.5,5859,3.67,1998,Single Family,For Sale
+e6538af9-a0bb-4cbd-adc1-346f728ca3f6,"493 Stephen Springs, Lawrenceville, NJ 07730",3562560,5,6.0,5956,3.47,2000,Single Family,For Sale
+263f1af1-9c88-4220-9c4e-8414a86049a4,"9389 Stephenson Locks, Hopewell, NJ 07132",3441828,4,4.5,5631,4.64,1992,Townhouse,For Sale
+d45d35af-2325-4037-a707-c4278fe5f3ea,"8984 Sanders Mountain, Plainsboro, NJ 08117",3683523,7,6.0,6017,4.77,1971,Single Family,For Sale
+a1503ee5-95d6-4b0e-992e-fc665bc4ca83,"348 Brady Ford Apt. 712, Woodbridge, NJ 07370",2012205,6,5.5,4571,3.15,2002,Single Family,For Sale
+19a27e6a-1960-4036-8e3a-df94ee3eec08,"8926 Carrie River Suite 030, Princeton, NJ 08231",1229206,4,5.0,3576,2.32,1976,Single Family,For Sale
+75d90edd-5ad7-42c4-9cde-e195ad1a8232,"588 Steven Roads Suite 568, Hillsborough, NJ 07718",3717480,3,5.5,4994,2.93,1993,Single Family,For Sale
+f389221f-5302-4f79-816a-9750e87080c3,"6309 Palmer Shore Suite 406, Franklin Township, NJ 08619",1924393,5,5.5,3967,1.93,1998,Townhouse,For Sale
+4bd637b6-0acf-42ac-b9d9-474a02883262,"2351 Christopher Ville, Lawrenceville, NJ 08833",2854816,3,5.5,4807,1.56,1948,Single Family,For Sale
+6f0431cb-768f-4978-84ff-0199a8ecba9c,"80445 Michaela Extensions Suite 279, Woodbridge, NJ 08578",3991416,4,6.0,5925,2.31,1998,Townhouse,For Sale
+e9ec277c-70f4-45e6-a87a-fe73e211cdc3,"1208 Burns Stream, Bridgewater, NJ 08856",2193672,6,4.5,4901,1.87,2007,Condo,For Sale
+a21f9f52-ba31-4ff7-a4d7-d7d366db2c2a,"003 Clark Overpass Suite 639, Montgomery, NJ 07292",612086,3,4.0,2020,1.84,1962,Single Family,For Sale
+7e9521ff-b794-4584-9a17-47fd8bfdcff4,"4115 Campbell Plains Suite 564, Woodbridge, NJ 07964",2171999,6,5.0,4760,1.85,2016,Single Family,For Sale
+fb8433f0-ee41-4c36-9b19-8736a875110b,"19850 Patricia Way, Montgomery, NJ 07320",3536690,5,6.0,5624,2.29,1991,Townhouse,For Sale
+a659bc77-d572-4282-9926-c9fd5e914bc4,"2853 Carlos Meadow Apt. 957, South Brunswick, NJ 08669",3458146,6,3.5,6117,4.62,2013,Single Family,For Sale
+879bff04-0807-4f8c-a1a8-7c673a2c1cb1,"73359 Ashley Wall, Edison, NJ 07249",1140733,4,2.5,3072,1.89,1978,Single Family,For Sale
+4b4dfa33-762e-4ee8-853c-22cc8fefe633,"3390 Johnson Mountains Suite 445, Princeton, NJ 08607",1709919,7,3.0,4995,2.08,2014,Condo,For Sale
+b35c7325-5889-4b0e-8a4f-0224e675c3a6,"8720 Krause Mountain, Hopewell, NJ 07743",968932,2,5.0,2655,3.07,1983,Single Family,For Sale
+b53f6d8b-933e-4b57-b169-afb4ad0538ef,"0025 Stephen Roads, Hillsborough, NJ 07303",849823,6,3.0,3035,3.1,1989,Condo,For Sale
+761d09d3-8406-4922-89f5-d6449245eb69,"75285 Kelly Neck, Princeton, NJ 07649",3997212,3,6.0,6026,2.08,2023,Single Family,For Sale
+9aae9d40-91a7-4988-afd8-71251900d343,"991 Chad Parks Apt. 869, New Brunswick, NJ 08476",1293698,6,3.0,3565,0.63,1959,Single Family,For Sale
+3ff7dfcb-b40c-4d2f-95be-11d5f3d05fc1,"697 Johnson Square, Edison, NJ 08225",2326860,5,4.0,3915,3.69,1940,Single Family,For Sale
+112c93e0-4e9d-4909-96ec-dd71b5d74a74,"0130 Stephen Forges, East Brunswick, NJ 08966",2775445,5,6.0,4764,1.4,1970,Single Family,For Sale
+375db667-4f4f-47f2-b6af-a7fa96a644cc,"8070 Jacob Alley Apt. 496, New Brunswick, NJ 07172",3265618,5,5.0,5344,4.55,2023,Single Family,For Sale
+ef01ec77-1df4-400b-be8f-8e70cf84d315,"962 Jonathan Summit Apt. 749, Bridgewater, NJ 07185",2494345,6,4.5,4457,2.3,1941,Townhouse,For Sale
+d13ed623-3cc3-46ca-ae11-02ce448b7980,"8755 Russell Corners Suite 454, Hopewell, NJ 07411",973995,5,2.0,2990,1.94,1950,Single Family,For Sale
+4c1f879d-d788-4937-a847-55fe9451d210,"1176 Scott Circles, Lawrenceville, NJ 08377",1367426,3,3.0,3437,0.97,1971,Multi-Family,For Sale
+47e8df3e-9ef0-4a44-98d0-311a1530a2d5,"760 Gloria Divide, Piscataway, NJ 07646",546948,4,5.0,2803,1.04,1962,Townhouse,For Sale
+0ecb8b0c-2599-4968-92ec-ee8068fbf4e5,"1141 Weaver Mount Apt. 216, Plainsboro, NJ 08402",3714583,3,4.0,5069,3.06,2020,Single Family,For Sale
+de770cc4-bc01-4c40-93cc-6acd24530d16,"4018 Dylan Square, West Windsor, NJ 08900",813181,3,2.0,2490,2.46,1982,Multi-Family,For Sale
+7045f9a5-4180-47d5-ba25-ad6e685cdf9d,"746 Cole Plains, Hopewell, NJ 07756",2824466,3,3.0,4053,2.27,1960,Single Family,For Sale
+cbafd1dc-388f-41ba-aa7a-f843a633c567,"02380 Tracy Estates, Hopewell, NJ 08446",1899270,2,3.5,3205,2.72,2003,Single Family,For Sale
+c009b851-eee1-4357-9e56-968cc265fb73,"063 Wilson Ranch, Hopewell, NJ 07184",1858985,4,2.5,3514,1.26,2012,Townhouse,For Sale
+d1574949-d925-4ede-b175-d00f0d848053,"70743 Malone Canyon, Woodbridge, NJ 08574",3526992,6,6.0,5842,2.32,2015,Single Family,For Sale
+83477434-abc6-47a9-b0a4-8e11dfc232f8,"19713 Melinda Grove, Lawrenceville, NJ 07302",2449863,5,3.5,4550,2.22,1969,Single Family,For Sale
+7c3322a2-0370-42be-9430-8718363b7812,"29822 Zavala Mountains Apt. 273, Lawrenceville, NJ 08019",2222563,5,3.0,4186,1.22,2024,Townhouse,For Sale
+7363a295-2f06-40dd-820b-bc55d0e2c060,"876 Cooley Common, Franklin Township, NJ 08062",2006951,6,5.5,3979,1.79,1978,Single Family,For Sale
+71202d1a-d5f7-4334-8b49-d5af26a76490,"723 Hayden Crossing Suite 060, West Windsor, NJ 07040",1446359,5,5.5,3870,2.7,1963,Single Family,For Sale
+9f11b97c-7fc4-439a-8285-a1f2ef9e4afb,"54151 Williams Turnpike, South Brunswick, NJ 07230",1247903,3,5.0,3623,3.28,2009,Condo,For Sale
+a67619df-5a32-4d22-b791-44ca6d04a5da,"197 Sullivan Knolls, West Windsor, NJ 07625",2798527,5,4.5,5460,3.88,2016,Condo,For Sale
+adb5f0e1-783a-4719-ba48-c34a2dae6b87,"870 Steven Forges, Franklin Township, NJ 07628",2645765,4,3.0,4312,1.65,1987,Single Family,For Sale
+8d0dca69-d51c-4aa4-8d28-c26f183392b9,"349 Flores Islands, East Brunswick, NJ 07014",594696,3,4.0,2230,2.77,1942,Multi-Family,For Sale
+1e30f8f5-9560-4c7e-8dab-f55f00886996,"6669 Anita Motorway, South Brunswick, NJ 07569",1542704,2,5.5,3122,2.61,1951,Townhouse,For Sale
+023f0ffd-c7f4-487d-8bfc-cb0312b3151d,"8555 Pamela Ferry, Piscataway, NJ 07564",1502828,2,3.5,2431,1.1,1941,Single Family,For Sale
+61d37abc-0052-4457-9984-8e644339d80b,"0020 Samantha Dale, South Brunswick, NJ 08630",1076760,4,3.5,3112,3.17,1978,Single Family,For Sale
+8ec38c37-4704-41f4-af5d-7aff71da6b98,"9210 Timothy Passage, Plainsboro, NJ 07968",3750209,7,6.0,6622,2.22,2003,Single Family,For Sale
+56244bb4-3b41-4abe-b2c4-789cb4efbd28,"35662 Nicholas Trail, Montgomery, NJ 07682",941867,3,4.0,3509,1.99,1950,Condo,For Sale
+47f329bb-f45b-4428-b728-c70931c4bb50,"7446 Charles Rest, Woodbridge, NJ 08000",576792,4,4.5,3012,0.94,2022,Multi-Family,For Sale
+409a120f-267d-49e9-a17c-5126f5974721,"06664 Phelps Junctions Apt. 679, West Windsor, NJ 07508",2032828,3,2.5,3721,2.31,2022,Single Family,For Sale
+9ef82f56-f497-41ed-9c62-27ae5ce70304,"83790 Michael Estate, Piscataway, NJ 08200",2200234,4,5.5,3787,2.98,1964,Single Family,For Sale
+c521d50f-670b-416b-a4f3-5cd94331de55,"2897 Pierce Junctions Suite 326, South Brunswick, NJ 08973",2553197,6,3.0,5481,2.07,2016,Single Family,For Sale
+340fa35d-a0ea-418d-9fc1-a097c10340b6,"62327 Long Spur Suite 790, West Windsor, NJ 07566",2387103,6,5.0,5895,4.06,2010,Condo,For Sale
+5e218a2d-a29b-4ce9-8bd0-9b1598036e5a,"7953 Hernandez Dale Apt. 094, New Brunswick, NJ 07712",1518899,4,4.0,3451,2.72,1962,Single Family,For Sale
+7f242737-7ad0-49bf-bb17-5623b72f678f,"71932 Fowler Islands, Woodbridge, NJ 08173",3193233,3,5.5,5739,2.75,2014,Condo,For Sale
+21e32e82-ffca-4b09-9022-abbde90b8fe8,"9487 Anita Walk Apt. 868, Hopewell, NJ 07022",2285904,5,4.5,3627,1.08,1964,Single Family,For Sale
+f64c35a3-441a-4d72-9c2b-af5631879b16,"72752 William Road Apt. 973, Hillsborough, NJ 08125",1117728,3,4.5,2398,0.52,1965,Multi-Family,For Sale
+d94378c4-433d-4e79-a6c1-10c001dcee9d,"01448 Mendoza Radial Suite 814, Princeton, NJ 08664",2800553,3,3.5,4744,3.33,2022,Single Family,For Sale
+052c15b9-3a71-4ab9-85bd-bcd5f00f81ba,"67039 Ashley Mountains Apt. 034, West Windsor, NJ 07604",2158926,5,5.5,4701,1.38,2003,Single Family,For Sale
+a7bd004c-24f2-41ac-b441-ee02189127ce,"04097 Sanchez Overpass Apt. 174, Bridgewater, NJ 08458",3509899,7,4.5,6041,2.32,1999,Townhouse,For Sale
+76975782-b297-4023-a058-d1854438d761,"420 Melendez Prairie, Hopewell, NJ 08215",2019007,4,3.5,3330,3.21,1951,Single Family,For Sale
+c510eb9d-4ed3-4f46-afaf-3192d671314a,"80442 Steven Course, Hopewell, NJ 07111",1999051,6,4.0,4432,1.76,1996,Townhouse,For Sale
+da8b0815-0e34-4b4d-b640-125da199c323,"48671 Carney Branch Suite 139, Hopewell, NJ 07778",2332604,3,3.5,3842,4.04,2011,Single Family,For Sale
+3ff369d6-a75f-46d9-aa88-4417883b8ae8,"0483 Megan Mission, Hillsborough, NJ 07142",2252806,7,6.0,5584,1.15,1974,Single Family,For Sale
+481db651-3998-467a-9127-36d783890838,"3912 Landry Keys Suite 746, Hillsborough, NJ 08980",2197494,5,4.5,4092,1.15,1957,Single Family,For Sale
+7c14bdf9-265e-4803-a68c-c3d1c68217d9,"31130 Amber Stravenue, Woodbridge, NJ 07342",3308783,6,3.5,5902,1.9,1980,Single Family,For Sale
+34f3782d-530c-464a-8b3e-df29520f2c04,"37598 Patel Manors, Montgomery, NJ 07902",3688001,6,5.0,5883,3.8,2003,Single Family,For Sale
+3654e171-b043-4add-b721-761aa4cfe06c,"10877 Julian Throughway, Hopewell, NJ 07475",2396897,7,5.5,4912,3.94,1961,Multi-Family,For Sale
+5ea5ead7-25be-4da6-ba47-f829cf28b14e,"651 Donald Groves Suite 096, Bridgewater, NJ 08760",1960914,3,5.0,3827,2.41,1994,Single Family,For Sale
+3fdf402d-8806-462a-b314-a8ddae5d6a5d,"2170 Mary Ridge, Lawrenceville, NJ 07938",641501,3,3.0,2503,0.22,1992,Single Family,For Sale
+844daaf0-3660-47cd-9db1-ed34c676ceda,"2358 Phillips Road Suite 738, Edison, NJ 08776",3112963,3,6.0,5737,3.28,2015,Condo,For Sale
+84b2bd1a-d76a-4865-b56a-da0620c97c44,"529 Larson Burgs, South Brunswick, NJ 07017",2949977,3,3.5,4445,4.26,2018,Single Family,For Sale
+cb5030de-8ad0-4049-b6da-b660924937d3,"77890 Matthew Terrace Suite 860, Plainsboro, NJ 08223",749779,2,3.0,1658,0.49,1975,Single Family,For Sale
+142f880c-b586-4342-8045-73184aa03a95,"477 James Mission, Montgomery, NJ 07962",1799411,3,5.5,3629,2.75,1956,Multi-Family,For Sale
